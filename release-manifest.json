@@ -57,8 +57,8 @@
     },
     {
       "path": "docs/QUICK_START.md",
-      "bytes": 2406,
-      "sha256": "cb3bef122ced9676b97bcf6b43fe76cb32c8b269ec6fb97bcfef24f0c6d3908b"
+      "bytes": 5194,
+      "sha256": "84c50b663d39df6e6801abcd84724cb0aaf76745aa895f69b40618473c837a35"
     },
     {
       "path": "docs/RESEARCH_STATUS.md",
@@ -162,8 +162,8 @@
     },
     {
       "path": "rights-manifest.json",
-      "bytes": 165311,
-      "sha256": "71420538e6f1bf4c035410a8e0f2311c5762a515f9fb7e5479e5267de84e49a0"
+      "bytes": 165652,
+      "sha256": "ac54a209a1a8cc37cd1af2020c590ac09592224b2fb25e5f5fbd80ee72f1b3d2"
     },
     {
       "path": "skills/r01-requirements/README.md",
@@ -235,5 +235,7 @@
       "bytes": 13030,
       "sha256": "9a3a3f2c97a38c348277680b2017e56f8d2e9c14b8790e3b9ec6dc62fd98d1be"
     }
-  ]
+  ],
+  "packaging_revision": "codex-native-packaging-1",
+  "packaging_baseline_commit": "4dc29f271fe84de0dd3559dc41f079bae44476a4"
 }

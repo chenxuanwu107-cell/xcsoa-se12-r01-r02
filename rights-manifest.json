@@ -623,7 +623,7 @@
     {
       "path": "docs/QUICK_START.md",
       "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
-      "file_specific_basis": "AI-written host-neutral examples and local-check instructions; no host qualification.",
+      "file_specific_basis": "AI-assisted Codex folder-copy instructions, reproducible shell steps and illustrative review requests; existing professional methods unchanged; no native host qualification.",
       "content_parts": {
         "human_original_expression": {
           "status": "NOT_ESTABLISHED",
@@ -632,7 +632,7 @@
         },
         "ai_assistance": {
           "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
-          "scope": "AI-written host-neutral examples and local-check instructions; no host qualification."
+          "scope": "AI-assisted Codex folder-copy instructions, reproducible shell steps and illustrative review requests; existing professional methods unchanged; no native host qualification."
         },
         "inherited_expression": {
           "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
@@ -640,7 +640,9 @@
         },
         "third_party": {
           "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
-          "public_reference_urls": [],
+          "public_reference_urls": [
+            "https://learn.chatgpt.com/docs/build-skills"
+          ],
           "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
         },
         "factual_metadata": {
@@ -650,7 +652,8 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "GIT-BASELINE-IDENTITY"
+        "GIT-BASELINE-IDENTITY",
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -2953,5 +2956,6 @@
     "R3": "Reserved for a confirmed third-party expression/ownership conflict; none identified here.",
     "S2": "PREFERRED_PROPOSED_POLICY_NOT_ADOPTED",
     "G2": "CONSERVATIVE_RESEARCH_PATH_NOT_PLATFORM_SELECTION"
-  }
+  },
+  "packaging_revision": "codex-native-packaging-1"
 }

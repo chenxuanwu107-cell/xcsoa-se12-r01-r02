@@ -1,53 +1,124 @@
-# Quick Start / 快速开始
+# Codex Quick Start / 复制文件夹即可安装
 
-For authorized review now; future operation depends on an adopted license and
-the user's own permissions. This local candidate supplies no new rights.
+**Authorized local review only: HOLD_PUBLIC / LEGAL_REVIEW_REQUIRED.**
+The license candidate is not effective. These steps grant no additional rights;
+retain the source distribution's LICENSE, legal notices and research status.
+Cloud use also needs an applicable cleared configuration; see
+[personal use](PERSONAL_USE.md). No global configuration change is needed.
 
-Pick one skill:
+## Copy one complete folder
 
-- **R01:** original wording → faithful requirements → acceptance intent → next
-  consumer or bounded unknown. No R02 installation required.
-- **R02:** goal/constraints → work boundaries → dependencies/resources →
-  purpose-specific handoff → bounded failure/reopen if relevant. No R01 required.
-
-Provide only authorized material. Include the actual intended use and audience,
-relevant original source/version and existing permissions. Explain a concrete
-decision, not merely “improve everything.” Clear tasks should remain short.
-
-If your assistant supports local skill folders, use its configured location and
-copy the selected directory there. Otherwise explicitly supply its SKILL.md and
-only the references it calls for. Host-specific discovery and model behavior are
-not tested by this repository. Preserve the root LICENSE, legal notices and
-research status when making an otherwise authorized standalone copy; pending
-redistribution rights must be resolved before distributing one to others.
-
-Example R01 instruction:
+Copy `skills/r01-requirements` or `skills/r02-coordination` into your project's
+`.agents/skills/`. Copy both folders to install both. Copy the **whole folder**,
+including references, README, examples and test designs; do not flatten it or
+copy only SKILL.md. Neither Skill requires the other or Xuanwu AI.
 
 ```text
-Use r01-requirements on the following original requirement, revision demo-1:
-“Local-only storage using SQLite; do not send customer data outside this device.”
-Purpose: requirements note for an authorized local draft, not deployment.
-Keep constraints binding, propose refutable acceptance, and identify unknowns.
+your-project/
+  .agents/skills/
+    r01-requirements/
+      SKILL.md
+      references/handoff.md
+      ...
+    r02-coordination/
+      SKILL.md
+      references/handoff.md
+      references/git-evidence.md
+      ...
 ```
 
-Example R02 instruction:
-
-```text
-Use r02-coordination. A candidate is ready for a reviewer, but no tests have run.
-The recipient explicitly wants FOR_REVIEW. Prepare a short handoff and keep
-execution, independent review and consumer acceptance states separate.
-Planning only; no send, command execution or deployment is requested.
-```
-
-The expected approach is documented in the skills' examples. It is illustrative,
-not evidence of output from a model. For static packaging checks, from this
-repository's root run:
+The following shell commands do the same copy. Replace both example paths.
+Start with an absent destination; if a guard fails, stop and review the existing
+installation rather than merging versions. Use real project directories; stop
+if `.agents` or `.agents/skills` is a symlink. The destination guards also reject
+symlinks.
 
 ```bash
-python3 -B tools/check_release.py
-python3 -B -m unittest discover -s tests -v
+cd "/path/to/your-project"
+xcsoa_source="/path/to/xcsoa-se12-r01-r02"
+test ! -L .agents && test ! -L .agents/skills && mkdir -p .agents/skills
 ```
 
-No network or dependency installation is required by those checks. They inspect
-this repository and its local Git objects, not your project or customer data.
-The method tests remain NOT_RUN even when these commands succeed.
+R01 alone:
+
+```bash
+test ! -e .agents/skills/r01-requirements && test ! -L .agents/skills/r01-requirements && cp -R "$xcsoa_source/skills/r01-requirements" .agents/skills/
+```
+
+R02 alone:
+
+```bash
+test ! -e .agents/skills/r02-coordination && test ! -L .agents/skills/r02-coordination && cp -R "$xcsoa_source/skills/r02-coordination" .agents/skills/
+```
+
+For a combined installation, run both copy commands in the same project.
+Do not run them again over an existing installation. Installed folders are
+copies, not a second maintained source: change the source distribution and
+replace an old local copy deliberately when updating. Project-local copies
+avoid changing the user's global Skill set.
+
+## Discover, then invoke
+
+From that project, start the normal Codex CLI:
+
+```bash
+codex
+```
+
+Enter `/skills` **inside Codex**, not in the shell. Confirm the selected names
+and project-local paths appear. Then type `$` to select a Skill, or begin the
+request with `$r01-requirements` or `$r02-coordination`. Open the same project
+in the desktop app if using that surface. If changes do not appear, restart the
+session and check the project path and duplicate names. Do not change global
+permissions to work around a failed initialization.
+
+This layout and invocation syntax follow the official
+[Build skills](https://learn.chatgpt.com/docs/build-skills) documentation.
+YAML `name` and `description` are already present. `agents/openai.yaml` is
+optional; no extra metadata, adapter, dependency installation or method copy is
+needed for this packaging.
+
+## Minimal review requests
+
+Enter these as **Codex chat text**, after successful discovery. They are test
+requests and expected properties, not recorded model outputs.
+
+```text
+$r01-requirements
+Original request, demo-1: an offline inventory tool must use SQLite and never
+upload customer records. Draft a short requirements note. Retention duration
+is undecided. Ask only what changes the decision. Do not edit files or execute.
+```
+
+Check that offline, SQLite and no-upload remain binding, retention is not
+invented, clarification stays focused, and no execution is claimed.
+
+```text
+$r02-coordination
+Prepare a FOR_REVIEW handoff for two independent verification jobs sharing
+one exclusive device controlled by the existing Operator. Planning only.
+Evidence A: a test is designed; no invocation or output exists.
+Evidence B: a supplied run record has raw output "4 passed" and exit 0.
+Evidence C: a supplied run record has raw output "expected false; actual true"
+and exit 1. Distinguish TEST_DESIGNED, TEST_EXECUTED and TEST_FAILED without
+running anything, inventing a defect cause or claiming verification yourself.
+```
+
+Check independent work packages, device sequencing and the review-only handoff.
+A is TEST_DESIGNED / execution NOT_RUN; B has supplied execution/pass evidence;
+C has supplied execution/failure evidence. These records do not authorize a
+rerun, repair or deployment, and supplied transcripts are not the assistant's
+own executed tests. A simple request should still receive a simple answer.
+
+## Actual verification limits
+
+Complete-folder copying, frontmatter and relative-reference checks were run in
+fresh R01-only, R02-only and combined projects. These are packaging checks.
+The maintainer's native CLI still exits before initialization in the current
+restricted environment; `/skills`, explicit invocation and new model behavior
+are **NOT_RUN**, not compatibility PASS. No new professional qualification is
+claimed by these instructions.
+
+R01 W8 remains **HUMAN_FREEZE_PENDING**; R02 FR1 remains
+**FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE**. Original behavior designs remain
+NOT_RUN. The separate historical local smoke does not certify native Codex use.
