@@ -105,7 +105,7 @@
     {
       "source_id": "R01-W3-DELTA",
       "title": "R01 minimal method delta candidate",
-      "version": "2026-10-11.v0.1.CANDIDATE",
+      "version": "W3 minimal method delta candidate; no separate dated revision asserted beyond exact hash",
       "sha256": "e15eda8811f449da14f39bd8b3a944efb66ae9f8e6d839f1f5d4f77c7089da7a",
       "bytes": 17266,
       "verified_from_original_archive": true,

@@ -95,8 +95,8 @@
     },
     {
       "path": "provenance/SOURCE_LEDGER.json",
-      "bytes": 10760,
-      "sha256": "1b87a6fd1889ba6801aaa6a00adb5931328f7faa5799179dee33fa2e35950e85"
+      "bytes": 10823,
+      "sha256": "c0ad5bf5d1a21b911d8db7a209c4a9a8ab6b4c3a12516c0fb410b06bccf9aa76"
     },
     {
       "path": "reports/RELEASE_AUDIT.md",
