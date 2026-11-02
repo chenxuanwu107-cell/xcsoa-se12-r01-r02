@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "revision": "prepublication-1",
+  "revision": "prepublication-2",
   "status": "RIGHTS_NOT_FULLY_CLEARED",
   "actual_licensor": "UNCONFIRMED",
   "no_current_grant": true,
@@ -10,7 +10,8 @@
     "TASK-GENERATION-OBSERVED": "Observed assistant-generated release text/code/metadata in this task and preserved local history; AI assistance is not title.",
     "GIT-BASELINE-IDENTITY": "28f39029d788044d31bcc105624acd06e5b6bad3 identifies bytes and task history, not authorship or assignment; new files are observed in this revision.",
     "SOURCE-BYTES-REVERIFIED": "20 selected source members rehashed read-only; public identities in provenance/SOURCE_LEDGER.json; private custody not distributed.",
-    "PUBLIC-SOURCE-CITATION-NOT-TITLE": "File-specific official URLs and paraphrase scope; not a grant to relicense sources or proof of actual account terms."
+    "PUBLIC-SOURCE-CITATION-NOT-TITLE": "File-specific official URLs and paraphrase scope; not a grant to relicense sources or proof of actual account terms.",
+    "CURRENT_LOCAL_TEST_RECORDS": "Frozen input/oracle, actual isolated MLX outputs and startup failures, private logs/hash records; not a source-rights or legal clearance."
   },
   "files": [
     {
@@ -65,7 +66,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
+        "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "CHANGELOG.md",
@@ -119,7 +126,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "CONTRIBUTING.md",
@@ -174,7 +187,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "FILE_LIST.md",
@@ -228,7 +247,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
+        "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "LICENSE",
@@ -283,7 +308,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "README.md",
@@ -338,7 +369,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "README.zh-CN.md",
@@ -393,7 +430,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "SECURITY.md",
@@ -451,7 +494,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "docs/COMBINED_EXAMPLE.md",
@@ -510,7 +559,66 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
+    },
+    {
+      "path": "docs/PERSONAL_USE.md",
+      "identity_binding": "release-manifest entry; final commit binds integrity manifest itself",
+      "file_specific_basis": "AI-written practical three-step guide based on accepted policy direction and existing cloud-boundary evidence, without provider-wide clearance.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction only, not proof of authorship/title."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_DRAFTING_OR_RECORD_ASSEMBLY",
+          "scope": "AI-written practical three-step guide based on accepted policy direction and existing cloud-boundary evidence, without provider-wide clearance."
+        },
+        "inherited_expression": {
+          "status": "NO_NEW_METHOD_EXPRESSION_ADOPTED",
+          "source_refs": [
+            "existing candidate and current bounded local test evidence"
+          ]
+        },
+        "third_party": {
+          "status": "NO_THIRD_PARTY_BODY_ADDED_OR_IDENTIFIED",
+          "public_reference_urls": [],
+          "limit": "No new external similarity search."
+        },
+        "factual_metadata": {
+          "status": "NO_EXCLUSIVE_CLAIM_IN_BARE_FACTS_METHODS_OR_COUNTS",
+          "scope": "Actual observed test facts and ordinary procedures; protectable selection/expression is a separate question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "CURRENT_LOCAL_TEST_RECORDS"
+      ],
+      "unconfirmed_parts": [
+        "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "missing_evidence": [
+          "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "docs/QUICK_START.md",
@@ -564,7 +672,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "docs/RESEARCH_STATUS.md",
@@ -625,7 +739,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "docs/TESTS.md",
@@ -679,7 +799,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "legal/CLOUD_PROCESSING.md",
@@ -743,7 +869,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "legal/FAQ.md",
@@ -798,7 +930,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
@@ -853,7 +991,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
@@ -908,7 +1052,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "legal/PLATFORM_PATHS.md",
@@ -967,7 +1117,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "legal/REVIEW.md",
@@ -1040,7 +1196,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "legal/RIGHTS_AUDIT.md",
@@ -1095,7 +1257,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "legal/RISK_MATRIX.md",
@@ -1150,7 +1318,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "legal/SHARING_OPTIONS.md",
@@ -1205,7 +1379,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "provenance/ADAPTATION.md",
@@ -1263,7 +1443,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "provenance/SOURCE_LEDGER.json",
@@ -1321,7 +1507,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
+        "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "release-manifest.json",
@@ -1375,7 +1567,66 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
+        "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
+    },
+    {
+      "path": "reports/PREPUBLICATION_2.md",
+      "identity_binding": "release-manifest entry; final commit binds integrity manifest itself",
+      "file_specific_basis": "AI-written scoped engineering observations and remaining blockers from actual local records; author-side oracle review, not external qualification.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction only, not proof of authorship/title."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_DRAFTING_OR_RECORD_ASSEMBLY",
+          "scope": "AI-written scoped engineering observations and remaining blockers from actual local records; author-side oracle review, not external qualification."
+        },
+        "inherited_expression": {
+          "status": "NO_NEW_METHOD_EXPRESSION_ADOPTED",
+          "source_refs": [
+            "existing candidate and current bounded local test evidence"
+          ]
+        },
+        "third_party": {
+          "status": "NO_THIRD_PARTY_BODY_ADDED_OR_IDENTIFIED",
+          "public_reference_urls": [],
+          "limit": "No new external similarity search."
+        },
+        "factual_metadata": {
+          "status": "NO_EXCLUSIVE_CLAIM_IN_BARE_FACTS_METHODS_OR_COUNTS",
+          "scope": "Actual observed test facts and ordinary procedures; protectable selection/expression is a separate question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "CURRENT_LOCAL_TEST_RECORDS"
+      ],
+      "unconfirmed_parts": [
+        "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "missing_evidence": [
+          "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "reports/RELEASE_AUDIT.md",
@@ -1429,7 +1680,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "reports/REVISION_1.md",
@@ -1483,7 +1740,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "reports/check-results.json",
@@ -1537,7 +1800,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
+        "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "reports/external-links.json",
@@ -1591,7 +1860,66 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
+        "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
+    },
+    {
+      "path": "reports/local-acceptance.json",
+      "identity_binding": "release-manifest entry; final commit binds integrity manifest itself",
+      "file_specific_basis": "Structured actual local installation/discovery/inference observations and hashes; no exclusive claim in bare facts or measurements.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction only, not proof of authorship/title."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_DRAFTING_OR_RECORD_ASSEMBLY",
+          "scope": "Structured actual local installation/discovery/inference observations and hashes; no exclusive claim in bare facts or measurements."
+        },
+        "inherited_expression": {
+          "status": "NO_NEW_METHOD_EXPRESSION_ADOPTED",
+          "source_refs": [
+            "existing candidate and current bounded local test evidence"
+          ]
+        },
+        "third_party": {
+          "status": "NO_THIRD_PARTY_BODY_ADDED_OR_IDENTIFIED",
+          "public_reference_urls": [],
+          "limit": "No new external similarity search."
+        },
+        "factual_metadata": {
+          "status": "NO_EXCLUSIVE_CLAIM_IN_BARE_FACTS_METHODS_OR_COUNTS",
+          "scope": "Actual observed test facts and ordinary procedures; protectable selection/expression is a separate question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "CURRENT_LOCAL_TEST_RECORDS"
+      ],
+      "unconfirmed_parts": [
+        "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "missing_evidence": [
+          "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
+        "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "reports/revision-check-results.json",
@@ -1645,7 +1973,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
+        "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "rights-manifest.json",
@@ -1699,7 +2033,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
+        "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r01-requirements/README.md",
@@ -1758,7 +2098,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r01-requirements/SKILL.md",
@@ -1820,7 +2166,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R2_SOURCE_DERIVED_PRIORITY",
+        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r01-requirements/examples.md",
@@ -1878,7 +2230,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r01-requirements/references/handoff.md",
@@ -1937,7 +2295,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R2_SOURCE_DERIVED_PRIORITY",
+        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r01-requirements/tests/cases.json",
@@ -1996,7 +2360,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r02-coordination/README.md",
@@ -2055,7 +2425,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r02-coordination/SKILL.md",
@@ -2117,7 +2493,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R2_SOURCE_DERIVED_PRIORITY",
+        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r02-coordination/examples.md",
@@ -2176,7 +2558,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r02-coordination/references/git-evidence.md",
@@ -2236,7 +2624,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R2_SOURCE_DERIVED_PRIORITY",
+        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r02-coordination/references/handoff.md",
@@ -2296,7 +2690,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R2_SOURCE_DERIVED_PRIORITY",
+        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "skills/r02-coordination/tests/cases.json",
@@ -2357,7 +2757,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "tests/example-records.json",
@@ -2411,7 +2817,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "tests/test_release_checks.py",
@@ -2465,7 +2877,13 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     },
     {
       "path": "tools/check_release.py",
@@ -2519,7 +2937,21 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
     }
-  ]
+  ],
+  "risk_policy": {
+    "R0": "Facts/routine metadata; do not assert exclusive copyright or demand infinite provenance paperwork.",
+    "R1": "New AI-assisted material, no identified conflict; protectability is not presumed.",
+    "R2": "Five method-body/reference files prioritized for any actual inherited protected expression and necessary license basis.",
+    "R3": "Reserved for a confirmed third-party expression/ownership conflict; none identified here.",
+    "S2": "PREFERRED_PROPOSED_POLICY_NOT_ADOPTED",
+    "G2": "CONSERVATIVE_RESEARCH_PATH_NOT_PLATFORM_SELECTION"
+  }
 }

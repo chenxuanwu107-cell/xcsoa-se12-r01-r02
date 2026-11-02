@@ -73,3 +73,19 @@ expression remains a separate clearance question. No exhaustive external
 similarity search, contributor-title investigation or legal adjudication has
 been performed. Missing documentary evidence remains a real release blocker;
 the audit does not supply it by inference.
+
+## Prepublication-2 risk triage and stopping rule
+
+Reuse the existing per-file source basis unless expression or evidence changes.
+R0 marks routine factual metadata; R1 marks new AI-assisted material with no
+identified rights conflict; R2 prioritizes the two Skill bodies and three method
+references for protected inherited expression and any necessary independent
+permission. R3 is reserved for an identified third-party expression/title conflict;
+none is confirmed here. These tiers do not invent human copyright, declare all
+AI output public domain, or clear an actual conflicting right.
+
+Do not demand repeated authorship paperwork for bare hashes, ordinary facts or
+methods. Focus legal review on actual protected expression, identified conflicting
+rights and the licensor's authority to grant the proposed scope. This revision
+adds no new source-corpus audit or external similarity search. The source objects
+are unchanged, so the previous exact-byte/evidence records are reused.

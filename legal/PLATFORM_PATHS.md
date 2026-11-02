@@ -1,4 +1,4 @@
-# D — GitHub rights and two distribution paths; neither selected
+# D — G2 conservative research path; G1 alternative, no platform selected
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**.
 As of the 2026-11-03 retrieval, the public
@@ -63,8 +63,11 @@ No channel or vendor is selected or implemented here.
 | Skill contributions | Cleared PR route depends on S1/S2 and platform grants | Separate authorized channel; no full-Skill PRs on introduction repository |
 | Key residual risk | Broad required platform rights; forks and retained copies | Other channel terms, enforcement and accidental re-upload |
 | User decision needed | Informed approval of actual platform grants and exact content | Approve exact introduction scope and separately reviewed distribution route |
+| Personal installation convenience | One familiar source/download location | Introduction → approved external archive → verify version/integrity → install selected folder; one extra handoff |
+| Community contribution workflow | Familiar Fork/PR review after rights/platform clearance | Download matching source revision, submit a bounded patch through the separately approved channel; do not put Skill patches in introduction-repo PRs |
+| Maintenance cost, qualitative | One host/toolchain; platform-grant and inbound-rights obligations remain | Maintain one authoritative delivery location plus a small introduction; prevent stale links/version drift and screen the external contribution queue |
 | Present authorization | None | None |
 
-Neither path is recommended as already legally cleared, and neither has been
-selected. A full GitHub release cannot be described as an introduction-only
+G2 is now the conservative research direction; G1 remains the alternative.
+Neither platform/path is formally selected or legally cleared. A full GitHub release cannot be described as an introduction-only
 publication merely because the README links elsewhere.

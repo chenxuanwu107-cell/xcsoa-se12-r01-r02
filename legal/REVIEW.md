@@ -62,7 +62,7 @@ performed by this task.
 
 1. Verify licensor identity, publication authority and protected contributions
    per file; resolve the [rights audit](RIGHTS_AUDIT.md).
-2. Select exactly one of the unselected S1/S2 alternatives in Sharing Options.
+2. Review the preferred S2 proposal for final adoption; retain S1 only as a fallback.
    GitHub-native platform rights cannot be excluded by this choice.
 3. Confirm the proposed treatment of registered sole enterprises, incorporated
    solo businesses, ambiguous contractors and third-party hosted model processing.
@@ -81,8 +81,9 @@ assurances. Neither publication nor a static PASS can close them.
 User decision: REVISE + HOLD_PUBLIC; remote creation, Public and Release are
 expressly unauthorized. [Cloud processing](CLOUD_PROCESSING.md) proposes a
 narrow technical-processing permission without a product-wide exemption.
-[Sharing Options](SHARING_OPTIONS.md) leaves S1/S2 unselected;
-[Platform Paths](PLATFORM_PATHS.md) separately leaves G1/G2 unselected.
+[Sharing Options](SHARING_OPTIONS.md) now records S2 as preferred but not adopted;
+[Platform Paths](PLATFORM_PATHS.md) records G2 as the conservative research path,
+with G1 an alternative and no platform selected.
 [Risk Matrix](RISK_MATRIX.md) and the upgraded per-file rights manifest record
 which evidence and legal decisions remain missing. Neither public product
 documentation nor human research direction is proof of file-level title.

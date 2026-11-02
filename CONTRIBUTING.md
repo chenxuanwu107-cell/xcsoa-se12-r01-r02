@@ -22,8 +22,15 @@ Run the local checks described in docs/TESTS.md. Label execution honestly and
 preserve failed attempts. Author checks are not independent professional review.
 No commit, merge, remote push or release is authorized by this file.
 
-Prepublication-1: [S1/S2](legal/SHARING_OPTIONS.md) are both pending. S1 adds no
+Prepublication-2: [S2](legal/SHARING_OPTIONS.md) is preferred as a proposal; S1 remains a fallback. S1 adds no
 submission grant; S2 proposes qualified-individual, same-license noncommercial
 sharing and a specific contribution-inclusion grant. Neither is selected.
 GitHub Fork/PR/inbound terms and contributor title require separate clearance.
 An introduction-only repository would not accept Skill bodies or patches.
+
+For proposed S2, a personal account is not proof that an employee owns a patch.
+Personal-capacity contributions of expression actually controlled by that person
+can be reviewed; employer-owned contributions need the actual holder's permission.
+Do not authorize an employee to run the Skill for an employer merely to contribute.
+Lawful factual bug reports and independently written ideas are separate from
+Skill operation or transfer of protected Skill content. No contribution is accepted here.

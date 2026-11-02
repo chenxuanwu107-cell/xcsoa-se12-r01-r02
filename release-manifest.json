@@ -1,9 +1,9 @@
 {
   "release_candidate": "0.1.0-rc.1",
-  "prepublication_revision": 1,
-  "baseline_commit": "28f39029d788044d31bcc105624acd06e5b6bad3",
+  "prepublication_revision": 2,
+  "baseline_commit": "ea8aa5b63cf2aaeed1ce0f415d1e2880fed72520",
   "status": "LOCAL_REVIEW_ONLY_NOT_PUBLISHED",
-  "self_exclusion": "This manifest excludes itself; bind its exact bytes with final Git commit/external receipt.",
+  "self_exclusion": "This manifest excludes itself; final commit/external receipt binds exact bytes.",
   "files": [
     {
       "path": ".gitignore",
@@ -12,18 +12,18 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1529,
-      "sha256": "ee6866124577882ef4593ccca0c5d67babc90b7049727529d7f67925a754b5d3"
+      "bytes": 2144,
+      "sha256": "c3b0a61feb9f055cf56e102eff366ffe06548308d8a50fe1137c8e432f7c5658"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 1805,
-      "sha256": "cd3eacc5ae0eefc8ae1b1c301c76a54c9ecb096f44d6dce5f959f0a8d201a2d6"
+      "bytes": 2331,
+      "sha256": "a5e21c2a33c50711abb372df4d21c7e77c4e44feafd5e2ce40a823eff6b19f7c"
     },
     {
       "path": "FILE_LIST.md",
-      "bytes": 1556,
-      "sha256": "ad4b1f1e6f3466ef952773c2022f09662d0c64f24df304017a2e6ba8ff6d96f4"
+      "bytes": 1699,
+      "sha256": "f302afd283ae503e9b8f4d39c903f587895c142b50384109c0967a0028d340eb"
     },
     {
       "path": "LICENSE",
@@ -32,13 +32,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 5400,
-      "sha256": "0eaba9e342a27d0f7331adb4fed905f6e33ee5f8e9d19b763ed3c1b1929369d3"
+      "bytes": 5824,
+      "sha256": "32a6cf342fafe0a7f879943c5be93a2f895d783fe0c712789ae0e0ff809b906e"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 4843,
-      "sha256": "92e6baeb26fa865f045af7bfd30de30eb8f4cf76d51b90a5eee1a4716070394c"
+      "bytes": 5241,
+      "sha256": "8c495a888df6f3b888a2372978115faffd938b11b88f397a2ee806513dd060b6"
     },
     {
       "path": "SECURITY.md",
@@ -51,64 +51,69 @@
       "sha256": "5704b2dc32d49541bd2d9a1dd4644cceecb61cc116ce31302b93191019d9de08"
     },
     {
+      "path": "docs/PERSONAL_USE.md",
+      "bytes": 3192,
+      "sha256": "3b05a1b62fb442307c67af428e824ad48b10a236af80e73d516d32048062a6da"
+    },
+    {
       "path": "docs/QUICK_START.md",
       "bytes": 2406,
       "sha256": "cb3bef122ced9676b97bcf6b43fe76cb32c8b269ec6fb97bcfef24f0c6d3908b"
     },
     {
       "path": "docs/RESEARCH_STATUS.md",
-      "bytes": 3418,
-      "sha256": "20530a303ddeaefdc8b33fef05943c2fc8c48d7e0e5fa7d42035266a29dc75f1"
+      "bytes": 3655,
+      "sha256": "03edee1757faf1de91f83d2e8cf78cfaab62a54a0528c7776272fa8c41379016"
     },
     {
       "path": "docs/TESTS.md",
-      "bytes": 2553,
-      "sha256": "09fb22dc78f23f9304545238e34fea1f3bf3a3666bb132c7ed6d10744102e6ee"
+      "bytes": 2859,
+      "sha256": "d0919518bbc36f2d6e000b841bcfda13f6ee63ad87a23e90c7fc5b28b8e0046b"
     },
     {
       "path": "legal/CLOUD_PROCESSING.md",
-      "bytes": 7745,
-      "sha256": "21676e813577923769e1fc5efbd3fc3f618bf3be5252dfa2fc5c21b8e4a42c77"
+      "bytes": 8066,
+      "sha256": "813183f7898d6e84a497566a1cae02d5e71a6d5d047e48d854b5549b968c2a99"
     },
     {
       "path": "legal/FAQ.md",
-      "bytes": 5646,
-      "sha256": "bfa53d9bf702aa54d446dac9a8a16fd7c2ec379ca6332343778461cbc37e2d3a"
+      "bytes": 5704,
+      "sha256": "8abfddae74bd5d1fc4bf9150ba85105b27c9286dcafedfd807795edef9b0148a"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
-      "bytes": 16080,
-      "sha256": "39bfc25aa5c46fb94304485976140ec6693ec41f003d8021be8459a6bc70acc4"
+      "bytes": 16172,
+      "sha256": "2bc29df3cf543df5c78235df91a08af315e971ba17ceb4c7e631fde48aee65b1"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
-      "bytes": 12032,
-      "sha256": "c060718c9ab6be34452c9600c22a3c99b3e2c17dd70a9e85b6b557ddf1463f14"
+      "bytes": 12074,
+      "sha256": "12cb156c3f92f76c6ad71488031f9428da7d92485fc778e2a5f5c4ba9e501d7e"
     },
     {
       "path": "legal/PLATFORM_PATHS.md",
-      "bytes": 4888,
-      "sha256": "710ef09bece07d07b9659e4cbc82f227e431c55ed9efa2480af9cbedf5edf4f6"
+      "bytes": 5652,
+      "sha256": "235007a2426f37c9c5be956e91dfb290f5b1a11b96703905870aee7b12357844"
     },
     {
       "path": "legal/REVIEW.md",
-      "bytes": 8053,
-      "sha256": "89d1408a4f002a897da2c993ab9461c7b42174fd10688c80bbe42a56704303b1"
+      "bytes": 8139,
+      "sha256": "63cde1735afb4f0b5fa290ab693744ed28190c2aaa146c8e996b9386d96361da"
     },
     {
       "path": "legal/RIGHTS_AUDIT.md",
-      "bytes": 6766,
-      "sha256": "0e3a0498279c8537fc7daa85f6866b1aa2594be0bf28d4950a481ed0d5632a43"
+      "bytes": 7753,
+      "sha256": "811b056065a124f3db5d07634949ccc3e63a061b72c76d11c1a34475d7ead9dd"
     },
     {
       "path": "legal/RISK_MATRIX.md",
-      "bytes": 5384,
-      "sha256": "d63b2b2fe5df1768e2778e5705b21eafea8f2dac400b960dc2f7e7a1d87849a7"
+      "bytes": 5447,
+      "sha256": "55fabb635f99ade2f98dc7179981dad479250da87f584b23acb32358f6f551d4"
     },
     {
       "path": "legal/SHARING_OPTIONS.md",
-      "bytes": 5456,
-      "sha256": "ec8987381abc3230e4bafdaa4b010253245e7e13dfa7256ebdcd9c5f40014de9"
+      "bytes": 5559,
+      "sha256": "3708ca5704f76da7014d2dbc0d4d5473ad80347910901e9c2dd3398845ecf0a6"
     },
     {
       "path": "provenance/ADAPTATION.md",
@@ -119,6 +124,11 @@
       "path": "provenance/SOURCE_LEDGER.json",
       "bytes": 10823,
       "sha256": "c0ad5bf5d1a21b911d8db7a209c4a9a8ab6b4c3a12516c0fb410b06bccf9aa76"
+    },
+    {
+      "path": "reports/PREPUBLICATION_2.md",
+      "bytes": 6029,
+      "sha256": "26bb3b7b8306c077129370f8af8fe2febfb80a417919b9627ee01d05637557c2"
     },
     {
       "path": "reports/RELEASE_AUDIT.md",
@@ -141,14 +151,19 @@
       "sha256": "514d3e262ca8ac17191b87dad25e44e5be169d1d59df7e93e296d2f94b3105ce"
     },
     {
+      "path": "reports/local-acceptance.json",
+      "bytes": 6412,
+      "sha256": "b4f260c608631c07821d3afae9894d0ae96f43eeb23a6387528269aca226956a"
+    },
+    {
       "path": "reports/revision-check-results.json",
       "bytes": 1956,
       "sha256": "ec41f40801126563812b7cf2cdcaec7f505e6be2006b3260d8ce3b4ed60e214b"
     },
     {
       "path": "rights-manifest.json",
-      "bytes": 134930,
-      "sha256": "251aa5a0e3e2b1176d2b9e055608658eab0a62fc758a000a37c3ef46955534f5"
+      "bytes": 165311,
+      "sha256": "71420538e6f1bf4c035410a8e0f2311c5762a515f9fb7e5479e5267de84e49a0"
     },
     {
       "path": "skills/r01-requirements/README.md",
@@ -217,8 +232,8 @@
     },
     {
       "path": "tools/check_release.py",
-      "bytes": 12956,
-      "sha256": "b487f0c722687a2fafd3258db3d667c80654e9919866dbab73e756710471b35d"
+      "bytes": 13030,
+      "sha256": "9a3a3f2c97a38c348277680b2017e56f8d2e9c14b8790e3b9ec6dc62fd98d1be"
     }
   ]
 }

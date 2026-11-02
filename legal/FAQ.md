@@ -27,7 +27,7 @@ validly adopted**, not permission to use this unlicensed review copy.
 | Deliverable mentions general methods in independently written prose / 一般方法 | Not automatically restricted; facts, ideas and independent expression are not claimed as exclusive rights. |
 | Individual privately modifies their copy / 个人私改 | Allowed for eligible uses; protected portions keep the same restrictions. |
 | Individual sells or white-labels the Skill / 转售白标 | Not granted. |
-| Noncommercial sharing or off-platform modified distribution / 非商业再分发 | S1/S2 are explicitly unselected; consult Sharing Options. No sharing grant is presently effective. |
+| Noncommercial sharing or off-platform modified distribution / 非商业再分发 | S2 is the preferred proposal, with S1 as fallback. No sharing grant is presently effective. |
 | Company reads public documentation / 企业阅读 | Permitted lawful reading; no additional operational/commercial Skill rights beyond platform terms or legal exceptions. |
 | Public GitHub fork by an individual or company / 平台内 Fork | Applicable GitHub terms govern that platform right. A fork does not itself establish enterprise runtime permission. |
 | Skill uploaded to a commercial hosted model / 上传商业模型平台 | Potential narrow technical processing is proposed, subject to actual product terms and rights clearance; no provider-wide exemption. See Cloud processing. |
@@ -39,12 +39,12 @@ requirements table is not automatically owned by this project; a copied set of
 protected instructions is not ordinary output just because it appears in a table.
 Assess actual expression and the applicable law.
 
-The candidate's unselected S1/S2 sharing options, proposed cloud permission, separate-entity treatment,
+The candidate's preferred-but-unadopted S2 proposal and S1 fallback, proposed cloud permission, separate-entity treatment,
 provider boundary, term/termination, language priority and legal venue remain
 proposals. Do not silently expand them into user-approved legal decisions.
 
-The two [sharing options](SHARING_OPTIONS.md) and two
-[distribution paths](PLATFORM_PATHS.md) are unselected.
+S2 is the preferred [sharing proposal](SHARING_OPTIONS.md), and G2 is the
+conservative [distribution research path](PLATFORM_PATHS.md); neither is adopted.
 [Cloud processing](CLOUD_PROCESSING.md) distinguishes a personally controlled
 API request to a necessary model provider from a forbidden enterprise-customer
 API to the Skill. The names Codex and ChatGPT do not establish license clearance.

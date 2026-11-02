@@ -75,3 +75,8 @@ summary is not a substitute for the actual agreement.
 No general processor carve-out is deemed already valid. Adoption and legal fit
 remain pending; the enterprise customer's restriction and ordinary-output
 exception remain unchanged.
+
+For ordinary users, the [personal-use guide](../docs/PERSONAL_USE.md) replaces
+per-task legal analysis with a release-maintained compatibility profile. No cloud
+profile is approved yet; unchanged profiles should be reused until a relevant
+product/account/terms/control change, not re-audited for every customer request.

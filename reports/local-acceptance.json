@@ -1,0 +1,196 @@
+{
+  "revision": "prepublication-2",
+  "tested_source_commit": "ea8aa5b63cf2aaeed1ce0f415d1e2880fed72520",
+  "tested_clean_zip_sha256": "00565be53d655b9c56ef0443b2c101d96ed8bcd5d3c55a9e84eecfccab1c7b56",
+  "overall_engineering_acceptance": "PARTIAL_NATIVE_DISCOVERY_BLOCKED",
+  "clean_install": {
+    "status": "OBSERVED_PASS",
+    "scope": "R01 alone, R02 alone, both in throwaway directories; exact file bytes and bundled quick validator checked",
+    "copy_validations": [
+      {
+        "project": "r01-only",
+        "skill": "r01-requirements",
+        "files_matched": 5,
+        "quick_validator_exit": 0
+      },
+      {
+        "project": "r02-only",
+        "skill": "r02-coordination",
+        "files_matched": 6,
+        "quick_validator_exit": 0
+      },
+      {
+        "project": "both",
+        "skill": "r01-requirements",
+        "files_matched": 5,
+        "quick_validator_exit": 0
+      },
+      {
+        "project": "both",
+        "skill": "r02-coordination",
+        "files_matched": 6,
+        "quick_validator_exit": 0
+      }
+    ]
+  },
+  "loader_discovery": {
+    "status": "PASS",
+    "scope": "Python YAML directory loader only; not native Codex discovery",
+    "cases": {
+      "r01-only": [
+        "r01-requirements"
+      ],
+      "r02-only": [
+        "r02-coordination"
+      ],
+      "both": [
+        "r01-requirements",
+        "r02-coordination"
+      ],
+      "empty": []
+    }
+  },
+  "native_codex_discovery": {
+    "status": "BLOCKED_BEFORE_INITIALIZATION",
+    "binary_version_observed": "0.166.0-alpha.5.1",
+    "attempts": [
+      {
+        "attempt": 1,
+        "exit_code": 1,
+        "observation": "Permission error before initialization"
+      },
+      {
+        "attempt": 2,
+        "exit_code": 1,
+        "observation": "Permission error before initialization"
+      },
+      {
+        "attempt": 3,
+        "exit_code": -6,
+        "observation": "Child aborted with no stderr diagnostic"
+      }
+    ],
+    "cause": "UNKNOWN",
+    "skills_list_result_obtained": false,
+    "additional_attempts": "STOPPED_AT_BOUND"
+  },
+  "local_model_smoke": {
+    "status": "OBSERVED_LOCAL_SMOKE_ONLY",
+    "model": "lmstudio-community/Qwen3.8-27B-MLX-4bit",
+    "mlx_version": "0.32.3",
+    "mlx_lm_version": "0.31.4.dev132",
+    "temperature": 0,
+    "seed": 0,
+    "thinking": false,
+    "input_sha256": "dad3d20e9f9face1e34787ed551725197dfb56f17e7addef187b76d73a4ea3e3",
+    "frozen_oracle_sha256": "3973c8a6b93a82075e86d00a031b83ccd7a33e28d46ab46fd1b755ebb7f407e0",
+    "model_file_manifest_sha256": "1aa6f5044ba735330201b01a9e248e8beb87d4b09a4209bea44cb5baa72c9617",
+    "case_observations": [
+      {
+        "id": "route-r01",
+        "generation_status": "GENERATED",
+        "word_count": 1,
+        "output_sha256": "ca6661155c5772288c235b8e1cbc7a3e0e6bba6420a14235820bf21e9cbc14ab",
+        "observed_expected_properties": "OBSERVED_IN_THIS_OUTPUT",
+        "caveat": null,
+        "observed_selection": "r01-requirements"
+      },
+      {
+        "id": "route-r02",
+        "generation_status": "GENERATED",
+        "word_count": 1,
+        "output_sha256": "d6ea2ebb05c096486ed30a25b6c2a1b107659620db464b84505a8479ccafbc88",
+        "observed_expected_properties": "OBSERVED_IN_THIS_OUTPUT",
+        "caveat": null,
+        "observed_selection": "r02-coordination"
+      },
+      {
+        "id": "route-none",
+        "generation_status": "GENERATED",
+        "word_count": 1,
+        "output_sha256": "c627c09c14e58e44bc51622dac392958ec88244e414b508020634f53cfcd1e69",
+        "observed_expected_properties": "OBSERVED_IN_THIS_OUTPUT",
+        "caveat": null,
+        "observed_selection": "NONE"
+      },
+      {
+        "id": "r01-short",
+        "generation_status": "GENERATED",
+        "word_count": 88,
+        "output_sha256": "9eb7a8b6e0ec03d4a581b16102855b5fe80b5832ee91e5dfd201cdb8406b7156",
+        "observed_expected_properties": "OBSERVED_IN_THIS_OUTPUT",
+        "caveat": null
+      },
+      {
+        "id": "r02-short",
+        "generation_status": "GENERATED",
+        "word_count": 92,
+        "output_sha256": "1bb7c19c64691ba5d81a16116fc15962b4651ef0c346f8558419b6da2affd092",
+        "observed_expected_properties": "OBSERVED_IN_THIS_OUTPUT",
+        "caveat": null
+      },
+      {
+        "id": "r02-oracle",
+        "generation_status": "GENERATED",
+        "word_count": 99,
+        "output_sha256": "03ba570b36a98801548e2217436fea5d6ffadb49737f8fa634df703854e507ff",
+        "observed_expected_properties": "OBSERVED_IN_THIS_OUTPUT",
+        "caveat": "Wording caveat: output calls it a failing test although no executed failure was supplied. It does not assert a run/raw outcome, but the static-versus-observed distinction needs future checking."
+      }
+    ],
+    "review_scope": "Author-side review against pre-frozen exposed smoke oracle; not independent external review or efficacy validation",
+    "independent_external_review": "NOT_RUN",
+    "comparative_effectiveness": "NOT_RUN",
+    "original_24_designs": "NOT_RUN"
+  },
+  "isolation_controls": {
+    "network_denied": true,
+    "outside_write_denied": true,
+    "host_config_read_denied": true
+  },
+  "cleanup": [
+    {
+      "project": "r01-only",
+      "removed_throwaway_skills": [
+        "r01-requirements"
+      ],
+      "after_discovery_count": 0,
+      "status": "PASS"
+    },
+    {
+      "project": "r02-only",
+      "removed_throwaway_skills": [
+        "r02-coordination"
+      ],
+      "after_discovery_count": 0,
+      "status": "PASS"
+    },
+    {
+      "project": "both",
+      "removed_throwaway_skills": [
+        "r02-coordination",
+        "r01-requirements"
+      ],
+      "after_discovery_count": 0,
+      "status": "PASS"
+    },
+    {
+      "project": "empty",
+      "removed_throwaway_skills": [],
+      "after_discovery_count": 0,
+      "status": "PASS"
+    }
+  ],
+  "cloud_called": false,
+  "production_skill_activated": false,
+  "license_adopted": false,
+  "S2": "PREFERRED_PROPOSED_POLICY_NOT_ADOPTED",
+  "G2": "CONSERVATIVE_RESEARCH_PATH_NOT_PLATFORM_SELECTION",
+  "user_decision": "ACCEPT_REVISION_FOR_REVIEW + HOLD_PUBLIC",
+  "research_limits": {
+    "R01_W8": "HUMAN_FREEZE_PENDING",
+    "R02_FR1": "FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE",
+    "production_qualification": "NOT_ESTABLISHED"
+  },
+  "raw_evidence": "Private local custodian record; no original research archive, model weights or host credential copied into release."
+}

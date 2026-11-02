@@ -37,3 +37,8 @@ Links: local links and anchors are checked mechanically; the external official
 legal/platform links were fetched during preparation with specific failures
 recorded in the link report. No broad “all URLs pass” or ongoing availability
 claim is made. The release checker makes no network requests.
+
+Prepublication-2 includes a separately recorded local smoke on six new exposed
+inputs; the original 24 JSON designs remain NOT_RUN. Static checker output now
+explicitly says it does not evaluate model behavior. See the engineering report
+for actual outputs, native-host startup failures and scope limits.

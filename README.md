@@ -53,7 +53,7 @@ walkthroughs, not observed model runs or real customer cases.
 
 - R01 W8: **HUMAN_FREEZE_PENDING**. Original method retained; W4 patches not adopted.
 - R02 FR1: **FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE**, five-step core retained.
-- **METHOD_RESEARCH_CANDIDATE / MODEL_BEHAVIOR_NOT_RUN / HUMAN_REVIEW_PENDING**.
+- **METHOD_RESEARCH_CANDIDATE / HUMAN_REVIEW_PENDING**. Upstream behavior qualification remains NOT_RUN; the new bounded local smoke is reported separately below.
 - Static checks are described in [Tests](docs/TESTS.md); their actual results are
   in [the check report](reports/check-results.json).
 
@@ -95,9 +95,14 @@ Read [Security](SECURITY.md), [Contributing](CONTRIBUTING.md), and
 GitHub Release, public visibility change, or operational activation is authorized
 by these documents.
 
-Prepublication review 1 / 发布前修订 1：**REVISE + HOLD_PUBLIC**。
+Prepublication review 2 / 发布前修订 2：**ACCEPT_REVISION_FOR_REVIEW + HOLD_PUBLIC**。
 [Cloud processing / 云端边界](legal/CLOUD_PROCESSING.md) ·
-[Sharing S1/S2 / 分享选项（未选）](legal/SHARING_OPTIONS.md) ·
-[GitHub G1/G2 / 发行路径（未选）](legal/PLATFORM_PATHS.md) ·
+[Sharing / S2 拟议优先（未生效）](legal/SHARING_OPTIONS.md) ·
+[Distribution / G2 保守研究路径（非平台选择）](legal/PLATFORM_PATHS.md) ·
 [Legal and rights risk matrix / 风险矩阵](legal/RISK_MATRIX.md)。
 No remote creation, Public or Release is authorized.
+
+[Personal-use guide / 个人使用说明](docs/PERSONAL_USE.md) ·
+[Actual isolated local acceptance / 本地验收实测](reports/PREPUBLICATION_2.md)。
+Frozen research labels remain historical qualification limits; the new local
+smoke is separate evidence, with native Codex Discovery still blocked.

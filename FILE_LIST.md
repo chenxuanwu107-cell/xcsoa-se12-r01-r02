@@ -1,6 +1,6 @@
 # Complete release-candidate file list
 
-Revision: prepublication-1; rc.1 baseline preserved.
+Revision: prepublication-2; method source and prior review baselines preserved.
 
 - `.gitignore`
 - `CHANGELOG.md`
@@ -11,6 +11,7 @@ Revision: prepublication-1; rc.1 baseline preserved.
 - `README.zh-CN.md`
 - `SECURITY.md`
 - `docs/COMBINED_EXAMPLE.md`
+- `docs/PERSONAL_USE.md`
 - `docs/QUICK_START.md`
 - `docs/RESEARCH_STATUS.md`
 - `docs/TESTS.md`
@@ -26,10 +27,12 @@ Revision: prepublication-1; rc.1 baseline preserved.
 - `provenance/ADAPTATION.md`
 - `provenance/SOURCE_LEDGER.json`
 - `release-manifest.json`
+- `reports/PREPUBLICATION_2.md`
 - `reports/RELEASE_AUDIT.md`
 - `reports/REVISION_1.md`
 - `reports/check-results.json`
 - `reports/external-links.json`
+- `reports/local-acceptance.json`
 - `reports/revision-check-results.json`
 - `rights-manifest.json`
 - `skills/r01-requirements/README.md`
@@ -47,5 +50,5 @@ Revision: prepublication-1; rc.1 baseline preserved.
 - `tests/test_release_checks.py`
 - `tools/check_release.py`
 
-The local Git database is audited separately. Private source custody, exact
-review diff and approval records remain outside this publishable tree.
+Private startup/model evidence, isolation paths and host metadata are outside
+this publishable tree. No model weights, third-party runtime or internal archive is included.

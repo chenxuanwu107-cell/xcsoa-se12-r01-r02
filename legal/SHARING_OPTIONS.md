@@ -1,10 +1,11 @@
-# B — Two sharing and contribution options; neither selected
+# B — S2 preferred proposed direction; S1 fallback, neither effective
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**.
 Both options preserve individual commercial work, paid independent customer
 projects and ordinary output rights. Neither grants an enterprise customer
 Skill operation, deployment, API, organizational integration or proxy use.
-The proposed license must select exactly one option before adoption.
+S2 is the preferred proposed policy after the prepublication-1 review; S1 remains
+a fallback. Final operative text still needs explicit adoption and legal review.
 
 ## Option S1 — No additional redistribution permission
 

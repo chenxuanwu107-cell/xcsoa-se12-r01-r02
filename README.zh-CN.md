@@ -44,7 +44,7 @@ R01 输出需求说明，R02 按实际接收者与用途组织计划。这里不
 
 - R01 W8 仍待 **Human Freeze**；原始核心保留，W4 三项补丁未采用。
 - R02 FR1 保持 **FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE**；五步核心不变。
-- **METHOD_RESEARCH_CANDIDATE / MODEL_BEHAVIOR_NOT_RUN / HUMAN_REVIEW_PENDING**。
+- **METHOD_RESEARCH_CANDIDATE / HUMAN_REVIEW_PENDING**；上游行为资格仍为 NOT_RUN，新发生的有限本地 Smoke 单独报告。
 - [静态检查](docs/TESTS.md)的实际结果见[检查报告](reports/check-results.json)。
 
 公开发行不等于生产资格、真实效果验证、模型遵从或现役玄武 Skill 激活。
@@ -75,9 +75,14 @@ MIT、Apache-2.0、CC BY-NC-SA、PolyForm Noncommercial 均不作为最终建议
 [安全政策](SECURITY.md) · [贡献规则](CONTRIBUTING.md) · [变更记录](CHANGELOG.md)。
 未创建远程仓库，未推送、发布 Release 或设置 Public。
 
-Prepublication review 1 / 发布前修订 1：**REVISE + HOLD_PUBLIC**。
+Prepublication review 2 / 发布前修订 2：**ACCEPT_REVISION_FOR_REVIEW + HOLD_PUBLIC**。
 [Cloud processing / 云端边界](legal/CLOUD_PROCESSING.md) ·
-[Sharing S1/S2 / 分享选项（未选）](legal/SHARING_OPTIONS.md) ·
-[GitHub G1/G2 / 发行路径（未选）](legal/PLATFORM_PATHS.md) ·
+[Sharing / S2 拟议优先（未生效）](legal/SHARING_OPTIONS.md) ·
+[Distribution / G2 保守研究路径（非平台选择）](legal/PLATFORM_PATHS.md) ·
 [Legal and rights risk matrix / 风险矩阵](legal/RISK_MATRIX.md)。
 No remote creation, Public or Release is authorized.
+
+[Personal-use guide / 个人使用说明](docs/PERSONAL_USE.md) ·
+[Actual isolated local acceptance / 本地验收实测](reports/PREPUBLICATION_2.md)。
+Frozen research labels remain historical qualification limits; the new local
+smoke is separate evidence, with native Codex Discovery still blocked.

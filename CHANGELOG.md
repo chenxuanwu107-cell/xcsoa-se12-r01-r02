@@ -24,3 +24,13 @@
 - Presented S1/S2 sharing/contribution options and G1/G2 distribution paths without
   selecting either; expanded per-file rights bases and legal risk matrix.
 - No formal license, remote creation, Public, Release or model-behavior test.
+
+### Prepublication-2 — 2026-11-03 — review only / HOLD_PUBLIC
+
+- Added a practical maintained-profile user guide; recorded S2 as preferred
+  proposal and G2 as conservative research direction without adopting either.
+- Reused rights evidence with risk tiers instead of repeating source audits.
+- Recorded actual throwaway installs, isolated YAML discovery and six local
+  model outputs. Native Codex Discovery remained blocked before initialization.
+- Skill folders and core personal/independent-service grant remain unchanged;
+  no production qualification, active install, remote or formal license adoption.

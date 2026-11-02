@@ -1,5 +1,9 @@
 # Research status and limitations
 
+The table records upstream research qualification. The new prepublication-2
+[local engineering smoke](../reports/PREPUBLICATION_2.md) is separate evidence
+and does not rewrite those historical statuses or qualify native Codex behavior.
+
 | Layer | Status | Meaning |
 |---|---|---|
 | Package/static validation | See check-results | Files, links, identities, examples as data, and bounded content/history scans |

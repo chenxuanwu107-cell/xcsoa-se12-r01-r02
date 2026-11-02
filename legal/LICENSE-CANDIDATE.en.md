@@ -1,6 +1,6 @@
 # XCSOA Individual & Independent Professional Use License
 
-Version 0.1 — formal drafting candidate, prepublication-1, not effective
+Version 0.1 — formal drafting candidate, prepublication-2, not effective
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
@@ -159,9 +159,9 @@ Modifications do not remove restrictions on protected Skill content.
 No right is granted to sell, commercially host, white-label, or sublicense the
 Skill or protected derivative versions.
 
-**Sharing and contribution option: UNSELECTED.** Before adoption, Section 5
-must contain exactly one of the two proposed alternatives in
-[Sharing Options, revision prepublication-1](SHARING_OPTIONS.md):
+**Proposed direction: S2 — NOT_ADOPTED.** S2 is preferred for drafting; S1 is
+a fallback. Before adoption, Section 5 must contain the expressly approved
+operative alternative in [Sharing Options](SHARING_OPTIONS.md):
 
 - **S1:** no additional redistribution or contribution-submission grant beyond
   applicable platform rights and mandatory law; separate lawful contribution
@@ -171,7 +171,8 @@ must contain exactly one of the two proposed alternatives in
   attribution, and submit contributions with the specified same-license
   review/incorporation/distribution grant over rights they actually hold.
 
-Neither alternative is selected or effective by inclusion in this candidate.
+Neither alternative is effective by inclusion in this candidate or by the
+preference for S2. No distribution or contribution grant is currently adopted.
 Both preserve the individual commercial-work and ordinary-output permissions;
 neither grants enterprise Skill operation, sale/white-label/hosted access to
 the Skill, unrestricted sublicensing or rights in others' contributions. Fork,
