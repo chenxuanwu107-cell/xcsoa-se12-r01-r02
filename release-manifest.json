@@ -1,0 +1,192 @@
+{
+  "release_candidate": "0.1.0-rc.1",
+  "status": "LOCAL_REVIEW_ONLY_NOT_PUBLISHED",
+  "self_exclusion": "This manifest excludes its own bytes to avoid hash recursion; bind it with the final Git commit or external artifact hash.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 29,
+      "sha256": "60c9bdd905fcf45ac485c680d32e9773962cf061b6f041dcddd033911558a672"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 866,
+      "sha256": "02709376226e2569a9a7ab9da6c4ca8ffb1cf9904f5d466e865891314143bab9"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1417,
+      "sha256": "e1c8e52932bb3eb28f4efb916a3fdd343cc1986d53a807542522a7d12b9c5d54"
+    },
+    {
+      "path": "FILE_LIST.md",
+      "bytes": 1337,
+      "sha256": "19b79f1a70ddf446da3ed5b69cafc094fff8d50dcf02cb8818d61f098faaa984"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 905,
+      "sha256": "16cba78af28b8c3a42a15c65070148b5c38821d7eb766b61961e87c273702835"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4995,
+      "sha256": "5802d7f13208baa9af3292579a06281effffb30675e448d6aa097cb77e10130a"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "bytes": 4438,
+      "sha256": "b8b7ff039fd659d0b70aa735ed6c27c090370e4caab08ef5e7c913d6ed930153"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 1691,
+      "sha256": "0278962f8d57646140a27a9b99383b5840d611ac590c0691e35d34d53434123a"
+    },
+    {
+      "path": "docs/COMBINED_EXAMPLE.md",
+      "bytes": 1545,
+      "sha256": "5704b2dc32d49541bd2d9a1dd4644cceecb61cc116ce31302b93191019d9de08"
+    },
+    {
+      "path": "docs/QUICK_START.md",
+      "bytes": 2406,
+      "sha256": "cb3bef122ced9676b97bcf6b43fe76cb32c8b269ec6fb97bcfef24f0c6d3908b"
+    },
+    {
+      "path": "docs/RESEARCH_STATUS.md",
+      "bytes": 3418,
+      "sha256": "20530a303ddeaefdc8b33fef05943c2fc8c48d7e0e5fa7d42035266a29dc75f1"
+    },
+    {
+      "path": "docs/TESTS.md",
+      "bytes": 2157,
+      "sha256": "9de37723e7a858d4bacc27f8ce1458af64d4d3c60b773bb4bcd33f1cc3c58b5a"
+    },
+    {
+      "path": "legal/FAQ.md",
+      "bytes": 5259,
+      "sha256": "e7f92b2726517858b8fd8b683c9b39060a4f42b2deb34e7817c05d03d6883fe5"
+    },
+    {
+      "path": "legal/LICENSE-CANDIDATE.en.md",
+      "bytes": 13671,
+      "sha256": "e140533bd396878c38d04a54c1a3d1cc93fe6826d998ee853621f13d3eec32af"
+    },
+    {
+      "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
+      "bytes": 10173,
+      "sha256": "29888f16c42d23103eaeac96abfb41119fc0c8577a211b44ec0a34ab7c88aa70"
+    },
+    {
+      "path": "legal/REVIEW.md",
+      "bytes": 7415,
+      "sha256": "38df1492fc08eec14e7814833ecf1b138757194c4334a36aaedf822cb1fe4073"
+    },
+    {
+      "path": "legal/RIGHTS_AUDIT.md",
+      "bytes": 4597,
+      "sha256": "143389ae046f2a637705bbe99bd5bd4ca7569a1aa180e95cbf9912fd8011ea45"
+    },
+    {
+      "path": "provenance/ADAPTATION.md",
+      "bytes": 3437,
+      "sha256": "8582c30d690f008ac3b26431d64508ee4e518e32b8d70322ac0170cb429091da"
+    },
+    {
+      "path": "provenance/SOURCE_LEDGER.json",
+      "bytes": 10760,
+      "sha256": "1b87a6fd1889ba6801aaa6a00adb5931328f7faa5799179dee33fa2e35950e85"
+    },
+    {
+      "path": "reports/RELEASE_AUDIT.md",
+      "bytes": 5209,
+      "sha256": "743467b57284073632f92841f2d5ac55040c0c1164ee37b0757970f88a0bbeec"
+    },
+    {
+      "path": "reports/check-results.json",
+      "bytes": 1317,
+      "sha256": "2fc2301773686b5b6cc2ecdb8824640f972cd33f124878f090f3e6891e9ac635"
+    },
+    {
+      "path": "reports/external-links.json",
+      "bytes": 3445,
+      "sha256": "fc416b943ef00c3d77b914efb326ce11e15833b7634005a08fd714e9af5a008c"
+    },
+    {
+      "path": "rights-manifest.json",
+      "bytes": 14381,
+      "sha256": "820269869b3bd21d20b642062f082aa27fc424b9d2be704cd46378cc5264fb64"
+    },
+    {
+      "path": "skills/r01-requirements/README.md",
+      "bytes": 1120,
+      "sha256": "21553c0b54cb9d31c86b908f5caeedfc51a1ad5498f41d2aea1655065e6b4f0c"
+    },
+    {
+      "path": "skills/r01-requirements/SKILL.md",
+      "bytes": 7410,
+      "sha256": "17b41033b33bd3196df520a70d432d3f30d5496418c8c5b7900f95b4e0ac340e"
+    },
+    {
+      "path": "skills/r01-requirements/examples.md",
+      "bytes": 1866,
+      "sha256": "67d0704da17aa9ab34ac65472e077a23fb9cbaed6832722c4eedba161e1062c3"
+    },
+    {
+      "path": "skills/r01-requirements/references/handoff.md",
+      "bytes": 1711,
+      "sha256": "6741288ae8b555ee7a0ad4d70ccffdc608295ac066925202c41b8e14343b698d"
+    },
+    {
+      "path": "skills/r01-requirements/tests/cases.json",
+      "bytes": 4307,
+      "sha256": "c122b4772b26167db02a1539acb05bd2aee6f0208b77351aefb7d21a34748b01"
+    },
+    {
+      "path": "skills/r02-coordination/README.md",
+      "bytes": 1140,
+      "sha256": "313f23206d694a36935a6093409d29fcf5cb41e28c1deabac10e38ffc846f2f8"
+    },
+    {
+      "path": "skills/r02-coordination/SKILL.md",
+      "bytes": 10286,
+      "sha256": "ab3e3021742218009145414bfba8822860e063d87a5d3feccf27ab0ddc9db25d"
+    },
+    {
+      "path": "skills/r02-coordination/examples.md",
+      "bytes": 2065,
+      "sha256": "3d95ca6ed00d5ea4f7af9632567c23f9783a9c5d286ef275f795b3aa58e0a656"
+    },
+    {
+      "path": "skills/r02-coordination/references/git-evidence.md",
+      "bytes": 2140,
+      "sha256": "e9a4f1a41010fa856f49cf113dd68f72d6b9143d512d5b2147233b0a667075f2"
+    },
+    {
+      "path": "skills/r02-coordination/references/handoff.md",
+      "bytes": 2377,
+      "sha256": "01157de6543fa0943cf7a55568af4f78bd241e86a8262f1da2a94923923ff530"
+    },
+    {
+      "path": "skills/r02-coordination/tests/cases.json",
+      "bytes": 7139,
+      "sha256": "21d12108efc1787178f7c52d214422f679f293b968c3d0bea36098a8ba738409"
+    },
+    {
+      "path": "tests/example-records.json",
+      "bytes": 1204,
+      "sha256": "a2d473bedbf76bf3f1d14e28f31ce34de5ac985e63e56a0d32e817a8295edb55"
+    },
+    {
+      "path": "tests/test_release_checks.py",
+      "bytes": 3246,
+      "sha256": "deeec25f074a673effce3ba498e8a5c76d5233fe33a836eda1c978a2ccc5e2e1"
+    },
+    {
+      "path": "tools/check_release.py",
+      "bytes": 11491,
+      "sha256": "3c23fcae8c5398fbf78c40dfbedeaad6755ea3016223ebca29e4a830664cb9ae"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "release": "0.1.0-rc.1",
+  "integrity_limit": "Byte identity is not authenticity, ownership, applicability, behavioral qualification or authority.",
+  "primary_archives": [
+    {
+      "role": "R01",
+      "filename": "XCSOA_SE12_R01_W8_Independent_Correction_Acceptance_Research_Baseline_Freeze_2026-10-13_v0.1_CANDIDATE.zip",
+      "sha256": "b8822ddc06456e05a86d0ac0f73bc62ecc8ced579a3b676235a798862d0e2a7d",
+      "original_located": true,
+      "redistributed": false
+    },
+    {
+      "role": "R02",
+      "filename": "XCSOA_SE12_R02_W06R8_FR1_Final_Review_2026-10-15_v0.1_CANDIDATE.zip",
+      "sha256": "54d56a1355b59556bd4c9dab5c03f1710d6e51f8c1ce54fb42f308863c33b31e",
+      "original_located": true,
+      "redistributed": false
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "R01-ORIGINAL",
+      "title": "Original R01 Method",
+      "version": "2026-10-10.wp-a.v0.1.CANDIDATE",
+      "sha256": "97cb1ae1ae928709cfdcf1e1ae41f7e2275924a8841c45796c818dcbff16167b",
+      "bytes": 5410,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_METHOD_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-ORIGINAL",
+      "title": "Original R02 Method",
+      "version": "2026-10-10.wp-a.v0.1.CANDIDATE",
+      "sha256": "4690c333c68b61862913ffa2d240397b8d389f9bdbd79fbbd1ab59aba2dec0f1",
+      "bytes": 5735,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_METHOD_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R01-SCOPE",
+      "title": "R01 identity and handoff contract",
+      "version": "2026-10-10.v0.1.ROLE_SPLIT_CANDIDATE",
+      "sha256": "0d70aea36675eddb2606e3acc4ad9b1bd81329691ad2a03e253c1867684633a0",
+      "bytes": 6253,
+      "verified_from_original_archive": true,
+      "read_depth": "SCOPE_AND_HANDOFF_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-SCOPE",
+      "title": "R02 identity and handoff contract",
+      "version": "2026-10-10.v0.1.ROLE_SPLIT_CANDIDATE",
+      "sha256": "d49fdc618f74db78084f28ee50d1758168396a27e083f3fd81b22fd46706e49d",
+      "bytes": 6547,
+      "verified_from_original_archive": true,
+      "read_depth": "SCOPE_AND_HANDOFF_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R01-W8-FREEZE",
+      "title": "W8 research baseline freeze candidate",
+      "version": "2026-10-13.v0.1.CANDIDATE",
+      "sha256": "5b4e0a786ecdf888b22d7718e4bcc9a9f92f76bc9b3ed195aae0a51280ce24b4",
+      "bytes": 102914,
+      "verified_from_original_archive": true,
+      "read_depth": "SELECTED_FIELDS_AND_LIMITATIONS_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R01-W8-VERDICT",
+      "title": "W8 independent review verdict and stop",
+      "version": "2026-10-13.v0.1.CANDIDATE",
+      "sha256": "e25bf57727434993ee02949fb88c9dcfaac7d938dda12d5a9f82c88746732c78",
+      "bytes": 3904,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R01-W8-HUMAN",
+      "title": "W8 human decision and qualification handoff",
+      "version": "2026-10-13.v0.1.CANDIDATE",
+      "sha256": "e388a45de393c66606aa2519b2d669a2e23f50a9c3e0c65e2301ae0845d00eb5",
+      "bytes": 3206,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R01-W3-DELTA",
+      "title": "R01 minimal method delta candidate",
+      "version": "2026-10-11.v0.1.CANDIDATE",
+      "sha256": "e15eda8811f449da14f39bd8b3a944efb66ae9f8e6d839f1f5d4f77c7089da7a",
+      "bytes": 17266,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ_OPTIONAL_PATCHES_NOT_ADOPTED",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-W05",
+      "title": "R02 unified five-step method W05 v0.2",
+      "version": "W05.v0.2",
+      "sha256": "ba1a1a93b3e59f7dfb6b3e256fc430ab18aa88027bcf4fc1bcfec7083c4188f0",
+      "bytes": 12547,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-R8-GUIDE",
+      "title": "R8 five-step execution guide",
+      "version": "W06-R8",
+      "sha256": "72c0c345b12f13b95821fc83659cb7d34ed6a4173eefac872d60c08b6d58f250",
+      "bytes": 8317,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-R8-CONTEXT",
+      "title": "R8 conditional reference and consumption rules",
+      "version": "W06-R8",
+      "sha256": "0999e781ef8ad791ae4e844a6bed5f30cc4a5563b042a5c248ca94498c2889c8",
+      "bytes": 6243,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-R8-HANDOFF",
+      "title": "R8 handoff provenance and acceptance contract",
+      "version": "W06-R8",
+      "sha256": "af6c91b3fe1cacc5259c0efe4aea3f561b45cf262315beffdcfed8b008b4b553",
+      "bytes": 9167,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-FR1-VERDICT",
+      "title": "FR1 executive verdict",
+      "version": "2026-10-15.v0.1.CANDIDATE",
+      "sha256": "db375cd1ecff61ca9fa35518e0b917b886575c0958d192688e8385729f2db8ed",
+      "bytes": 7497,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-FR1-LIMITS",
+      "title": "FR1 final limitations and stop",
+      "version": "2026-10-15.v0.1.CANDIDATE",
+      "sha256": "2ca52da526213bdfeab3130f35a988a6b082442fd9b5610722986b7667eca75c",
+      "bytes": 4921,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R01-SOURCE-LEDGER",
+      "title": "R01 source and claim ledger",
+      "version": "HISTORICAL",
+      "sha256": "3118088da6705d4d7c9deb4e00b87e030bc3e1132f5837860c866c4c6138d519",
+      "bytes": 44466,
+      "verified_from_original_archive": true,
+      "read_depth": "SOURCE_METADATA_SELECTED_REVIEW",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R01-INDUSTRY-LEDGER",
+      "title": "R01 W2 source/claim and prior-art ledger",
+      "version": "HISTORICAL",
+      "sha256": "5148c02576586454a4cf409830bd61aa301a706ce8d50951e681c96203f73964",
+      "bytes": 991210,
+      "verified_from_original_archive": true,
+      "read_depth": "SOURCE_METADATA_SELECTED_REVIEW",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-PRIMARY-REGISTER",
+      "title": "R02 primary source register",
+      "version": "HISTORICAL",
+      "sha256": "d1cc4ab4efa987514a31f3f78e126fc9cdd43519e644bff8da0f5dc55815d46e",
+      "bytes": 11329,
+      "verified_from_original_archive": true,
+      "read_depth": "SOURCE_METADATA_SELECTED_REVIEW",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-DISTRIBUTED-REGISTER",
+      "title": "R02 distributed source register",
+      "version": "HISTORICAL",
+      "sha256": "c8683148e776e36f8a6cabb728e98fb3702c697bc2fa76be5dec01a864fe89a8",
+      "bytes": 45420,
+      "verified_from_original_archive": true,
+      "read_depth": "SOURCE_METADATA_SELECTED_REVIEW",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-STUDY-LEDGER",
+      "title": "R02 primary source and study-method ledger",
+      "version": "HISTORICAL",
+      "sha256": "94660b5cbb99509d04ac0af57849caa425d50b465cc97b26121b3157387943e8",
+      "bytes": 61405,
+      "verified_from_original_archive": true,
+      "read_depth": "SOURCE_METADATA_SELECTED_REVIEW",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    },
+    {
+      "source_id": "R02-PRIOR-RIGHTS",
+      "title": "R02 historical license/dependency audit",
+      "version": "HISTORICAL",
+      "sha256": "627f2029d948bac8aa6aae18dbce3ba2c5ea02673f848c907fe477bd1c6a7ac3",
+      "bytes": 3917,
+      "verified_from_original_archive": true,
+      "read_depth": "FULL_READ_REFERENCE_ONLY_NOT_ADOPTION",
+      "distribution": "NOT_EMBEDDED",
+      "authority": "HISTORICAL_RESEARCH_ONLY",
+      "copyright_or_relicensing_authority": "NOT_ESTABLISHED_BY_HASH"
+    }
+  ],
+  "historical_gaps": "Preserved in docs/RESEARCH_STATUS.md; missing ancestors are not reconstructed or declared closed."
+}

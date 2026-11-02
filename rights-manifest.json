@@ -1,0 +1,275 @@
+{
+  "status": "RIGHTS_NOT_FULLY_CLEARED",
+  "license_intent": "CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED",
+  "actual_licensor": "UNCONFIRMED",
+  "no_current_grant": true,
+  "coverage": "All candidate files, including this rights record and the generated integrity manifest; third-party referenced works are excluded.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "FILE_LIST.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "LICENSE",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "README.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "SECURITY.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "docs/COMBINED_EXAMPLE.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "docs/QUICK_START.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "docs/RESEARCH_STATUS.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "docs/TESTS.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "legal/FAQ.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "legal/LICENSE-CANDIDATE.en.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "legal/REVIEW.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "legal/RIGHTS_AUDIT.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "provenance/ADAPTATION.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "provenance/SOURCE_LEDGER.json",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "release-manifest.json",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "reports/RELEASE_AUDIT.md",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "reports/check-results.json",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "reports/external-links.json",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "rights-manifest.json",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r01-requirements/README.md",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r01-requirements/SKILL.md",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r01-requirements/examples.md",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r01-requirements/references/handoff.md",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r01-requirements/tests/cases.json",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r02-coordination/README.md",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r02-coordination/SKILL.md",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r02-coordination/examples.md",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r02-coordination/references/git-evidence.md",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r02-coordination/references/handoff.md",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "skills/r02-coordination/tests/cases.json",
+      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "tests/example-records.json",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "tests/test_release_checks.py",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    },
+    {
+      "path": "tools/check_release.py",
+      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
+      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
+      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+    }
+  ]
+}

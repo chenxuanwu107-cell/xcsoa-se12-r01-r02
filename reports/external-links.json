@@ -1,0 +1,93 @@
+{
+  "checked_on": "2026-11-03",
+  "method": "Official pages fetched through web tool during preparation; not a network test by check_release.py.",
+  "scope": "Public Markdown external citations only. HTTP status is not method qualification.",
+  "links": [
+    {
+      "url": "https://choosealicense.com/licenses/mit/",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://legacy.sba.gov/business-guide/launch-your-business/choose-business-structure",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://opensource.org/osd",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://polyformproject.org/licenses/noncommercial/1.0.0",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://scjgj.gz.gov.cn/zcfg/fl/content/post_9744783.html",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://www.acas.org.uk/employment-status",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://www.copyright.gov/title17/92chap1.html",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://www.gov.uk/employment-status/selfemployed-contractor",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://www.gov.uk/set-up-business",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://www.samr.gov.cn/djzcj/zcfg/fl/art/2026/art_9b4263a169cf43c2aba950cfc9ac1af2.html",
+      "result": "PAGE_CONTENT_RETRIEVED",
+      "note": "No claim of ongoing availability."
+    },
+    {
+      "url": "https://www.spp.gov.cn/zdgz/202006/t20200602_463886.shtml",
+      "result": "FULL_FETCH_BLOCKED_403_OFFICIAL_INDEXED_EXCERPT_ONLY",
+      "note": "No claim of ongoing availability."
+    }
+  ],
+  "resolved_during_preparation": [
+    {
+      "issue": "PolyForm trailing-slash URL returned 404",
+      "resolution": "Replaced with canonical no-trailing-slash URL; page content retrieved."
+    }
+  ]
+}

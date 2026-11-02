@@ -1,0 +1,38 @@
+{
+  "synthetic": true,
+  "model_behavior": "NOT_RUN",
+  "sources": [
+    {
+      "id": "demo-requirement-1",
+      "revision": "demo-1",
+      "text": "Use SQLite. Keep customer data local. Prepare a draft only.",
+      "sha256": "dac81e75ed3b8ccf63dee765f90d8f6fa35a149c0b1dbd7b1ec7106aa20fdda8"
+    },
+    {
+      "id": "demo-handoff-2",
+      "revision": "demo-2",
+      "text": "An unexecuted candidate is requested explicitly for review.",
+      "sha256": "6745ac25f34ae4baee8c2bdb815409da905f8774ed8c47c261841707f7d490fb"
+    }
+  ],
+  "records": [
+    {
+      "source_id": "demo-requirement-1",
+      "source_sha256": "dac81e75ed3b8ccf63dee765f90d8f6fa35a149c0b1dbd7b1ec7106aa20fdda8",
+      "purpose": "LOCAL_DRAFT",
+      "execution": "NOT_RUN",
+      "consumer_acceptance": "NOT_OBSERVED",
+      "independent_verification": "NOT_RUN",
+      "outcome_claim": null
+    },
+    {
+      "source_id": "demo-handoff-2",
+      "source_sha256": "6745ac25f34ae4baee8c2bdb815409da905f8774ed8c47c261841707f7d490fb",
+      "purpose": "FOR_REVIEW",
+      "execution": "NOT_RUN",
+      "consumer_acceptance": "NOT_OBSERVED",
+      "independent_verification": "NOT_RUN",
+      "outcome_claim": null
+    }
+  ]
+}
