@@ -22,13 +22,18 @@
     },
     {
       "path": "FILE_LIST.md",
-      "bytes": 1699,
-      "sha256": "f302afd283ae503e9b8f4d39c903f587895c142b50384109c0967a0028d340eb"
+      "bytes": 1731,
+      "sha256": "e6bfde7ec5dcbf759ca0be9ba3b93f82496b0e34cfaa00e6c2624aee3cf3c733"
     },
     {
       "path": "LICENSE",
       "bytes": 905,
       "sha256": "16cba78af28b8c3a42a15c65070148b5c38821d7eb766b61961e87c273702835"
+    },
+    {
+      "path": "NATIVE_ACCEPTANCE_REPORT.md",
+      "bytes": 2507,
+      "sha256": "5095c5da7ffea20bd4b183c8cc6712c2666cb6de4f616e65746547d0c09ab1d0"
     },
     {
       "path": "README.md",
@@ -162,13 +167,13 @@
     },
     {
       "path": "rights-manifest.json",
-      "bytes": 165652,
-      "sha256": "ac54a209a1a8cc37cd1af2020c590ac09592224b2fb25e5f5fbd80ee72f1b3d2"
+      "bytes": 169325,
+      "sha256": "d49a7b28ebbafa9c6f9d8509554836fa6d7b9ed739db314b8bb9fec47eb72d27"
     },
     {
       "path": "skills/r01-requirements/README.md",
-      "bytes": 1120,
-      "sha256": "21553c0b54cb9d31c86b908f5caeedfc51a1ad5498f41d2aea1655065e6b4f0c"
+      "bytes": 1990,
+      "sha256": "17673a0316dd48e26d6d264ef463a7f1c00cbab9fa28851c5466d0dc77238482"
     },
     {
       "path": "skills/r01-requirements/SKILL.md",
@@ -192,8 +197,8 @@
     },
     {
       "path": "skills/r02-coordination/README.md",
-      "bytes": 1140,
-      "sha256": "313f23206d694a36935a6093409d29fcf5cb41e28c1deabac10e38ffc846f2f8"
+      "bytes": 2010,
+      "sha256": "13e5137ddda7a5573c60abed1248818ab632786ee73c6c13eaab72b253774830"
     },
     {
       "path": "skills/r02-coordination/SKILL.md",
@@ -237,5 +242,7 @@
     }
   ],
   "packaging_revision": "codex-native-packaging-1",
-  "packaging_baseline_commit": "4dc29f271fe84de0dd3559dc41f079bae44476a4"
+  "packaging_baseline_commit": "4dc29f271fe84de0dd3559dc41f079bae44476a4",
+  "acceptance_notice_revision": 1,
+  "acceptance_baseline_commit": "73ed3ad5215f2ab2e8a637e07385fe9812be4f11"
 }

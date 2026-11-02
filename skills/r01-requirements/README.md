@@ -17,3 +17,18 @@ Research: W8 HUMAN_FREEZE_PENDING; original method core retained, W4 patches
 not adopted. MODEL_BEHAVIOR_NOT_RUN. The repository's pending custom license
 also applies to this folder; standalone packaging does not imply redistribution
 permission or a separate enterprise grant.
+
+## Package identity and license declaration
+
+Release candidate version: **0.1.0-rc.1**.
+Packaging baseline: **codex-native-packaging-1**; this standalone notice was
+completed during native user acceptance, without a method revision.
+
+**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUBLIC**.
+The proposed license is **XCSOA Individual & Independent Professional Use License**.
+No operative project license has been adopted. This local candidate is for review;
+this notice grants no distribution or operational permission. Existing
+task-specific permissions, mandatory legal exceptions and applicable platform
+rights are unaffected. The full non-effective license candidates remain in the
+source distribution. This notice is neither a formal license nor evidence of
+copyright clearance, legal review, native compatibility or production qualification.

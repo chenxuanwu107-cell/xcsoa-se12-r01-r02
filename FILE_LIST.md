@@ -7,6 +7,7 @@ Revision: prepublication-2; method source and prior review baselines preserved.
 - `CONTRIBUTING.md`
 - `FILE_LIST.md`
 - `LICENSE`
+- `NATIVE_ACCEPTANCE_REPORT.md`
 - `README.md`
 - `README.zh-CN.md`
 - `SECURITY.md`

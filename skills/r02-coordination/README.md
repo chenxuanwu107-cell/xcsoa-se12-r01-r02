@@ -16,3 +16,18 @@ Use your host's normal skill-loading mechanism; no runtime integration is includ
 Research: FR1 FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE; original five-step core
 retained. MODEL_BEHAVIOR_NOT_RUN. The pending custom license applies to this
 folder too; copying it alone does not grant enterprise use or redistribution.
+
+## Package identity and license declaration
+
+Release candidate version: **0.1.0-rc.1**.
+Packaging baseline: **codex-native-packaging-1**; this standalone notice was
+completed during native user acceptance, without a method revision.
+
+**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUBLIC**.
+The proposed license is **XCSOA Individual & Independent Professional Use License**.
+No operative project license has been adopted. This local candidate is for review;
+this notice grants no distribution or operational permission. Existing
+task-specific permissions, mandatory legal exceptions and applicable platform
+rights are unaffected. The full non-effective license candidates remain in the
+source distribution. This notice is neither a formal license nor evidence of
+copyright clearance, legal review, native compatibility or production qualification.

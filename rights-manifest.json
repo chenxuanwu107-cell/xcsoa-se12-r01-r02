@@ -11,7 +11,8 @@
     "GIT-BASELINE-IDENTITY": "28f39029d788044d31bcc105624acd06e5b6bad3 identifies bytes and task history, not authorship or assignment; new files are observed in this revision.",
     "SOURCE-BYTES-REVERIFIED": "20 selected source members rehashed read-only; public identities in provenance/SOURCE_LEDGER.json; private custody not distributed.",
     "PUBLIC-SOURCE-CITATION-NOT-TITLE": "File-specific official URLs and paraphrase scope; not a grant to relicense sources or proof of actual account terms.",
-    "CURRENT_LOCAL_TEST_RECORDS": "Frozen input/oracle, actual isolated MLX outputs and startup failures, private logs/hash records; not a source-rights or legal clearance."
+    "CURRENT_LOCAL_TEST_RECORDS": "Frozen input/oracle, actual isolated MLX outputs and startup failures, private logs/hash records; not a source-rights or legal clearance.",
+    "NATIVE-USER-ACCEPTANCE-OBSERVATIONS": "One bounded real CLI attempt, raw terminal code 14/exit 1, unchanged method bytes, full temporary folder copies and Quick Start requests; private custody, not model or ownership qualification."
   },
   "files": [
     {
@@ -306,6 +307,60 @@
           "Human research/policy guidance",
           "AI output alone",
           "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
+    },
+    {
+      "path": "NATIVE_ACCEPTANCE_REPORT.md",
+      "identity_binding": "release-manifest entry; final commit binds integrity manifest itself",
+      "file_specific_basis": "AI-assisted concise local native acceptance report based on actual copy validation, terminal startup failure and unchanged method hashes; no source method expression or third-party payload added.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction only, not proof of authorship/title."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_DRAFTING_OR_RECORD_ASSEMBLY",
+          "scope": "AI-assisted concise local native acceptance report based on actual copy validation, terminal startup failure and unchanged method hashes; no source method expression or third-party payload added."
+        },
+        "inherited_expression": {
+          "status": "NO_NEW_METHOD_EXPRESSION_ADOPTED",
+          "source_refs": [
+            "existing candidate and current bounded local test evidence"
+          ]
+        },
+        "third_party": {
+          "status": "NO_THIRD_PARTY_BODY_ADDED_OR_IDENTIFIED",
+          "public_reference_urls": [],
+          "limit": "No new external similarity search."
+        },
+        "factual_metadata": {
+          "status": "NO_EXCLUSIVE_CLAIM_IN_BARE_FACTS_METHODS_OR_COUNTS",
+          "scope": "Actual observed test facts and ordinary procedures; protectable selection/expression is a separate question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "NATIVE-USER-ACCEPTANCE-OBSERVATIONS"
+      ],
+      "unconfirmed_parts": [
+        "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "missing_evidence": [
+          "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
         ]
       },
       "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
@@ -2047,7 +2102,7 @@
     {
       "path": "skills/r01-requirements/README.md",
       "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
-      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed. Native acceptance adds release version and pending-license status only; no method text, effective license or title grant.",
       "content_parts": {
         "human_original_expression": {
           "status": "NOT_ESTABLISHED",
@@ -2056,7 +2111,7 @@
         },
         "ai_assistance": {
           "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
-          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed. Native acceptance adds release version and pending-license status only; no method text, effective license or title grant."
         },
         "inherited_expression": {
           "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
@@ -2374,7 +2429,7 @@
     {
       "path": "skills/r02-coordination/README.md",
       "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
-      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed. Native acceptance adds release version and pending-license status only; no method text, effective license or title grant.",
       "content_parts": {
         "human_original_expression": {
           "status": "NOT_ESTABLISHED",
@@ -2383,7 +2438,7 @@
         },
         "ai_assistance": {
           "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
-          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed. Native acceptance adds release version and pending-license status only; no method text, effective license or title grant."
         },
         "inherited_expression": {
           "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
@@ -2957,5 +3012,6 @@
     "S2": "PREFERRED_PROPOSED_POLICY_NOT_ADOPTED",
     "G2": "CONSERVATIVE_RESEARCH_PATH_NOT_PLATFORM_SELECTION"
   },
-  "packaging_revision": "codex-native-packaging-1"
+  "packaging_revision": "codex-native-packaging-1",
+  "acceptance_notice_revision": 1
 }
