@@ -3,12 +3,14 @@
 两个可独立使用的研究方法 Skill：需求工程，以及工程协调与交接。
 无需安装玄武 AI，也不要求十二岗位串联。
 
-**本地发行候选 · v0.1.0-rc.1 · 尚未公开发布**
+**v0.1 Research Candidate · 发布准备 / 尚未公开**
+
+制品版本 `0.1.0-rc.1`；拟议标签 `v0.1.0-rc.1`（尚未创建）。
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
 [English](README.md) · [快速开始](docs/QUICK_START.md) ·
-[研究状态](docs/RESEARCH_STATUS.md) · [安全与发行审计](reports/RELEASE_AUDIT.md)
+[研究状态](docs/RESEARCH_STATUS.md) · [最终发行审查](reports/FINAL_PUBLICATION_REVIEW.md) · [路线图](ROADMAP.md)
 
 | Skill | 解决的问题 | 入口 |
 |---|---|---|
@@ -33,7 +35,7 @@ R01 输出需求说明，R02 按实际接收者与用途组织计划。这里不
 当前只允许规划，不运行测试。
 ```
 
-支持目录式 Skill 的宿主可将所选 Skill 目录复制到其配置的安装位置。
+Codex 可将所选完整 Skill 文件夹复制到项目 `.agents/skills/`。
 发现与调用方式由宿主决定，本包没有安装脚本，不修改宿主设置。独立副本仍适用
 根许可证与研究限制。[详细说明](docs/QUICK_START.md)。
 
@@ -75,14 +77,20 @@ MIT、Apache-2.0、CC BY-NC-SA、PolyForm Noncommercial 均不作为最终建议
 [安全政策](SECURITY.md) · [贡献规则](CONTRIBUTING.md) · [变更记录](CHANGELOG.md)。
 未创建远程仓库，未推送、发布 Release 或设置 Public。
 
-Prepublication review 2 / 发布前修订 2：**ACCEPT_REVISION_FOR_REVIEW + HOLD_PUBLIC**。
-[Cloud processing / 云端边界](legal/CLOUD_PROCESSING.md) ·
-[Sharing / S2 拟议优先（未生效）](legal/SHARING_OPTIONS.md) ·
-[Distribution / G2 保守研究路径（非平台选择）](legal/PLATFORM_PATHS.md) ·
-[Legal and rights risk matrix / 风险矩阵](legal/RISK_MATRIX.md)。
-No remote creation, Public or Release is authorized.
+## 本次发行政策与兼容性披露
 
-[Personal-use guide / 个人使用说明](docs/PERSONAL_USE.md) ·
-[Actual isolated local acceptance / 本地验收实测](reports/PREPUBLICATION_2.md)。
-Frozen research labels remain historical qualification limits; the new local
-smoke is separate evidence, with native Codex Discovery still blocked.
+最终准备文本已整合 S2：合格个人可按同许可非商业分享 Skill 与修改版、提交有权贡献的
+内容，并通过个人项目和独立职业服务盈利。不增加企业运行或转售 Skill 的许可。
+当前仍是未生效文本，须完成权利与正式采用批准。
+
+优先拟采用 G1 全量 GitHub 公开，但须单独知情确认实际平台授权，含平台／关联方 AI
+权利。定制企业限制不能撤回平台授权；见[平台披露](legal/PLATFORM_PATHS.md)。
+未创建远程、Push、设置 Public 或发布 Release。
+
+**Codex Native Compatibility：UNVERIFIED。** 实际原生初始化受阻，发现与显式调用均
+NOT_RUN，见[原生验收](NATIVE_ACCEPTANCE_REPORT.md)和[安装说明](docs/QUICK_START.md)。
+历史有限本地模型 Smoke 单独记录，保留 R02 证据状态措辞问题，不构成一般行为资格。
+本研究候选公开不以 Native PASS 为前提，但必须完成权利与许可证批准。
+
+后续还有 R03-R12 十个岗位逐步研究、审查和发布；本仓库不包含或宣称其资格。
+见[路线图](ROADMAP.md)。普通 R01/R02 使用不要求安装十二岗位体系。

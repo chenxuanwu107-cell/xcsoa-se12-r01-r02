@@ -3,12 +3,14 @@
 Two independently usable research-derived skills for requirements engineering
 and engineering coordination/handoff. No Xuanwu AI installation is required.
 
-**LOCAL RELEASE CANDIDATE · v0.1.0-rc.1 · NOT PUBLISHED**
+**v0.1 Research Candidate · PREPUBLICATION / NOT PUBLISHED**
+
+Artifact version: `0.1.0-rc.1`; proposed tag: `v0.1.0-rc.1` (not created).
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
 [中文](README.zh-CN.md) · [Quick Start](docs/QUICK_START.md) ·
-[Research status](docs/RESEARCH_STATUS.md) · [Audit](reports/RELEASE_AUDIT.md)
+[Research status](docs/RESEARCH_STATUS.md) · [Final review](reports/FINAL_PUBLICATION_REVIEW.md) · [Roadmap](ROADMAP.md)
 
 | Skill | Use it for | Start here |
 |---|---|---|
@@ -40,7 +42,7 @@ Preserve those hard constraints; identify only decision-relevant unknowns.
 ```
 
 For a host supporting directory-based skills, copy only the chosen skill folder
-into the host's configured skill location. The host determines discovery and
+into the project's `.agents/skills/` location for Codex. The host determines discovery and
 invocation. No install script or host configuration change is included. The
 root license and research limits remain applicable to standalone copies.
 
@@ -55,7 +57,7 @@ walkthroughs, not observed model runs or real customer cases.
 - R02 FR1: **FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE**, five-step core retained.
 - **METHOD_RESEARCH_CANDIDATE / HUMAN_REVIEW_PENDING**. Upstream behavior qualification remains NOT_RUN; the new bounded local smoke is reported separately below.
 - Static checks are described in [Tests](docs/TESTS.md); their actual results are
-  in [the check report](reports/check-results.json).
+  in historical check reports and the [final publication review](reports/FINAL_PUBLICATION_REVIEW.md).
 
 Public distribution would not establish production qualification, real-world
 benefit, or activation of an existing Xuanwu skill. No benchmark score, success
@@ -95,14 +97,27 @@ Read [Security](SECURITY.md), [Contributing](CONTRIBUTING.md), and
 GitHub Release, public visibility change, or operational activation is authorized
 by these documents.
 
-Prepublication review 2 / 发布前修订 2：**ACCEPT_REVISION_FOR_REVIEW + HOLD_PUBLIC**。
-[Cloud processing / 云端边界](legal/CLOUD_PROCESSING.md) ·
-[Sharing / S2 拟议优先（未生效）](legal/SHARING_OPTIONS.md) ·
-[Distribution / G2 保守研究路径（非平台选择）](legal/PLATFORM_PATHS.md) ·
-[Legal and rights risk matrix / 风险矩阵](legal/RISK_MATRIX.md)。
-No remote creation, Public or Release is authorized.
+## Publication policy and compatibility disclosure
 
-[Personal-use guide / 个人使用说明](docs/PERSONAL_USE.md) ·
-[Actual isolated local acceptance / 本地验收实测](reports/PREPUBLICATION_2.md)。
-Frozen research labels remain historical qualification limits; the new local
-smoke is separate evidence, with native Codex Discovery still blocked.
+S2 is incorporated in the final preparation license draft: eligible individuals
+may share the Skill/modifications noncommercially under the same license,
+contribute material they control, and earn income from independent professional
+work. No enterprise Skill operation or resale grant is added. The draft remains
+NOT EFFECTIVE until rights and adoption approval are complete.
+
+G1 full GitHub publication is preferred, subject to separate informed approval
+of the actual platform grants, including platform/affiliate AI rights. The
+custom restriction cannot withdraw those rights. See [platform disclosure](legal/PLATFORM_PATHS.md).
+No remote creation, push, Public or Release has occurred.
+
+**Codex native compatibility is UNVERIFIED.** Actual native initialization was
+blocked; discovery and explicit invocation are NOT_RUN. See
+[Native Acceptance](NATIVE_ACCEPTANCE_REPORT.md) and [installation steps](docs/QUICK_START.md).
+The limited historical local-model smoke is separate evidence, with an unresolved
+R02 evidence-state wording caveat. No general behavior qualification is claimed.
+Native Compatibility PASS is not required to publish this accurately labeled
+research candidate; rights and license approval remain required.
+
+R03-R12 are ten future positions for gradual separate research/review and release;
+they are not included or qualified here. See [Roadmap](ROADMAP.md). Ordinary use
+of R01 or R02 never requires the complete twelve-position system.

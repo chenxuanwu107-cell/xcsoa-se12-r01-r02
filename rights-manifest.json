@@ -12,7 +12,8 @@
     "SOURCE-BYTES-REVERIFIED": "20 selected source members rehashed read-only; public identities in provenance/SOURCE_LEDGER.json; private custody not distributed.",
     "PUBLIC-SOURCE-CITATION-NOT-TITLE": "File-specific official URLs and paraphrase scope; not a grant to relicense sources or proof of actual account terms.",
     "CURRENT_LOCAL_TEST_RECORDS": "Frozen input/oracle, actual isolated MLX outputs and startup failures, private logs/hash records; not a source-rights or legal clearance.",
-    "NATIVE-USER-ACCEPTANCE-OBSERVATIONS": "One bounded real CLI attempt, raw terminal code 14/exit 1, unchanged method bytes, full temporary folder copies and Quick Start requests; private custody, not model or ownership qualification."
+    "NATIVE-USER-ACCEPTANCE-OBSERVATIONS": "One bounded real CLI attempt, raw terminal code 14/exit 1, unchanged method bytes, full temporary folder copies and Quick Start requests; private custody, not model or ownership qualification.",
+    "FINAL-PUBLICATION-PREP-OBSERVATIONS": "Baseline 11788e36527e7cdc834f81f34bf842b632b8dbd3; all current files scanned, five method files reread and prior source-rights evidence reused, current S2/G1 direction, private exact-commit checks. No title or final approval inferred."
   },
   "files": [
     {
@@ -105,7 +106,8 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "GIT-BASELINE-IDENTITY"
+        "GIT-BASELINE-IDENTITY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -166,7 +168,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -226,7 +229,8 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "GIT-BASELINE-IDENTITY"
+        "GIT-BASELINE-IDENTITY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -402,7 +406,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -463,7 +468,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -483,6 +489,59 @@
           "Human research/policy guidance",
           "AI output alone",
           "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
+    },
+    {
+      "path": "ROADMAP.md",
+      "identity_binding": "release-manifest entry; final commit binds integrity manifest itself",
+      "file_specific_basis": "New AI-assisted release roadmap from the current instruction: ten future slots R03-R12 only, no methods or qualifications attributed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction only, not proof of authorship/title."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_DRAFTING_OR_RECORD_ASSEMBLY",
+          "scope": "New AI-assisted release roadmap from the current instruction: ten future slots R03-R12 only, no methods or qualifications attributed."
+        },
+        "inherited_expression": {
+          "status": "NO_NEW_METHOD_EXPRESSION_ADOPTED",
+          "source_refs": [
+            "existing candidate and current bounded local test evidence"
+          ]
+        },
+        "third_party": {
+          "status": "NO_THIRD_PARTY_BODY_ADDED_OR_IDENTIFIED",
+          "public_reference_urls": [],
+          "limit": "No new external similarity search."
+        },
+        "factual_metadata": {
+          "status": "NO_EXCLUSIVE_CLAIM_IN_BARE_FACTS_METHODS_OR_COUNTS",
+          "scope": "Actual observed test facts and ordinary procedures; protectable selection/expression is a separate question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+      ],
+      "unconfirmed_parts": [
+        "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "missing_evidence": [
+          "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
         ]
       },
       "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
@@ -654,7 +713,8 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "CURRENT_LOCAL_TEST_RECORDS"
+        "CURRENT_LOCAL_TEST_RECORDS",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
@@ -708,7 +768,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -966,7 +1027,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -999,7 +1061,7 @@
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
       "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
-      "file_specific_basis": "AI-drafted English candidate informed by human policy; exact operative language has not been human-authored or legally adopted by evidence.",
+      "file_specific_basis": "AI-assisted final preparation license v0.1.0: S2 integrated; individual paid-work and customer-output sections 2-3 retained byte-for-byte; licensor/adoption unconfirmed; not an effective license.",
       "content_parts": {
         "human_original_expression": {
           "status": "NOT_ESTABLISHED",
@@ -1008,7 +1070,7 @@
         },
         "ai_assistance": {
           "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
-          "scope": "AI-drafted English candidate informed by human policy; exact operative language has not been human-authored or legally adopted by evidence."
+          "scope": "AI-assisted final preparation license v0.1.0: S2 integrated; individual paid-work and customer-output sections 2-3 retained byte-for-byte; licensor/adoption unconfirmed; not an effective license."
         },
         "inherited_expression": {
           "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
@@ -1027,7 +1089,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1060,7 +1123,7 @@
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
       "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
-      "file_specific_basis": "AI-drafted reference translation; no verified human translator or translation-rights assignment.",
+      "file_specific_basis": "AI-assisted final preparation license v0.1.0: S2 integrated; individual paid-work and customer-output sections 2-3 retained byte-for-byte; licensor/adoption unconfirmed; not an effective license.",
       "content_parts": {
         "human_original_expression": {
           "status": "NOT_ESTABLISHED",
@@ -1069,7 +1132,7 @@
         },
         "ai_assistance": {
           "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
-          "scope": "AI-drafted reference translation; no verified human translator or translation-rights assignment."
+          "scope": "AI-assisted final preparation license v0.1.0: S2 integrated; individual paid-work and customer-output sections 2-3 retained byte-for-byte; licensor/adoption unconfirmed; not an effective license."
         },
         "inherited_expression": {
           "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
@@ -1088,7 +1151,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1152,7 +1216,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1231,7 +1296,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1293,7 +1359,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1354,7 +1421,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1415,7 +1483,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1603,7 +1672,8 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "GIT-BASELINE-IDENTITY"
+        "GIT-BASELINE-IDENTITY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1629,6 +1699,59 @@
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
+        "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
+        "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
+      }
+    },
+    {
+      "path": "reports/FINAL_PUBLICATION_REVIEW.md",
+      "identity_binding": "release-manifest entry; final commit binds integrity manifest itself",
+      "file_specific_basis": "New AI-assisted factual bounded publication/rights review, existing private source-rights evidence and current preparation direction; no original archive or third-party protected payload copied.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction only, not proof of authorship/title."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_DRAFTING_OR_RECORD_ASSEMBLY",
+          "scope": "New AI-assisted factual bounded publication/rights review, existing private source-rights evidence and current preparation direction; no original archive or third-party protected payload copied."
+        },
+        "inherited_expression": {
+          "status": "NO_NEW_METHOD_EXPRESSION_ADOPTED",
+          "source_refs": [
+            "existing candidate and current bounded local test evidence"
+          ]
+        },
+        "third_party": {
+          "status": "NO_THIRD_PARTY_BODY_ADDED_OR_IDENTIFIED",
+          "public_reference_urls": [],
+          "limit": "No new external similarity search."
+        },
+        "factual_metadata": {
+          "status": "NO_EXCLUSIVE_CLAIM_IN_BARE_FACTS_METHODS_OR_COUNTS",
+          "scope": "Actual observed test facts and ordinary procedures; protectable selection/expression is a separate question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+      ],
+      "unconfirmed_parts": [
+        "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "missing_evidence": [
+          "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "risk_triage": {
+        "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
+        "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
       }
@@ -2069,7 +2192,8 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "GIT-BASELINE-IDENTITY"
+        "GIT-BASELINE-IDENTITY",
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -3009,9 +3133,16 @@
     "R1": "New AI-assisted material, no identified conflict; protectability is not presumed.",
     "R2": "Five method-body/reference files prioritized for any actual inherited protected expression and necessary license basis.",
     "R3": "Reserved for a confirmed third-party expression/ownership conflict; none identified here.",
-    "S2": "PREFERRED_PROPOSED_POLICY_NOT_ADOPTED",
-    "G2": "CONSERVATIVE_RESEARCH_PATH_NOT_PLATFORM_SELECTION"
+    "S2": "INTEGRATED_FINAL_PREPARATION_DRAFT_NOT_EFFECTIVE",
+    "G2": "ALTERNATIVE_ONLY_NOT_SELECTED",
+    "G1": "PREFERRED_ACTUAL_PLATFORM_GRANTS_NOT_APPROVED"
   },
   "packaging_revision": "codex-native-packaging-1",
-  "acceptance_notice_revision": 1
+  "acceptance_notice_revision": 1,
+  "publication_preparation": "publication-prep-1 / v0.1 Research Candidate / NOT_PUBLISHED",
+  "publication_blockers": [
+    "B01_ACTUAL_LICENSOR_AND_CONTROLLED_PROTECTED_EXPRESSION_UNCONFIRMED",
+    "B02_EXACT_LICENSE_ADOPTION_AND_EFFECTIVE_RECORD_PENDING",
+    "B03_ACTUAL_GITHUB_AGREEMENT_AND_PLATFORM_GRANTS_NOT_APPROVED"
+  ]
 }

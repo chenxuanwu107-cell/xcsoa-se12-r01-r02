@@ -2,7 +2,7 @@
   "release_candidate": "0.1.0-rc.1",
   "prepublication_revision": 2,
   "baseline_commit": "ea8aa5b63cf2aaeed1ce0f415d1e2880fed72520",
-  "status": "LOCAL_REVIEW_ONLY_NOT_PUBLISHED",
+  "status": "PUBLICATION_BLOCKED_RIGHTS_LICENSE_PLATFORM_PENDING",
   "self_exclusion": "This manifest excludes itself; final commit/external receipt binds exact bytes.",
   "files": [
     {
@@ -12,18 +12,18 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 2144,
-      "sha256": "c3b0a61feb9f055cf56e102eff366ffe06548308d8a50fe1137c8e432f7c5658"
+      "bytes": 2777,
+      "sha256": "22c13b30c3926db39b7358f677f4a0c7b0b481f5cfd4d819d1fc53a4b510be90"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 2331,
-      "sha256": "a5e21c2a33c50711abb372df4d21c7e77c4e44feafd5e2ce40a823eff6b19f7c"
+      "bytes": 2369,
+      "sha256": "7f92e95d4fd97a0cd983786aa25dfb9d96daee7c4064beb013e87e9f6a249e3b"
     },
     {
       "path": "FILE_LIST.md",
-      "bytes": 1731,
-      "sha256": "e6bfde7ec5dcbf759ca0be9ba3b93f82496b0e34cfaa00e6c2624aee3cf3c733"
+      "bytes": 1718,
+      "sha256": "69a44f1ccf1efee2622553516f6086550efdc0bdbe9c6f73580ac081b5163708"
     },
     {
       "path": "LICENSE",
@@ -37,13 +37,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 5824,
-      "sha256": "32a6cf342fafe0a7f879943c5be93a2f895d783fe0c712789ae0e0ff809b906e"
+      "bytes": 6778,
+      "sha256": "e9e0ba19c560cf2edbf69bc4bdd1ece5b3711ca3565c78a7f0baf7e3e4313f05"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 5241,
-      "sha256": "8c495a888df6f3b888a2372978115faffd938b11b88f397a2ee806513dd060b6"
+      "bytes": 5808,
+      "sha256": "d7827ccd9ad6f5bd0ed354f074b978b86455a1f56cf3dc94cf996283185af5c1"
+    },
+    {
+      "path": "ROADMAP.md",
+      "bytes": 1196,
+      "sha256": "2a3459b597b872d76ed6dc15a265fe2f185d2ee9adbf02366813fa3308164b33"
     },
     {
       "path": "SECURITY.md",
@@ -57,13 +62,13 @@
     },
     {
       "path": "docs/PERSONAL_USE.md",
-      "bytes": 3192,
-      "sha256": "3b05a1b62fb442307c67af428e824ad48b10a236af80e73d516d32048062a6da"
+      "bytes": 3213,
+      "sha256": "174fbd47a325d57bb1faca29f11591da46613a07334f52b7f668cdd6bd6fa5ba"
     },
     {
       "path": "docs/QUICK_START.md",
-      "bytes": 5194,
-      "sha256": "84c50b663d39df6e6801abcd84724cb0aaf76745aa895f69b40618473c837a35"
+      "bytes": 5600,
+      "sha256": "caf8928049cd54ba1ad89d64e14a31ccd7e883c024bfcfd58f7c4e9d207e9d80"
     },
     {
       "path": "docs/RESEARCH_STATUS.md",
@@ -82,43 +87,43 @@
     },
     {
       "path": "legal/FAQ.md",
-      "bytes": 5704,
-      "sha256": "8abfddae74bd5d1fc4bf9150ba85105b27c9286dcafedfd807795edef9b0148a"
+      "bytes": 3961,
+      "sha256": "1d91ff17afd404052b26dbc88444c03afa3da3737926eb9f7b1e189d56a2c723"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
-      "bytes": 16172,
-      "sha256": "2bc29df3cf543df5c78235df91a08af315e971ba17ceb4c7e631fde48aee65b1"
+      "bytes": 17167,
+      "sha256": "f83a9f34b54871a79b8b9abeee7ab19ddde80ef71c3960bf272a2c7d2fb4e764"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
-      "bytes": 12074,
-      "sha256": "12cb156c3f92f76c6ad71488031f9428da7d92485fc778e2a5f5c4ba9e501d7e"
+      "bytes": 12709,
+      "sha256": "2774a63b9e0f309ad55e56265e000a5977b1ed37238eae14af11a0c1cbf0605f"
     },
     {
       "path": "legal/PLATFORM_PATHS.md",
-      "bytes": 5652,
-      "sha256": "235007a2426f37c9c5be956e91dfb290f5b1a11b96703905870aee7b12357844"
+      "bytes": 2740,
+      "sha256": "b9040f4858208183bf881d938746f6a3e2006ec3a60b116d6f0bf537b13e171b"
     },
     {
       "path": "legal/REVIEW.md",
-      "bytes": 8139,
-      "sha256": "63cde1735afb4f0b5fa290ab693744ed28190c2aaa146c8e996b9386d96361da"
+      "bytes": 8409,
+      "sha256": "1953843257d8f1e6592f042747bc79085ae72c9b67e07557d15d0fc82390984c"
     },
     {
       "path": "legal/RIGHTS_AUDIT.md",
-      "bytes": 7753,
-      "sha256": "811b056065a124f3db5d07634949ccc3e63a061b72c76d11c1a34475d7ead9dd"
+      "bytes": 8628,
+      "sha256": "3403a82e69cc00177c774ecac8f2f6139798fc6eeb119c118147e90d582d5801"
     },
     {
       "path": "legal/RISK_MATRIX.md",
-      "bytes": 5447,
-      "sha256": "55fabb635f99ade2f98dc7179981dad479250da87f584b23acb32358f6f551d4"
+      "bytes": 2237,
+      "sha256": "c4fb8cf32d31fc2f72321a0b2668eb2133778eaf75940e744aa933fdcea39a99"
     },
     {
       "path": "legal/SHARING_OPTIONS.md",
-      "bytes": 5559,
-      "sha256": "3708ca5704f76da7014d2dbc0d4d5473ad80347910901e9c2dd3398845ecf0a6"
+      "bytes": 1391,
+      "sha256": "7a91078f8fcf7d7fa3b2d7f78562484066ae572f5e9683fe8155c9982a1b7e9e"
     },
     {
       "path": "provenance/ADAPTATION.md",
@@ -129,6 +134,11 @@
       "path": "provenance/SOURCE_LEDGER.json",
       "bytes": 10823,
       "sha256": "c0ad5bf5d1a21b911d8db7a209c4a9a8ab6b4c3a12516c0fb410b06bccf9aa76"
+    },
+    {
+      "path": "reports/FINAL_PUBLICATION_REVIEW.md",
+      "bytes": 5104,
+      "sha256": "a88b18a3ee5969834858b352c17035c7d4a34abd8d134c87dfb58ef9454ff780"
     },
     {
       "path": "reports/PREPUBLICATION_2.md",
@@ -167,8 +177,8 @@
     },
     {
       "path": "rights-manifest.json",
-      "bytes": 169325,
-      "sha256": "d49a7b28ebbafa9c6f9d8509554836fa6d7b9ed739db314b8bb9fec47eb72d27"
+      "bytes": 176717,
+      "sha256": "c806be8138a478cc5849a8f573c41620f0a979ec541d26c1fc3203c9fad9473f"
     },
     {
       "path": "skills/r01-requirements/README.md",
@@ -244,5 +254,10 @@
   "packaging_revision": "codex-native-packaging-1",
   "packaging_baseline_commit": "4dc29f271fe84de0dd3559dc41f079bae44476a4",
   "acceptance_notice_revision": 1,
-  "acceptance_baseline_commit": "73ed3ad5215f2ab2e8a637e07385fe9812be4f11"
+  "acceptance_baseline_commit": "73ed3ad5215f2ab2e8a637e07385fe9812be4f11",
+  "publication_preparation": "publication-prep-1",
+  "release_title": "v0.1 Research Candidate",
+  "proposed_tag": "v0.1.0-rc.1_NOT_CREATED",
+  "publication_baseline_commit": "11788e36527e7cdc834f81f34bf842b632b8dbd3",
+  "license_draft_version": "0.1.0_NOT_EFFECTIVE"
 }

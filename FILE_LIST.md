@@ -1,6 +1,6 @@
 # Complete release-candidate file list
 
-Revision: prepublication-2; method source and prior review baselines preserved.
+Revision: publication-prep-1; 50 files, NOT PUBLISHED; rights/adoption approval pending.
 
 - `.gitignore`
 - `CHANGELOG.md`
@@ -10,6 +10,7 @@ Revision: prepublication-2; method source and prior review baselines preserved.
 - `NATIVE_ACCEPTANCE_REPORT.md`
 - `README.md`
 - `README.zh-CN.md`
+- `ROADMAP.md`
 - `SECURITY.md`
 - `docs/COMBINED_EXAMPLE.md`
 - `docs/PERSONAL_USE.md`
@@ -28,6 +29,7 @@ Revision: prepublication-2; method source and prior review baselines preserved.
 - `provenance/ADAPTATION.md`
 - `provenance/SOURCE_LEDGER.json`
 - `release-manifest.json`
+- `reports/FINAL_PUBLICATION_REVIEW.md`
 - `reports/PREPUBLICATION_2.md`
 - `reports/RELEASE_AUDIT.md`
 - `reports/REVISION_1.md`
@@ -51,5 +53,4 @@ Revision: prepublication-2; method source and prior review baselines preserved.
 - `tests/test_release_checks.py`
 - `tools/check_release.py`
 
-Private startup/model evidence, isolation paths and host metadata are outside
-this publishable tree. No model weights, third-party runtime or internal archive is included.
+Private source custody, raw host/model logs, model weights and original archives are excluded.

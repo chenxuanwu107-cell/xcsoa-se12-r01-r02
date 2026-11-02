@@ -89,3 +89,18 @@ methods. Focus legal review on actual protected expression, identified conflicti
 rights and the licensor's authority to grant the proposed scope. This revision
 adds no new source-corpus audit or external similarity search. The source objects
 are unchanged, so the previous exact-byte/evidence records are reused.
+
+## Final publication preparation
+
+The five method/reference files were reread and retain their exact bytes; all
+eleven Skill-directory files are unchanged from the native-acceptance baseline.
+The full proposed tree is covered by the refreshed rights/integrity manifests.
+No unauthorized third-party payload requiring removal was identified; no new
+external contribution or research archive was added. This does not close the
+unconfirmed actual licensor/publication authority or manufacture copyright in
+AI-generated text, facts or methods. S2/G1 are now the preparation direction,
+not proof that the necessary rights have been granted.
+
+The concrete five-file scope, remaining B01-B03 blockers and stop decision are
+in [Final publication review](../reports/FINAL_PUBLICATION_REVIEW.md). Native
+compatibility is disclosed as unverified and is not a publication prerequisite.

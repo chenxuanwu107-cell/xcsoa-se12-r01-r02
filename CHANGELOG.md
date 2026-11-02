@@ -1,5 +1,16 @@
 # Changelog
 
+## publication-prep-1 — pending v0.1 Research Candidate
+
+- Integrated S2 into the v0.1.0 final license preparation draft; no operative
+  license adopted and no change to individual paid-work/output freedoms or
+  enterprise operational/resale restrictions.
+- Changed the preferred path to G1 with explicit platform-grant approval pending;
+  added the R03-R12 roadmap and native-compatibility disclosure.
+- Reread the five method/reference files, refreshed per-file release review and
+  reran packaging/security/history checks. Actual licensor/authority and final
+  adoption remain blockers. No Skill method change or native retry.
+
 ## 0.1.0-rc.1 — 2026-11-03 — local, unreleased
 
 - Prepared standalone R01/R02 instruction folders from verified original methods

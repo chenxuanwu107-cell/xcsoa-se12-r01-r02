@@ -22,11 +22,12 @@ Run the local checks described in docs/TESTS.md. Label execution honestly and
 preserve failed attempts. Author checks are not independent professional review.
 No commit, merge, remote push or release is authorized by this file.
 
-Prepublication-2: [S2](legal/SHARING_OPTIONS.md) is preferred as a proposal; S1 remains a fallback. S1 adds no
-submission grant; S2 proposes qualified-individual, same-license noncommercial
-sharing and a specific contribution-inclusion grant. Neither is selected.
-GitHub Fork/PR/inbound terms and contributor title require separate clearance.
-An introduction-only repository would not accept Skill bodies or patches.
+Final preparation incorporates [S2](legal/SHARING_OPTIONS.md) in the draft,
+not as an effective grant. Once validly adopted, qualified individuals may share
+noncommercially under the same terms and contribute material they control.
+The preferred G1 path allows a normal Fork/PR workflow only after project and
+actual platform grants are approved. Contributors must have authority for both;
+a PR does not prove title or create a broader relicensing right.
 
 For proposed S2, a personal account is not proof that an employee owns a patch.
 Personal-capacity contributions of expression actually controlled by that person

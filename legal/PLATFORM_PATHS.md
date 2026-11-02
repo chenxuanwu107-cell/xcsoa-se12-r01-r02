@@ -1,73 +1,44 @@
-# D — G2 conservative research path; G1 alternative, no platform selected
+# G1 — full GitHub publication proposed, actual grants require confirmation
 
-**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**.
-As of the 2026-11-03 retrieval, the public
-[GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-contain the provisions below. The relevant account/enterprise agreement was not
-obtained. This is a public-text observation and drafting assessment, not account
-clearance or a conclusion that every contract is identical.
+**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUBLIC**.
+The current proposed path is G1: the complete approved release tree on GitHub.
+G2 is retained only as an alternative if the G1 rights cannot be accepted.
+No remote or platform setting is created by this document.
 
-## D.4 / D.5 / J.3: actual publication effects
+## Required platform disclosure
 
-| Provision | Observed grant / control | Effect on this release |
-|---|---|---|
-| D.4 | Hosting/service rights to GitHub and affiliates include AI/ML development/training. | Requires authority beyond merely allowing customers to read. A contrary custom notice cannot amend GitHub's accepted terms. |
-| D.5 | Public content receives user viewing and platform-functional use/display/performance/reproduction-by-fork rights. | Do not promise a platform-wide no-copy/no-Fork restriction. Outside those rights, no extra enterprise operation is granted by the custom candidate. |
-| J.3 | AI Input/Output improvement rights have an individual-account opt-out; the paragraph expressly does not limit D.4–D.8 or apply that opt-out to public repository content outside Input/Output. | Turning off AI-input training is not a public-repository D.4 opt-out. Check actual account agreements. |
+The retrieved [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
+show an effective date of April 27, 2026. Retrieval: 2026-11-03. The publishing
+account's actual agreement has not been confirmed; a customer/legacy agreement
+may differ. The observations below are not account clearance.
 
-D.3 also warns that removal does not necessarily end grants where forks exist;
-D.6 addresses contributions under repository terms. Publication is consequential;
-deletion, license edits and moving distribution later cannot be promised to
-recall prior grants or copies. **Custom license and platform grants coexist.**
+- D.4 grants GitHub and affiliates hosting/service rights and AI/ML development
+  and training rights. These extend beyond the project's narrow task processor clause.
+- D.5 gives users platform viewing/forking and associated functional rights in
+  public content. A custom notice cannot retract those platform grants.
+- J.3's AI-input opt-out does not remove D.4-D.8 rights or cover public repository
+  content outside AI inputs/outputs. Actual account agreements matter.
+- D.3 addresses retained grants where forks exist; D.6 covers inbound repository
+  contributions. Removal or a later license edit cannot be promised to recall copies.
 
-## Path G1 — Full Skill on GitHub
+**Decision required:** approve the applicable platform agreement and the exact
+uploaded content, including its platform/affiliate AI rights. S2 does not supply
+missing authority. A blanket promise that no enterprise ever receives any rights
+would conflict with G1 platform grants. The project still withholds an additional
+enterprise operational/resale license; this is not permission to run it through
+customer APIs or a general enterprise exception. If the owner rejects the actual
+platform grants, stop G1 and use a separately approved route. No terms are overridden.
 
-Place the approved Skill, documents, applicable final license and cleared
-contribution route in the public repository. Normal source browsing, review,
-Fork and PR workflows are available subject to platform rules. Before upload,
-the rights holder must clear **all uploaded expression** for the applicable
-platform grants as well as the custom project license. S1/S2 does not substitute
-for this approval. Do not configure integrations that upload additional private
-material. No settings or remote repository were created by this revision.
+## Practical publication boundary
 
-This path provides convenient source review but necessarily subjects the actual
-Skill content uploaded there to the applicable platform rights. Even if license
-adoption and operational restrictions are valid, those rights are not removed.
+Publish only the reviewed commit/tree and approved license. Do not upload source
+archives, private audit custody, model weights, host logs or unreviewed attachments.
+After adoption, source browsing, complete-folder downloads and S2-cleared Fork/PR
+contributions can use one platform. Contributors must clear project and platform
+rights in their own submissions. This is convenient but cannot eliminate the
+platform grants or retained-copy risks.
 
-## Path G2 — GitHub introduction only; Skill distributed elsewhere
-
-Create a **separate clean introduction repository**, only after express approval.
-Include a newly written short description, research status, license-policy
-summary and a link to an independently chosen distribution channel. Exclude the
-Skill body, prompts, protected templates, full examples, patch content, archive
-assets, vendored source, cached pages and installation/Actions jobs that fetch
-and republish the Skill. Do not use the current full candidate's Git history for
-that repository. Keep the current candidate local until the other channel is
-approved and rights-cleared.
-
-The introduction's own uploaded content still receives GitHub's applicable
-grants. A link alone is not an upload of the linked Skill, but excerpts, images,
-issues, PRs, integrations or generated caches can cross that boundary; review
-them as content. This is not a technical guarantee against lawful access or
-third-party copying, and does not retract anything already uploaded.
-
-Choose another delivery channel only after checking its hosting/CDN/payment/
-email/file-service terms, processor rights, access/retention, contributor route
-and applicable legal exceptions. Self-hosting may reduce a platform-specific
-grant but does not eliminate infrastructure terms or create enforceability.
-No channel or vendor is selected or implemented here.
-
-| Decision | G1 full source | G2 introduction + separate delivery |
-|---|---|---|
-| GitHub grants attach to | All actual uploaded Skill/doc/patch content | Introduction and any other actual uploaded material |
-| Skill contributions | Cleared PR route depends on S1/S2 and platform grants | Separate authorized channel; no full-Skill PRs on introduction repository |
-| Key residual risk | Broad required platform rights; forks and retained copies | Other channel terms, enforcement and accidental re-upload |
-| User decision needed | Informed approval of actual platform grants and exact content | Approve exact introduction scope and separately reviewed distribution route |
-| Personal installation convenience | One familiar source/download location | Introduction → approved external archive → verify version/integrity → install selected folder; one extra handoff |
-| Community contribution workflow | Familiar Fork/PR review after rights/platform clearance | Download matching source revision, submit a bounded patch through the separately approved channel; do not put Skill patches in introduction-repo PRs |
-| Maintenance cost, qualitative | One host/toolchain; platform-grant and inbound-rights obligations remain | Maintain one authoritative delivery location plus a small introduction; prevent stale links/version drift and screen the external contribution queue |
-| Present authorization | None | None |
-
-G2 is now the conservative research direction; G1 remains the alternative.
-Neither platform/path is formally selected or legally cleared. A full GitHub release cannot be described as an introduction-only
-publication merely because the README links elsewhere.
+G2 would keep only a fresh introduction repository on GitHub and distribute the
+Skill elsewhere after reviewing that channel. It adds a delivery/contribution
+handoff and link/version maintenance; it is not a way to retract prior uploads.
+It is not the present preferred direction and is not implemented.

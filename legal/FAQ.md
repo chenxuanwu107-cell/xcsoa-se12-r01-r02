@@ -1,50 +1,34 @@
-# License scenarios / 许可场景
+# Usage FAQ / 简明使用 FAQ
 
-**Candidate policy only — not a current grant or legal opinion.**
-CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED.
-The [English candidate](LICENSE-CANDIDATE.en.md) controls the proposed wording;
-this FAQ illustrates it. “Allowed” below means allowed **if the candidate is
-validly adopted**, not permission to use this unlicensed review copy.
+**Final preparation draft only — NOT EFFECTIVE.**
+CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUBLIC.
+The [English license draft](LICENSE-CANDIDATE.en.md) is the proposed controlling
+text; [中文参考译文](LICENSE-CANDIDATE.zh-CN.md) is explanatory. “Allowed” below
+means only **if validly adopted**, over rights actually held.
 
-| Scenario / 场景 | Proposed result / 候选结论 |
+| Scenario / 场景 | Proposed boundary / 拟议边界 |
 |---|---|
-| Individual learns by reading public files / 个人阅读学习 | Allowed; lawful reading rights remain independently applicable. |
-| Individual builds and sells a personal application / 个人商业项目 | Allowed, subject to rights in inputs and outputs. No revenue share. |
-| Freelancer is paid by a company to prepare requirements / 自由职业者接企业单 | Allowed when the individual controls the Skill and supplies ordinary work products only. |
-| Customer sets deadlines, requests revisions, reviews progress / 客户正常项目管理 | Allowed; ordinary deliverable supervision alone is not control of the Skill. |
-| Company uses, modifies or sells the resulting application / 企业商业化普通成果 | Allowed under its agreement and applicable third-party rights; no Skill license passes to it. |
-| Employee uses a personal laptop/account for employer work / 员工私机处理职务工作 | Not granted. Personal equipment does not convert organizational operation into independent use. |
-| Employee has an unrelated personal side project / 员工个人副业 | Can qualify in that separate individual capacity; employment/IP obligations still need checking. |
-| One shareholder runs the Skill for their LLC/limited company / 单人法人 | Not granted to the company. Sole ownership does not remove entity status. |
-| Sole trader with only a trading name / 个人商号 | Can qualify if legally the same natural person's activity and independently controlled. |
-| PRC registered personal sole-proprietorship enterprise / 中国个人独资企业 | Not automatically eligible: it is an enterprise/unincorporated organization. Needs fact-specific written clarification before operation. |
-| Individual business/household business with unclear control / 个体经营混合身份 | Needs review of actual subject, family/employee access, contracts and environment; no blanket permission. |
-| Long-term/on-site contractor controlling their own tools / 长期或驻场承包商 | Not automatically disqualified; evaluate actual role/control. A disguised employee or proxy operator is not covered. |
-| Contractor runs Skill in client's enterprise workspace / 企业托管承包商账号 | Not granted, even if a human clicks the button. |
-| Enterprise calls a freelancer's Skill API or unattended queue / 企业间接 API | Not granted. This supplies functionality rather than independent deliverables. |
-| Enterprise integrates Skill into an internal agent/IDE/CI pipeline / 企业集成 | Not granted without a separate written license. |
-| Freelancer delivers the full prompt or copied protected template / 夹带本体交付 | Outside the ordinary-output exception; separately clear the protected content. |
-| Deliverable mentions general methods in independently written prose / 一般方法 | Not automatically restricted; facts, ideas and independent expression are not claimed as exclusive rights. |
-| Individual privately modifies their copy / 个人私改 | Allowed for eligible uses; protected portions keep the same restrictions. |
-| Individual sells or white-labels the Skill / 转售白标 | Not granted. |
-| Noncommercial sharing or off-platform modified distribution / 非商业再分发 | S2 is the preferred proposal, with S1 as fallback. No sharing grant is presently effective. |
-| Company reads public documentation / 企业阅读 | Permitted lawful reading; no additional operational/commercial Skill rights beyond platform terms or legal exceptions. |
-| Public GitHub fork by an individual or company / 平台内 Fork | Applicable GitHub terms govern that platform right. A fork does not itself establish enterprise runtime permission. |
-| Skill uploaded to a commercial hosted model / 上传商业模型平台 | Potential narrow technical processing is proposed, subject to actual product terms and rights clearance; no provider-wide exemption. See Cloud processing. |
-| GitHub/platform or affiliate uses under its terms / 平台条款授权 | Cannot be removed by the custom license. Public hosting needs a separate informed decision. |
-| Someone removes the license notice and renames the Skill / 改名删声明 | Does not erase restrictions on protected copied expression. Independent creation and legal exceptions remain distinct. |
+| Natural person learns, modifies and runs personal projects / 个人学习、修改、使用 | Allowed for eligible natural persons; no revenue share or income cap. |
+| Freelancer accepts a paid enterprise order / 个人接企业订单 | Allowed when the individual independently controls the Skill and supplies professional judgment and ordinary outputs. |
+| Enterprise uses, modifies, sells the delivered application or document / 企业商业化普通成果 | Allowed under the delivery agreement and third-party rights. No Skill operation, protected substantial copy or runtime access is transferred. |
+| Customer sets deadlines and requests revisions / 客户正常管理交付 | Allowed; ordinary project oversight alone is not Skill control. |
+| Employee runs it for employer using private equipment / 员工私机职务运行 | Not granted. A private account does not remove the organizational role. |
+| Sole individual/trading name / 自然人个人经营 | Can qualify when legally the same natural person's independently controlled activity. |
+| One-person company, registered enterprise or mixed contractor identity / 单人法人及混合身份 | No automatic entitlement; actual subject/control decides. Separate entities do not become natural persons merely through sole ownership. |
+| Enterprise deploys it, calls its API, integrates it, or uses a proxy operator / 企业部署、调用、集成或代理规避 | Not granted. Human clicking or a contractor account does not cure organizational control. |
+| Individual noncommercially shares Skill and modifications / 个人分享本体及修改版 | S2 permits same-license sharing to eligible individuals, preserving notices and identifying changes. |
+| Individual sells, white-labels or hosts Skill access / 转售、白标、托管本体访问 | Not granted. Paid ordinary deliverables remain permitted. |
+| Individual submits a contribution / 个人贡献 | Must control the necessary expression and platform rights. Same-license inclusion grant; no assignment or unrestricted relicensing. |
+| Employee submits employer-owned content / 雇主所有贡献 | Needs the actual holder's permission; contributing does not authorize enterprise Skill operation. |
+| Company reads public docs or makes a native Fork / 企业阅读及平台内 Fork | Applicable platform/legal rights remain; no additional project operational grant follows. |
+| G1 GitHub hosting / 全量 GitHub 发行 | Requires informed approval of the actual platform grants, including platform/affiliate AI rights. The custom license cannot cancel them. |
+| Personal Codex/ChatGPT/API use / 个人云模型 | Only actual compatible task-processing terms fit the narrow clause. No blanket provider exemption; personal account or training-off alone is not clearance. |
+| Facts, general methods and independently created material / 一般事实方法与独立创作 | No exclusive rights are claimed where none exist. The license does not manufacture copyright in wholly AI-generated content. |
 
-“Substantial protected content” has no automated safe percentage. A generic
-requirements table is not automatically owned by this project; a copied set of
-protected instructions is not ordinary output just because it appears in a table.
-Assess actual expression and the applicable law.
+Skill definitions/protected prompts and substantial protected copies are distinct
+from ordinary work products. No automatic similarity percentage decides the
+boundary. Customer materials still need lawful processing authority.
 
-The candidate's preferred-but-unadopted S2 proposal and S1 fallback, proposed cloud permission, separate-entity treatment,
-provider boundary, term/termination, language priority and legal venue remain
-proposals. Do not silently expand them into user-approved legal decisions.
-
-S2 is the preferred [sharing proposal](SHARING_OPTIONS.md), and G2 is the
-conservative [distribution research path](PLATFORM_PATHS.md); neither is adopted.
-[Cloud processing](CLOUD_PROCESSING.md) distinguishes a personally controlled
-API request to a necessary model provider from a forbidden enterprise-customer
-API to the Skill. The names Codex and ChatGPT do not establish license clearance.
+Native compatibility remains UNVERIFIED; research publication does not certify
+model compliance or production qualification. See [installation](../docs/QUICK_START.md),
+[platform disclosure](PLATFORM_PATHS.md) and [rights review](RIGHTS_AUDIT.md).

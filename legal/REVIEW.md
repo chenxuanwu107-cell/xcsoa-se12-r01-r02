@@ -62,11 +62,11 @@ performed by this task.
 
 1. Verify licensor identity, publication authority and protected contributions
    per file; resolve the [rights audit](RIGHTS_AUDIT.md).
-2. Review the preferred S2 proposal for final adoption; retain S1 only as a fallback.
+2. Review the sole S2 text now incorporated for final adoption; no S1 alternative remains in the adoption draft.
    GitHub-native platform rights cannot be excluded by this choice.
 3. Confirm the proposed treatment of registered sole enterprises, incorporated
    solo businesses, ambiguous contractors and third-party hosted model processing.
-4. Choose governing law, dispute forum/procedure, notice/contact, language priority,
+4. Approve the proposed absence of an express law/exclusive-forum choice, notice/contact, language priority,
    term/termination/remediation and any patent treatment with qualified counsel.
 5. Review assent and enforceability, mandatory local protections, copyright vs
    contract conditions, and compatibility with platform/contributor agreements.
@@ -76,15 +76,18 @@ performed by this task.
 These unresolved items are not filled with invented names, addresses or legal
 assurances. Neither publication nor a static PASS can close them.
 
-## Prepublication-1 revision scope
+## Current final-publication preparation scope
 
-User decision: REVISE + HOLD_PUBLIC; remote creation, Public and Release are
-expressly unauthorized. [Cloud processing](CLOUD_PROCESSING.md) proposes a
-narrow technical-processing permission without a product-wide exemption.
-[Sharing Options](SHARING_OPTIONS.md) now records S2 as preferred but not adopted;
-[Platform Paths](PLATFORM_PATHS.md) records G2 as the conservative research path,
-with G1 an alternative and no platform selected.
-[Risk Matrix](RISK_MATRIX.md) and the upgraded per-file rights manifest record
-which evidence and legal decisions remain missing. Neither public product
-documentation nor human research direction is proof of file-level title.
-No root LICENSE adoption or professional-method change occurs in this revision.
+S2 is integrated in the v0.1.0 NOT EFFECTIVE license draft; G1 full GitHub
+publication is the preferred path subject to actual rights and platform approval.
+Earlier reports record historical S1/G2 options and are not the current direction.
+The root LICENSE remains pending. Actual licensor/publication authority and
+applicable account grants are not inferred from policy direction or possession.
+
+The proposed section 10 now makes no express governing-law/exclusive-forum
+choice, relying on applicable conflict/jurisdiction rules; this is a concrete
+proposal for approval, not a legal validity opinion. Actual licensor identity,
+notice channel, covered rights, effective date and exact adoption remain pending.
+Enterprise operational/resale restrictions and ordinary-output freedoms remain.
+Native compatibility is an accurately disclosed research limitation, not a
+publication prerequisite. See [final review](../reports/FINAL_PUBLICATION_REVIEW.md).

@@ -1,13 +1,13 @@
 # XCSOA Individual & Independent Professional Use License
 
-Version 0.1 — formal drafting candidate, prepublication-2, not effective
+Version 0.1.0 — final preparation draft, publication-prep-1, NOT EFFECTIVE
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
 **Status notice.** This text proposes operative terms for a future release. It
 has not been approved by a lawyer or adopted by the verified rights holder.
 It grants no new rights while marked as a candidate. Before adoption, the
-licensor, covered files, effective release, governing law/forum, and the policy
+licensor, covered files, effective release, governing law/forum, and the S2 text and G1 platform grants, and the remaining legal
 choices identified in the legal review must be approved. “License” below refers
 to the proposed terms if and when validly adopted. Publication alone must not
 be used to claim that this candidate has taken effect.
@@ -152,37 +152,46 @@ Shared GPTs/plugins, marketplace publication, third-party apps and other
 additional recipients require separate review. The product-specific analysis
 and unverified conditions are recorded in [Cloud processing](CLOUD_PROCESSING.md).
 
-## 5. Personal modifications, sharing, and redistribution
+## 5. Personal modifications, sharing, and contributions — S2
 
-Eligible Individuals may privately modify their copies for permitted uses.
-Modifications do not remove restrictions on protected Skill content.
-No right is granted to sell, commercially host, white-label, or sublicense the
-Skill or protected derivative versions.
+Eligible Individuals may privately modify the Skill for permitted uses and may
+noncommercially copy and share the Skill and protected modifications with other
+eligible Individuals under this same License, preserving the license text,
+attribution, provenance and applicable notices. Identify modifications; do not
+claim inherited validation or endorsement. Each eligible recipient receives
+rights directly from the Licensor subject to this License, not a sublicense
+from the sender. The non-transferability in Section 2 does not prevent this
+expressly permitted same-license sharing.
 
-**Proposed direction: S2 — NOT_ADOPTED.** S2 is preferred for drafting; S1 is
-a fallback. Before adoption, Section 5 must contain the expressly approved
-operative alternative in [Sharing Options](SHARING_OPTIONS.md):
+No permission is granted to charge for the Skill itself, commercially host its
+functionality, white-label it, offer runtime access, or sublicense it on other
+terms. Organizations receive no project Operational Use grant through sharing.
+Applicable platform rights and mandatory law remain separate under Section 6.
+These sharing limits do not restrict earning income from permitted independent
+professional services or delivering and commercializing Ordinary Work Products.
 
-- **S1:** no additional redistribution or contribution-submission grant beyond
-  applicable platform rights and mandatory law; separate lawful contribution
-  permissions would be required.
-- **S2:** eligible natural persons may noncommercially share protected modified
-  copies under the same adopted license, retaining notices and modification
-  attribution, and submit contributions with the specified same-license
-  review/incorporation/distribution grant over rights they actually hold.
+An eligible Individual may submit a contribution for inclusion only to the
+extent that the Individual controls the necessary rights and identifies human
+expression, AI assistance and third-party components. For the rights actually
+held, the contributor grants the verified project rights holder a non-exclusive,
+worldwide, royalty-free right to review, reproduce, modify, incorporate and
+distribute the contribution as part of the Skill under this same License.
+The contributor also offers eligible downstream Individuals the rights in that
+contribution under this same License. This is not an assignment or permission
+to relicense under other terms.
 
-Neither alternative is effective by inclusion in this candidate or by the
-preference for S2. No distribution or contribution grant is currently adopted.
-Both preserve the individual commercial-work and ordinary-output permissions;
-neither grants enterprise Skill operation, sale/white-label/hosted access to
-the Skill, unrestricted sublicensing or rights in others' contributions. Fork,
-PR and hosting-platform grants must be cleared separately. The adopted text
-must insert the chosen operative alternative and remove the unselected one;
-it must not silently adopt a default or claim platform rights are overridden.
+Submission through GitHub additionally requires authority for the actual
+applicable platform grants over that submission; this License does not supply
+missing platform rights or cancel GitHub's terms. Do not submit a contribution
+with unresolved employer, client, joint-author or upstream rights. A personal
+account is not proof of title. Separately authorized inclusion of employer-owned
+expression does not authorize employees to operate the Skill for their employer.
+No contribution grants an Organization operational rights to the whole Skill.
 
-Preserve applicable copyright, license, provenance, and third-party notices in
-permitted copies. Do not imply endorsement or that a modified version has the
-original research status or has passed professional validation.
+S2 is the sole policy incorporated in this preparation draft. It becomes a grant
+only upon valid adoption of the complete License, not through this draft's
+existence. No contribution is accepted automatically. Preserve lawful reading,
+platform functionality and statutory exceptions under Section 6.
 
 ## 6. Public reading, platform rights, and legal exceptions
 
@@ -250,9 +259,11 @@ certify security, legal compliance, production qualification, or model behavior.
 ## 10. Interpretation, separate licenses, and adoption
 
 English is the proposed controlling text; the Chinese version is a reference
-translation. Governing law, forum/dispute process, notices, and licensor public
-identity are **not selected by this candidate** and must be recorded before
-adoption. Mandatory local rules remain applicable. If a term is unenforceable,
+translation. This draft proposes no express choice of governing law or exclusive forum;
+applicable conflict-of-law and jurisdiction rules, including mandatory local
+protections, determine them. That proposed approach needs final approval.
+The actual Licensor identity and notice/contact channel must be recorded before
+adoption. No identity or legal clearance is inferred from a repository username. If a term is unenforceable,
 the remaining terms apply only so far as lawful; severability does not convert
 this License into a blanket organizational grant.
 

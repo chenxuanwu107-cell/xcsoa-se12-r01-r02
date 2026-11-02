@@ -122,3 +122,9 @@ claimed by these instructions.
 R01 W8 remains **HUMAN_FREEZE_PENDING**; R02 FR1 remains
 **FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE**. Original behavior designs remain
 NOT_RUN. The separate historical local smoke does not certify native Codex use.
+
+Research-publication scope: the v0.1 candidate can be considered for publication
+with Native Compatibility UNVERIFIED; the SQLite block is not a requirement to
+rewrite the Skill or obtain a compatibility PASS before research distribution.
+Rights, actual license adoption and G1 platform approval remain separate gates.
+See [Roadmap](../ROADMAP.md) for the ten future positions; they are not dependencies.
