@@ -89,5 +89,53 @@
       "issue": "PolyForm trailing-slash URL returned 404",
       "resolution": "Replaced with canonical no-trailing-slash URL; page content retrieved."
     }
-  ]
+  ],
+  "prepublication_1": {
+    "checked_on": "2026-11-03",
+    "scope": "Official legal/provider documentation retrieved; no account or settings access, no model calls or provider agreement acceptance",
+    "observations": [
+      {
+        "url": "https://openai.com/policies/terms-of-use/",
+        "displayed_date_or_retrieval": "2026-01-01",
+        "result": "PAGE_CONTENT_RETRIEVED",
+        "scope_limit": "Individual terms: Content and corporate domains; actual agreement/region not verified"
+      },
+      {
+        "url": "https://openai.com/policies/services-agreement/",
+        "displayed_date_or_retrieval": "updated 2025-12-01; effective 2026-01-01",
+        "result": "PAGE_CONTENT_RETRIEVED",
+        "scope_limit": "Sections 4 and 9; actual natural-person contracting eligibility/account agreement not verified"
+      },
+      {
+        "url": "https://learn.chatgpt.com/docs/auth",
+        "displayed_date_or_retrieval": "retrieved 2026-11-03",
+        "result": "PAGE_CONTENT_RETRIEVED",
+        "scope_limit": "Codex ChatGPT versus API authentication and data-control distinction"
+      },
+      {
+        "url": "https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/",
+        "displayed_date_or_retrieval": "2026-03-13",
+        "result": "PAGE_CONTENT_RETRIEVED",
+        "scope_limit": "Data controls are not a copyright grant"
+      },
+      {
+        "url": "https://developers.openai.com/api/docs/guides/your-data",
+        "displayed_date_or_retrieval": "retrieved 2026-11-03",
+        "result": "PAGE_CONTENT_RETRIEVED",
+        "scope_limit": "Training and retention controls; endpoint/account unverified"
+      },
+      {
+        "url": "https://openai.com/policies/service-terms/",
+        "displayed_date_or_retrieval": "2026-10-16",
+        "result": "PAGE_CONTENT_RETRIEVED",
+        "scope_limit": "Code generation, GPT sharing and Apps/Actions terms"
+      },
+      {
+        "url": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+        "displayed_date_or_retrieval": "retrieved 2026-11-03",
+        "result": "PAGE_CONTENT_RETRIEVED",
+        "scope_limit": "D.3-D.6 and J.3; actual account agreement not verified"
+      }
+    ]
+  }
 }

@@ -49,6 +49,18 @@ class ReleaseCheckerControls(unittest.TestCase):
             self.assertEqual(files, [])
             self.assertEqual(findings[0]["rule"], "symlink_forbidden")
 
+    def test_rights_inventory_cannot_omit_a_file(self):
+        findings = checker.check_rights({"files": []}, {"one.md"})
+        self.assertIn("rights_file_set_mismatch", [r["rule"] for r in findings])
+
+    def test_claimed_clearance_requires_title_evidence(self):
+        record = {"path": "one.md", "content_parts": {k: "not established" for k in
+            ["human_original_expression", "ai_assistance", "inherited_expression", "third_party", "factual_metadata"]},
+            "evidence_refs": ["observed-generation"], "unconfirmed_parts": ["actual title"],
+            "relicensing_basis": {"status": "CLEARED", "title_evidence_refs": []}}
+        findings = checker.check_rights({"files": [record]}, {"one.md"})
+        self.assertIn("unsupported_rights_clearance", [r["rule"] for r in findings])
+
     def test_removed_secret_still_detected_in_history(self):
         with tempfile.TemporaryDirectory() as d:
             root = Path(d)

@@ -27,10 +27,10 @@ validly adopted**, not permission to use this unlicensed review copy.
 | Deliverable mentions general methods in independently written prose / 一般方法 | Not automatically restricted; facts, ideas and independent expression are not claimed as exclusive rights. |
 | Individual privately modifies their copy / 个人私改 | Allowed for eligible uses; protected portions keep the same restrictions. |
 | Individual sells or white-labels the Skill / 转售白标 | Not granted. |
-| Noncommercial sharing or off-platform modified distribution / 非商业再分发 | No additional grant in the conservative candidate; this policy is still pending approval. |
+| Noncommercial sharing or off-platform modified distribution / 非商业再分发 | S1/S2 are explicitly unselected; consult Sharing Options. No sharing grant is presently effective. |
 | Company reads public documentation / 企业阅读 | Permitted lawful reading; no additional operational/commercial Skill rights beyond platform terms or legal exceptions. |
 | Public GitHub fork by an individual or company / 平台内 Fork | Applicable GitHub terms govern that platform right. A fork does not itself establish enterprise runtime permission. |
-| Skill uploaded to a commercial hosted model / 上传商业模型平台 | Not automatically cleared. Necessary provider processing/retention rights and settings need review; personal control of the account alone is insufficient. |
+| Skill uploaded to a commercial hosted model / 上传商业模型平台 | Potential narrow technical processing is proposed, subject to actual product terms and rights clearance; no provider-wide exemption. See Cloud processing. |
 | GitHub/platform or affiliate uses under its terms / 平台条款授权 | Cannot be removed by the custom license. Public hosting needs a separate informed decision. |
 | Someone removes the license notice and renames the Skill / 改名删声明 | Does not erase restrictions on protected copied expression. Independent creation and legal exceptions remain distinct. |
 
@@ -39,6 +39,12 @@ requirements table is not automatically owned by this project; a copied set of
 protected instructions is not ordinary output just because it appears in a table.
 Assess actual expression and the applicable law.
 
-The candidate's no-extra-redistribution default, separate-entity treatment,
+The candidate's unselected S1/S2 sharing options, proposed cloud permission, separate-entity treatment,
 provider boundary, term/termination, language priority and legal venue remain
 proposals. Do not silently expand them into user-approved legal decisions.
+
+The two [sharing options](SHARING_OPTIONS.md) and two
+[distribution paths](PLATFORM_PATHS.md) are unselected.
+[Cloud processing](CLOUD_PROCESSING.md) distinguishes a personally controlled
+API request to a necessary model provider from a forbidden enterprise-customer
+API to the Skill. The names Codex and ChatGPT do not establish license clearance.

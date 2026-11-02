@@ -21,3 +21,9 @@ the adopted terms. No CLA, copyright transfer or enterprise license is implied.
 Run the local checks described in docs/TESTS.md. Label execution honestly and
 preserve failed attempts. Author checks are not independent professional review.
 No commit, merge, remote push or release is authorized by this file.
+
+Prepublication-1: [S1/S2](legal/SHARING_OPTIONS.md) are both pending. S1 adds no
+submission grant; S2 proposes qualified-individual, same-license noncommercial
+sharing and a specific contribution-inclusion grant. Neither is selected.
+GitHub Fork/PR/inbound terms and contributor title require separate clearance.
+An introduction-only repository would not accept Skill bodies or patches.

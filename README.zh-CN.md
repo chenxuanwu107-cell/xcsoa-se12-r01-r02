@@ -74,3 +74,10 @@ MIT、Apache-2.0、CC BY-NC-SA、PolyForm Noncommercial 均不作为最终建议
 
 [安全政策](SECURITY.md) · [贡献规则](CONTRIBUTING.md) · [变更记录](CHANGELOG.md)。
 未创建远程仓库，未推送、发布 Release 或设置 Public。
+
+Prepublication review 1 / 发布前修订 1：**REVISE + HOLD_PUBLIC**。
+[Cloud processing / 云端边界](legal/CLOUD_PROCESSING.md) ·
+[Sharing S1/S2 / 分享选项（未选）](legal/SHARING_OPTIONS.md) ·
+[GitHub G1/G2 / 发行路径（未选）](legal/PLATFORM_PATHS.md) ·
+[Legal and rights risk matrix / 风险矩阵](legal/RISK_MATRIX.md)。
+No remote creation, Public or Release is authorized.

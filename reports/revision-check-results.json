@@ -1,0 +1,54 @@
+{
+  "status": "STATIC_CHECK_PASS",
+  "files_checked": 44,
+  "markdown_links_checked": 121,
+  "json_files_parsed": 9,
+  "git": {
+    "status": "PASS",
+    "issues": [],
+    "objects_scanned": 58,
+    "commit_count": 2,
+    "root_count": 1,
+    "scope": "all local objects including unreachable objects; metadata and reflogs"
+  },
+  "issues": [],
+  "method_status": "METHOD_RESEARCH_CANDIDATE",
+  "model_behavior": "MODEL_BEHAVIOR_NOT_RUN",
+  "human_review": "HUMAN_REVIEW_PENDING",
+  "license_status": "CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED",
+  "limitations": [
+    "Pattern scans are bounded and not exhaustive.",
+    "External URLs are not fetched by this checker.",
+    "Static checks do not establish ownership, legal validity, method quality or model behavior."
+  ],
+  "revision": "prepublication-1",
+  "baseline_commit": "28f39029d788044d31bcc105624acd06e5b6bad3",
+  "snapshot_scope": "Revision tree after fixes, before revision commit. Final post-commit Git-object/metadata scan is retained by local custodian; earlier rc.1 result remains separate.",
+  "unit_tests": {
+    "status": "PASS",
+    "tests_run": 9,
+    "failures": 0,
+    "scope": "Release-checker controls only; no professional method or model behavior evaluation"
+  },
+  "frozen_scope": {
+    "status": "PASS",
+    "files_byte_identical": 15,
+    "core_license_sections_2_3_unchanged": true,
+    "baseline_main_preserved": true
+  },
+  "source_rights_review": {
+    "status": "20_EXACT_MEMBERS_HASH_MATCH",
+    "relicensing_title": "NOT_ESTABLISHED",
+    "source_payload_executed": false
+  },
+  "sharing_option": "UNSELECTED",
+  "distribution_path": "UNSELECTED",
+  "remote_creation": "NOT_AUTHORIZED_NOT_RUN",
+  "public_release": "NOT_AUTHORIZED_NOT_RUN",
+  "first_check_corrections": {
+    "missing_description_entry": "CORRECTED",
+    "local_reflog_actor_records_sanitized": 2,
+    "originals_retained": "PRIVATE_ONLY",
+    "commit_objects_rewritten": false
+  }
+}

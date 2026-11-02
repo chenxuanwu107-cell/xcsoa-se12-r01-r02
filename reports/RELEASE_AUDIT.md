@@ -88,3 +88,17 @@ platform implications, adopt the exact final license, establish a private
 security contact, rerun checks on any changed bytes, and approve the exact final
 commit plus the distinct actions of repository creation/visibility/release.
 Research freeze and production/activation approval are separate questions.
+
+## Prepublication-1 review amendment
+
+The user returned **REVISE + HOLD_PUBLIC**, expressly withholding remote creation,
+Public and Release approval. This amendment is based on the preserved rc.1
+baseline; the exact diff, frozen-file comparison and rerun records are identified
+in [Revision 1](REVISION_1.md). The historical pre-commit check report above is
+retained; it is not mislabeled as a new revision result.
+
+Cloud processing is a proposed narrow provider permission, not a blanket
+Codex/ChatGPT or training-opt-out exemption. Sharing S1/S2 and distribution G1/G2
+are unselected. The [risk matrix](../legal/RISK_MATRIX.md) and upgraded per-file
+rights ledger preserve unresolved ownership and legal bases. No candidate clause
+has become an operative LICENSE, and no model behavior qualification is added.

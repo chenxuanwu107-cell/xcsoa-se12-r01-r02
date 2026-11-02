@@ -1,6 +1,6 @@
 # XCSOA Individual & Independent Professional Use License
 
-Version 0.1 — formal drafting candidate, not effective
+Version 0.1 — formal drafting candidate, prepublication-1, not effective
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
@@ -120,11 +120,37 @@ does not permit:
 
 Receiving Ordinary Work Products under Section 3 is expressly permitted and is
 not prohibited indirect use. General-purpose tools do not themselves become
-the Skill, but this License grants no operational rights to a third-party
-hosting or model provider. Uploading the Skill for a provider to execute or
-retain is not automatically authorized; any necessary provider rights require
-separate permission or another applicable legal basis. The adopted policy must
-resolve this practical hosting boundary before recommending hosted operation.
+the Skill. The following **proposed technical-processing permission is not yet
+adopted** and grants no present rights:
+
+If validly adopted, an eligible Individual may submit the Skill to a computing
+or model provider solely to perform that Individual's permitted task. To the
+extent the Licensor actually holds the necessary rights, the provider and its
+necessary personnel/sub-processors would receive a non-exclusive permission
+limited to the transmission, copying, inference, task storage, security/abuse
+handling, legal compliance and retention/deletion acts necessary for that task,
+within the actual applicable product terms and controls documented as fitting
+this grant. The provider may charge for its general computing/model service;
+that alone is not a sale or sublicense of the Skill.
+
+This proposed permission is for technical processing, not independent use of
+the Skill for the provider's own professional work, resale, deployment as a
+reusable Skill service, unrelated training or general product improvement. It
+does not authorize an enterprise customer to access, invoke or control the
+Skill, and cannot be used to disguise a customer's proxy-operated capability.
+The Individual must retain actual account and task control; a customer-managed
+workspace, customer key or customer Skill API remains outside this exception.
+
+No provider is deemed compatible merely because the account is personal,
+training is disabled, the product has a particular name, or the client is local.
+No blanket exemption applies to Codex, ChatGPT, APIs or other providers. If the
+actual mandatory terms require broader rights, the submission needs separately
+approved rights-holder permission or a different agreement/product/execution
+route before it is made. This License cannot narrow a provider's agreement,
+bind a non-assenting provider or authorize rights the Licensor does not hold.
+Shared GPTs/plugins, marketplace publication, third-party apps and other
+additional recipients require separate review. The product-specific analysis
+and unverified conditions are recorded in [Cloud processing](CLOUD_PROCESSING.md).
 
 ## 5. Personal modifications, sharing, and redistribution
 
@@ -133,14 +159,25 @@ Modifications do not remove restrictions on protected Skill content.
 No right is granted to sell, commercially host, white-label, or sublicense the
 Skill or protected derivative versions.
 
-**Candidate redistribution policy:** beyond rights necessarily arising under
-Section 6 or mandatory law, this version grants no additional public or private
-redistribution right for the Skill, including modified versions or noncommercial
-sharing. Eligible readers may obtain their own copy from the authorized release
-under the adopted terms. An adopted policy may add a clearly specified
-noncommercial individual-sharing permission, but no such permission is implied
-by this draft. This paragraph is an explicit proposed conservative default,
-subject to final human approval.
+**Sharing and contribution option: UNSELECTED.** Before adoption, Section 5
+must contain exactly one of the two proposed alternatives in
+[Sharing Options, revision prepublication-1](SHARING_OPTIONS.md):
+
+- **S1:** no additional redistribution or contribution-submission grant beyond
+  applicable platform rights and mandatory law; separate lawful contribution
+  permissions would be required.
+- **S2:** eligible natural persons may noncommercially share protected modified
+  copies under the same adopted license, retaining notices and modification
+  attribution, and submit contributions with the specified same-license
+  review/incorporation/distribution grant over rights they actually hold.
+
+Neither alternative is selected or effective by inclusion in this candidate.
+Both preserve the individual commercial-work and ordinary-output permissions;
+neither grants enterprise Skill operation, sale/white-label/hosted access to
+the Skill, unrestricted sublicensing or rights in others' contributions. Fork,
+PR and hosting-platform grants must be cleared separately. The adopted text
+must insert the chosen operative alternative and remove the unselected one;
+it must not silently adopt a default or claim platform rights are overridden.
 
 Preserve applicable copyright, license, provenance, and third-party notices in
 permitted copies. Do not imply endorsement or that a modified version has the

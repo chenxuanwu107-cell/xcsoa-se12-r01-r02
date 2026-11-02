@@ -1,5 +1,7 @@
 # Complete release-candidate file list
 
+Revision: prepublication-1; rc.1 baseline preserved.
+
 - `.gitignore`
 - `CHANGELOG.md`
 - `CONTRIBUTING.md`
@@ -12,17 +14,23 @@
 - `docs/QUICK_START.md`
 - `docs/RESEARCH_STATUS.md`
 - `docs/TESTS.md`
+- `legal/CLOUD_PROCESSING.md`
 - `legal/FAQ.md`
 - `legal/LICENSE-CANDIDATE.en.md`
 - `legal/LICENSE-CANDIDATE.zh-CN.md`
+- `legal/PLATFORM_PATHS.md`
 - `legal/REVIEW.md`
 - `legal/RIGHTS_AUDIT.md`
+- `legal/RISK_MATRIX.md`
+- `legal/SHARING_OPTIONS.md`
 - `provenance/ADAPTATION.md`
 - `provenance/SOURCE_LEDGER.json`
 - `release-manifest.json`
 - `reports/RELEASE_AUDIT.md`
+- `reports/REVISION_1.md`
 - `reports/check-results.json`
 - `reports/external-links.json`
+- `reports/revision-check-results.json`
 - `rights-manifest.json`
 - `skills/r01-requirements/README.md`
 - `skills/r01-requirements/SKILL.md`
@@ -39,5 +47,5 @@
 - `tests/test_release_checks.py`
 - `tools/check_release.py`
 
-The local Git database is newly generated and audited separately; it is not a
-redistributed source archive. Private custody/review files are outside this tree.
+The local Git database is audited separately. Private source custody, exact
+review diff and approval records remain outside this publishable tree.

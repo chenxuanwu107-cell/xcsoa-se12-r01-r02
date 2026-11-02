@@ -88,6 +88,29 @@ def check_links(root, file, text):
     return issues
 
 
+def check_rights(ledger, names):
+    """Validate evidence accounting, without adjudicating copyright or law."""
+    issues = []
+    records = ledger.get("files", [])
+    paths = [r.get("path") for r in records]
+    if len(paths) != len(set(paths)) or set(paths) != set(names):
+        issues.append({"file": "rights-manifest.json", "rule": "rights_file_set_mismatch"})
+    for record in records:
+        required = ["content_parts", "evidence_refs", "unconfirmed_parts", "relicensing_basis"]
+        if any(not record.get(k) for k in required):
+            issues.append({"file": record.get("path", "rights-manifest.json"), "rule": "rights_basis_missing"})
+            continue
+        parts = record["content_parts"]
+        if any(k not in parts for k in ["human_original_expression", "ai_assistance", "inherited_expression", "third_party", "factual_metadata"]):
+            issues.append({"file": record["path"], "rule": "rights_categories_missing"})
+        grant = record["relicensing_basis"]
+        if grant.get("status") == "CLEARED" and not grant.get("title_evidence_refs"):
+            issues.append({"file": record["path"], "rule": "unsupported_rights_clearance"})
+        if grant.get("status") != "CLEARED" and not grant.get("missing_evidence"):
+            issues.append({"file": record["path"], "rule": "unexplained_rights_unknown"})
+    return issues
+
+
 def git_run(root, args, data=None):
     env = {"PATH": "/usr/bin:/bin", "LC_ALL": "C", "GIT_CONFIG_NOSYSTEM": "1",
            "GIT_CONFIG_GLOBAL": os.devnull, "GIT_NO_REPLACE_OBJECTS": "1",
@@ -201,6 +224,7 @@ def check(root=ROOT):
     for r in example["records"]:
         if r["source_sha256"] != source_map[r["source_id"]]["sha256"] or r["execution"] != "NOT_RUN" or r["consumer_acceptance"] != "NOT_OBSERVED" or r["independent_verification"] != "NOT_RUN" or r["outcome_claim"] is not None:
             issues.append({"file": "tests/example-records.json", "rule": "example_false_evidence"})
+    issues.extend(check_rights(json.loads((root / "rights-manifest.json").read_text()), names))
     git = scan_git(root)
     issues.extend(git["issues"])
     return {"status": "STATIC_CHECK_PASS" if not issues else "STATIC_CHECK_FAIL",

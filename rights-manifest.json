@@ -1,275 +1,2525 @@
 {
+  "schema_version": 2,
+  "revision": "prepublication-1",
   "status": "RIGHTS_NOT_FULLY_CLEARED",
-  "license_intent": "CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED",
   "actual_licensor": "UNCONFIRMED",
   "no_current_grant": true,
-  "coverage": "All candidate files, including this rights record and the generated integrity manifest; third-party referenced works are excluded.",
+  "license_intent": "CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED",
+  "evidence_index": {
+    "HUMAN-POLICY-DIRECTION-ONLY": "Current explicit human policy and REVISE/HOLD feedback; no copyright authorship/assignment attestation.",
+    "TASK-GENERATION-OBSERVED": "Observed assistant-generated release text/code/metadata in this task and preserved local history; AI assistance is not title.",
+    "GIT-BASELINE-IDENTITY": "28f39029d788044d31bcc105624acd06e5b6bad3 identifies bytes and task history, not authorship or assignment; new files are observed in this revision.",
+    "SOURCE-BYTES-REVERIFIED": "20 selected source members rehashed read-only; public identities in provenance/SOURCE_LEDGER.json; private custody not distributed.",
+    "PUBLIC-SOURCE-CITATION-NOT-TITLE": "File-specific official URLs and paraphrase scope; not a grant to relicense sources or proof of actual account terms."
+  },
   "files": [
     {
       "path": ".gitignore",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written exclusion patterns; routine syntax, not an authorship determination.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written exclusion patterns; routine syntax, not an authorship determination."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "CHANGELOG.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written descriptions of observed local changes, with factual dates and no efficacy claims.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written descriptions of observed local changes, with factual dates and no efficacy claims."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "CONTRIBUTING.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written contribution conditions; human policy direction, unselected S1/S2 and title checks.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written contribution conditions; human policy direction, unselected S1/S2 and title checks."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "FILE_LIST.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "Deterministically generated filenames and scope notice; bare filenames/counts are factual.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "Deterministically generated filenames and scope notice; bare filenames/counts are factual."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "LICENSE",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written pending-license notice based on human refusal to adopt or publish; no operative grant.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written pending-license notice based on human refusal to adopt or publish; no operative grant."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "README.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written English project/use/status summary, policy paraphrase and links.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written English project/use/status summary, policy paraphrase and links."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "README.zh-CN.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written Chinese project/use/status summary, policy paraphrase and links.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written Chinese project/use/status summary, policy paraphrase and links."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "SECURITY.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written proposed reporting and security-boundary guidance; official GitHub reporting reference.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written proposed reporting and security-boundary guidance; official GitHub reporting reference."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "REFERENCES_AND_PARAPHRASES_ONLY_NO_FULL_PAYLOAD_IDENTIFIED",
+          "public_reference_urls": [
+            "https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository"
+          ],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Source citations/paraphrases are identified; no exhaustive similarity review or blanket third-party relicensing grant is established."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "docs/COMBINED_EXAMPLE.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-created combined synthetic walkthrough based on the two original methods; no real task receipt.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-created combined synthetic walkthrough based on the two original methods; no real task receipt."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R01-ORIGINAL",
+            "R02-ORIGINAL"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "docs/QUICK_START.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written host-neutral examples and local-check instructions; no host qualification.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written host-neutral examples and local-check instructions; no host qualification."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "docs/RESEARCH_STATUS.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-adapted bounded research verdict/limitations from exact W8 and FR1 sources; source authorship unknown.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-adapted bounded research verdict/limitations from exact W8 and FR1 sources; source authorship unknown."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R01-W8-VERDICT",
+            "R01-W8-HUMAN",
+            "R02-FR1-VERDICT",
+            "R02-FR1-LIMITS"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "docs/TESTS.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written descriptions of implemented static checks versus unrun behavior designs.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written descriptions of implemented static checks versus unrun behavior designs."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+    },
+    {
+      "path": "legal/CLOUD_PROCESSING.md",
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "New AI-written conditional product/rights analysis and proposed processor boundary.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "New AI-written conditional product/rights analysis and proposed processor boundary."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "REFERENCES_AND_PARAPHRASES_ONLY_NO_FULL_PAYLOAD_IDENTIFIED",
+          "public_reference_urls": [
+            "https://developers.openai.com/api/docs/guides/your-data",
+            "https://learn.chatgpt.com/docs/auth",
+            "https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/",
+            "https://openai.com/policies/service-terms/",
+            "https://openai.com/policies/services-agreement/",
+            "https://openai.com/policies/terms-of-use/"
+          ],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Source citations/paraphrases are identified; no exhaustive similarity review or blanket third-party relicensing grant is established."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "legal/FAQ.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written scenario applications of human policy, proposed clauses and unresolved options.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written scenario applications of human policy, proposed clauses and unresolved options."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-drafted English candidate informed by human policy; exact operative language has not been human-authored or legally adopted by evidence.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-drafted English candidate informed by human policy; exact operative language has not been human-authored or legally adopted by evidence."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-drafted reference translation; no verified human translator or translation-rights assignment.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-drafted reference translation; no verified human translator or translation-rights assignment."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+    },
+    {
+      "path": "legal/PLATFORM_PATHS.md",
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "New AI-written D.4/D.5/J.3 paraphrases and G1/G2 publication alternatives; neither selected.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "New AI-written D.4/D.5/J.3 paraphrases and G1/G2 publication alternatives; neither selected."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "REFERENCES_AND_PARAPHRASES_ONLY_NO_FULL_PAYLOAD_IDENTIFIED",
+          "public_reference_urls": [
+            "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+          ],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Source citations/paraphrases are identified; no exhaustive similarity review or blanket third-party relicensing grant is established."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "legal/REVIEW.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written primary-source paraphrases, classification inferences and legal decision list.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written primary-source paraphrases, classification inferences and legal decision list."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "REFERENCES_AND_PARAPHRASES_ONLY_NO_FULL_PAYLOAD_IDENTIFIED",
+          "public_reference_urls": [
+            "https://choosealicense.com/licenses/mit/",
+            "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+            "https://legacy.sba.gov/business-guide/launch-your-business/choose-business-structure",
+            "https://opensource.org/osd",
+            "https://polyformproject.org/licenses/noncommercial/1.0.0",
+            "https://scjgj.gz.gov.cn/zcfg/fl/content/post_9744783.html",
+            "https://www.acas.org.uk/employment-status",
+            "https://www.apache.org/licenses/LICENSE-2.0",
+            "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+            "https://www.copyright.gov/title17/92chap1.html",
+            "https://www.gov.uk/employment-status/selfemployed-contractor",
+            "https://www.gov.uk/set-up-business",
+            "https://www.samr.gov.cn/djzcj/zcfg/fl/art/2026/art_9b4263a169cf43c2aba950cfc9ac1af2.html",
+            "https://www.spp.gov.cn/zdgz/202006/t20200602_463886.shtml"
+          ],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Source citations/paraphrases are identified; no exhaustive similarity review or blanket third-party relicensing grant is established."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "legal/RIGHTS_AUDIT.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written audit observations and missing-title conclusions; not a title opinion.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written audit observations and missing-title conclusions; not a title opinion."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+    },
+    {
+      "path": "legal/RISK_MATRIX.md",
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "New AI-written issue/decision mapping; severity is release judgment, not legal adjudication.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "New AI-written issue/decision mapping; severity is release judgment, not legal adjudication."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+    },
+    {
+      "path": "legal/SHARING_OPTIONS.md",
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "New AI-written S1/S2 operative alternatives and contribution analysis; neither selected.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "Human policy direction/approval feedback only; not proof of authorship, assignment or full copyright."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "New AI-written S1/S2 operative alternatives and contribution analysis; neither selected."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "HUMAN-POLICY-DIRECTION-ONLY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "provenance/ADAPTATION.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written source-field-to-public-file mapping based on read source obligations; not a title grant.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written source-field-to-public-file mapping based on read source obligations; not a title grant."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "ALL_LISTED_SOURCE_IDENTITIES_AND_STATED_READING_DEPTH"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "provenance/SOURCE_LEDGER.json",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "Generated exact source identity/version/read-depth metadata; source custody is not copyright ownership.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "Generated exact source identity/version/read-depth metadata; source custody is not copyright ownership."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "EXACT_SOURCE_HASH_METADATA_NOT_TITLE"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "release-manifest.json",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "Deterministic file hashes/lengths plus factual scope labels; own identity bound by final commit.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "Deterministic file hashes/lengths plus factual scope labels; own identity bound by final commit."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "reports/RELEASE_AUDIT.md",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written bounded source/security/check conclusions and disclosed limitations.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written bounded source/security/check conclusions and disclosed limitations."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+    },
+    {
+      "path": "reports/REVISION_1.md",
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "New AI-written revision scope and factual check-accounting summary.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "New AI-written revision scope and factual check-accounting summary."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "reports/check-results.json",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "Preserved historical rc.1 static-check facts/limitations, not current revision evidence.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "Preserved historical rc.1 static-check facts/limitations, not current revision evidence."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "reports/external-links.json",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "Generated official-page retrieval metadata and bounded observations; no source-page payload.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "Generated official-page retrieval metadata and bounded observations; no source-page payload."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
+    },
+    {
+      "path": "reports/revision-check-results.json",
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "Generated revision-specific static-check results and no-behavior/no-legal-clearance labels.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "Generated revision-specific static-check results and no-behavior/no-legal-clearance labels."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "rights-manifest.json",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-structured per-file observations and missing bases; no self-generated title certificate.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-structured per-file observations and missing bases; no self-generated title certificate."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r01-requirements/README.md",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R01-ORIGINAL",
+            "R01-W8-VERDICT"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r01-requirements/SKILL.md",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R01-ORIGINAL#/trigger",
+            "R01-ORIGINAL#/procedure",
+            "R01-SCOPE#/handoff_contract",
+            "R01-W8-VERDICT",
+            "R01-W8-HUMAN"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r01-requirements/examples.md",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R01-ORIGINAL#/tests"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r01-requirements/references/handoff.md",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R01-SCOPE#/handoff_contract",
+            "R01-ORIGINAL#/procedure/4"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r01-requirements/tests/cases.json",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R01-ORIGINAL#/tests",
+            "R01-ORIGINAL#/failure_policy"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r02-coordination/README.md",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R02-ORIGINAL",
+            "R02-FR1-VERDICT"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r02-coordination/SKILL.md",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R02-ORIGINAL#/procedure",
+            "R02-SCOPE#/handoff_contract",
+            "R02-W05",
+            "R02-R8-GUIDE",
+            "R02-FR1-LIMITS"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r02-coordination/examples.md",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R02-ORIGINAL#/tests",
+            "R02-R8-GUIDE"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r02-coordination/references/git-evidence.md",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R02-W05",
+            "R02-R8-HANDOFF",
+            "R02-FR1-VERDICT"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r02-coordination/references/handoff.md",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R02-R8-CONTEXT",
+            "R02-R8-HANDOFF",
+            "R02-FR1-LIMITS"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "skills/r02-coordination/tests/cases.json",
-      "origin": "AI_ASSISTED_PUBLIC_ADAPTATION_OF_VERIFIED_METHOD",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-assisted public adaptation/guide or newly worded exposed example, preserving the exact frozen baseline; underlying protected-source authorship and inbound rights remain unconfirmed."
+        },
+        "inherited_expression": {
+          "status": "SOURCE_IDENTITY_KNOWN_TITLE_UNKNOWN",
+          "source_refs": [
+            "R02-ORIGINAL#/tests",
+            "R02-W05",
+            "R02-R8-GUIDE",
+            "R02-FR1-VERDICT"
+          ]
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY",
+        "SOURCE-BYTES-REVERIFIED"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "tests/example-records.json",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-created synthetic example text and deterministic hashes; no real receipt or source dataset.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-created synthetic example text and deterministic hashes; no real receipt or source dataset."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTUAL_PORTIONS_PRESENT_NO_EXCLUSIVE_CLAIM",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "tests/test_release_checks.py",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written local release-check implementation/tests; no third-party implementation copied in the observed drafting.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written local release-check implementation/tests; no third-party implementation copied in the observed drafting."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     },
     {
       "path": "tools/check_release.py",
-      "origin": "NEW_AI_ASSISTED_RELEASE_OR_LEGAL_DRAFTING_AND_METADATA",
-      "ownership": "HUMAN_EXPRESSION_AND_LICENSOR_AUTHORITY_PENDING",
-      "third_party_embedded_payload": "NONE_IDENTIFIED_IN_CANDIDATE",
-      "candidate_license": "XCSOA Individual & Independent Professional Use License — not adopted"
+      "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
+      "file_specific_basis": "AI-written local release-check implementation/tests; no third-party implementation copied in the observed drafting.",
+      "content_parts": {
+        "human_original_expression": {
+          "status": "NOT_ESTABLISHED",
+          "identified_protectable_spans": [],
+          "known_input": "No independently verified human-authored span/title evidence obtained."
+        },
+        "ai_assistance": {
+          "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
+          "scope": "AI-written local release-check implementation/tests; no third-party implementation copied in the observed drafting."
+        },
+        "inherited_expression": {
+          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
+          "source_refs": []
+        },
+        "third_party": {
+          "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
+          "public_reference_urls": [],
+          "limit": "A bounded source/drafting review, not an exhaustive originality or legal similarity determination."
+        },
+        "factual_metadata": {
+          "status": "FACTS_AND_METHODS_NOT_CLAIMED_EXCLUSIVE",
+          "scope": "Hashes, filenames, observed counts/dates or generic procedures are not asserted as exclusive copyright; any original arrangement is a separate unverified question."
+        }
+      },
+      "evidence_refs": [
+        "TASK-GENERATION-OBSERVED",
+        "GIT-BASELINE-IDENTITY"
+      ],
+      "unconfirmed_parts": [
+        "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
+        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+      ],
+      "relicensing_basis": {
+        "status": "NOT_ESTABLISHED",
+        "title_evidence_refs": [],
+        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "missing_evidence": [
+          "Actual holder and protectable-expression identification for this file/part.",
+          "Any necessary upstream/contributor/employment/commission rights.",
+          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+        ],
+        "not_proof_of_title": [
+          "Source possession or hashes",
+          "Human research/policy guidance",
+          "AI output alone",
+          "Neutral Git author identity or a generated manifest"
+        ]
+      },
+      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted"
     }
   ]
 }

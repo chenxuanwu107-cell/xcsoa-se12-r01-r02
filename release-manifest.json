@@ -1,7 +1,9 @@
 {
   "release_candidate": "0.1.0-rc.1",
+  "prepublication_revision": 1,
+  "baseline_commit": "28f39029d788044d31bcc105624acd06e5b6bad3",
   "status": "LOCAL_REVIEW_ONLY_NOT_PUBLISHED",
-  "self_exclusion": "This manifest excludes its own bytes to avoid hash recursion; bind it with the final Git commit or external artifact hash.",
+  "self_exclusion": "This manifest excludes itself; bind its exact bytes with final Git commit/external receipt.",
   "files": [
     {
       "path": ".gitignore",
@@ -10,18 +12,18 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 866,
-      "sha256": "02709376226e2569a9a7ab9da6c4ca8ffb1cf9904f5d466e865891314143bab9"
+      "bytes": 1529,
+      "sha256": "ee6866124577882ef4593ccca0c5d67babc90b7049727529d7f67925a754b5d3"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 1417,
-      "sha256": "e1c8e52932bb3eb28f4efb916a3fdd343cc1986d53a807542522a7d12b9c5d54"
+      "bytes": 1805,
+      "sha256": "cd3eacc5ae0eefc8ae1b1c301c76a54c9ecb096f44d6dce5f959f0a8d201a2d6"
     },
     {
       "path": "FILE_LIST.md",
-      "bytes": 1337,
-      "sha256": "19b79f1a70ddf446da3ed5b69cafc094fff8d50dcf02cb8818d61f098faaa984"
+      "bytes": 1556,
+      "sha256": "ad4b1f1e6f3466ef952773c2022f09662d0c64f24df304017a2e6ba8ff6d96f4"
     },
     {
       "path": "LICENSE",
@@ -30,13 +32,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4995,
-      "sha256": "5802d7f13208baa9af3292579a06281effffb30675e448d6aa097cb77e10130a"
+      "bytes": 5400,
+      "sha256": "0eaba9e342a27d0f7331adb4fed905f6e33ee5f8e9d19b763ed3c1b1929369d3"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 4438,
-      "sha256": "b8b7ff039fd659d0b70aa735ed6c27c090370e4caab08ef5e7c913d6ed930153"
+      "bytes": 4843,
+      "sha256": "92e6baeb26fa865f045af7bfd30de30eb8f4cf76d51b90a5eee1a4716070394c"
     },
     {
       "path": "SECURITY.md",
@@ -60,33 +62,53 @@
     },
     {
       "path": "docs/TESTS.md",
-      "bytes": 2157,
-      "sha256": "9de37723e7a858d4bacc27f8ce1458af64d4d3c60b773bb4bcd33f1cc3c58b5a"
+      "bytes": 2553,
+      "sha256": "09fb22dc78f23f9304545238e34fea1f3bf3a3666bb132c7ed6d10744102e6ee"
+    },
+    {
+      "path": "legal/CLOUD_PROCESSING.md",
+      "bytes": 7745,
+      "sha256": "21676e813577923769e1fc5efbd3fc3f618bf3be5252dfa2fc5c21b8e4a42c77"
     },
     {
       "path": "legal/FAQ.md",
-      "bytes": 5259,
-      "sha256": "e7f92b2726517858b8fd8b683c9b39060a4f42b2deb34e7817c05d03d6883fe5"
+      "bytes": 5646,
+      "sha256": "bfa53d9bf702aa54d446dac9a8a16fd7c2ec379ca6332343778461cbc37e2d3a"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
-      "bytes": 13671,
-      "sha256": "e140533bd396878c38d04a54c1a3d1cc93fe6826d998ee853621f13d3eec32af"
+      "bytes": 16080,
+      "sha256": "39bfc25aa5c46fb94304485976140ec6693ec41f003d8021be8459a6bc70acc4"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
-      "bytes": 10173,
-      "sha256": "29888f16c42d23103eaeac96abfb41119fc0c8577a211b44ec0a34ab7c88aa70"
+      "bytes": 12032,
+      "sha256": "c060718c9ab6be34452c9600c22a3c99b3e2c17dd70a9e85b6b557ddf1463f14"
+    },
+    {
+      "path": "legal/PLATFORM_PATHS.md",
+      "bytes": 4888,
+      "sha256": "710ef09bece07d07b9659e4cbc82f227e431c55ed9efa2480af9cbedf5edf4f6"
     },
     {
       "path": "legal/REVIEW.md",
-      "bytes": 7415,
-      "sha256": "38df1492fc08eec14e7814833ecf1b138757194c4334a36aaedf822cb1fe4073"
+      "bytes": 8053,
+      "sha256": "89d1408a4f002a897da2c993ab9461c7b42174fd10688c80bbe42a56704303b1"
     },
     {
       "path": "legal/RIGHTS_AUDIT.md",
-      "bytes": 4597,
-      "sha256": "143389ae046f2a637705bbe99bd5bd4ca7569a1aa180e95cbf9912fd8011ea45"
+      "bytes": 6766,
+      "sha256": "0e3a0498279c8537fc7daa85f6866b1aa2594be0bf28d4950a481ed0d5632a43"
+    },
+    {
+      "path": "legal/RISK_MATRIX.md",
+      "bytes": 5384,
+      "sha256": "d63b2b2fe5df1768e2778e5705b21eafea8f2dac400b960dc2f7e7a1d87849a7"
+    },
+    {
+      "path": "legal/SHARING_OPTIONS.md",
+      "bytes": 5456,
+      "sha256": "ec8987381abc3230e4bafdaa4b010253245e7e13dfa7256ebdcd9c5f40014de9"
     },
     {
       "path": "provenance/ADAPTATION.md",
@@ -100,8 +122,13 @@
     },
     {
       "path": "reports/RELEASE_AUDIT.md",
-      "bytes": 5209,
-      "sha256": "743467b57284073632f92841f2d5ac55040c0c1164ee37b0757970f88a0bbeec"
+      "bytes": 6022,
+      "sha256": "6f18bf029a9352ebb727751a2da026cbf7da883ba08ffb15ee4ab781c675c08e"
+    },
+    {
+      "path": "reports/REVISION_1.md",
+      "bytes": 4620,
+      "sha256": "99b6dc9f6b163b72cb4e4d03e517fb49da72bdc57abe3f8420e4947acf962450"
     },
     {
       "path": "reports/check-results.json",
@@ -110,13 +137,18 @@
     },
     {
       "path": "reports/external-links.json",
-      "bytes": 3445,
-      "sha256": "fc416b943ef00c3d77b914efb326ce11e15833b7634005a08fd714e9af5a008c"
+      "bytes": 5675,
+      "sha256": "514d3e262ca8ac17191b87dad25e44e5be169d1d59df7e93e296d2f94b3105ce"
+    },
+    {
+      "path": "reports/revision-check-results.json",
+      "bytes": 1956,
+      "sha256": "ec41f40801126563812b7cf2cdcaec7f505e6be2006b3260d8ce3b4ed60e214b"
     },
     {
       "path": "rights-manifest.json",
-      "bytes": 14381,
-      "sha256": "820269869b3bd21d20b642062f082aa27fc424b9d2be704cd46378cc5264fb64"
+      "bytes": 134930,
+      "sha256": "251aa5a0e3e2b1176d2b9e055608658eab0a62fc758a000a37c3ef46955534f5"
     },
     {
       "path": "skills/r01-requirements/README.md",
@@ -180,13 +212,13 @@
     },
     {
       "path": "tests/test_release_checks.py",
-      "bytes": 3246,
-      "sha256": "deeec25f074a673effce3ba498e8a5c76d5233fe33a836eda1c978a2ccc5e2e1"
+      "bytes": 4052,
+      "sha256": "f74b5f7540dd2f920b7643b5fb264ba14677b3b48cc3e1f69fbe364e6cf7883d"
     },
     {
       "path": "tools/check_release.py",
-      "bytes": 11491,
-      "sha256": "3c23fcae8c5398fbf78c40dfbedeaad6755ea3016223ebca29e4a830664cb9ae"
+      "bytes": 12956,
+      "sha256": "b487f0c722687a2fafd3258db3d667c80654e9919866dbab73e756710471b35d"
     }
   ]
 }

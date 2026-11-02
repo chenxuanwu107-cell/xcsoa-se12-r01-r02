@@ -2,9 +2,12 @@
 
 **RIGHTS_NOT_FULLY_CLEARED / LEGAL_REVIEW_REQUIRED / HUMAN_REVIEW_PENDING**
 
-Every candidate file is enumerated in rights-manifest.json, and all distributable
-bytes are enumerated in the root release-manifest.json. That inventory does not
-establish ownership. No copyright holder's private name or address is published.
+Every candidate file has its own record in [rights-manifest.json](../rights-manifest.json),
+with separate human-expression, AI-assistance, inherited/source-expression,
+third-party and missing-relicensing-basis fields. Exact bytes are bound by the
+root release-manifest.json and final commit. No copyright holder's private name
+or address is published. These records establish what is known per file, not
+title by inventory or a generic assertion that everything is original.
 
 | Material class | What was inspected | Included? | Rights conclusion |
 |---|---|---|---|
@@ -39,3 +42,34 @@ terms and human contribution evidence privately. If necessary, remove or
 separately license only the affected expression. Do not publish underlying
 private contracts or data as proof. Until cleared, this is a **local review
 candidate**, not a rights-cleared public release.
+
+## Prepublication-1: file-level evidence standard
+
+The confirmed human contribution is the current policy direction and approval
+feedback. It is not identified as the authoring of every sentence, script or
+research passage. No protected human-authored span, assignment, employer/client
+waiver or joint-author license has been independently established for the files.
+The ledger therefore records those categories as unestablished rather than
+inventing human authorship. Observed AI drafting is recorded separately; it
+does not turn inherited expression into AI-owned or user-owned property.
+
+Each Skill file points to the specific original method/scope/research identities
+and the type of adaptation. Each legal document identifies its policy or public
+source basis. Scripts and tests identify new AI-assisted implementation, and
+manifests identify generated facts/selection rather than asserting copyright in
+bare hashes, dates or counts. Source hashes and local commit authors identify
+bytes and task creation; neither proves copyright title.
+
+The original-source custody check reopens the selected exact members read-only
+to distinguish provenance labels from actual grants; no source script runs.
+Known source wording about user-supplied research and bounded derived records is
+not treated as a complete public-platform or custom-relicensing authorization.
+Public legal/provider terms are informational evidence, not proof of which
+agreement governed the original generations or a future user's account.
+
+No third-party paper/book/code payload is added in this revision. Public-page
+paraphrases and links are identified as such, and substantial protected source
+expression remains a separate clearance question. No exhaustive external
+similarity search, contributor-title investigation or legal adjudication has
+been performed. Missing documentary evidence remains a real release blocker;
+the audit does not supply it by inference.

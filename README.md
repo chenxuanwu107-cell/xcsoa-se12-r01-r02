@@ -94,3 +94,10 @@ Read [Security](SECURITY.md), [Contributing](CONTRIBUTING.md), and
 [Changelog](CHANGELOG.md) before proposing changes. No remote repository,
 GitHub Release, public visibility change, or operational activation is authorized
 by these documents.
+
+Prepublication review 1 / 发布前修订 1：**REVISE + HOLD_PUBLIC**。
+[Cloud processing / 云端边界](legal/CLOUD_PROCESSING.md) ·
+[Sharing S1/S2 / 分享选项（未选）](legal/SHARING_OPTIONS.md) ·
+[GitHub G1/G2 / 发行路径（未选）](legal/PLATFORM_PATHS.md) ·
+[Legal and rights risk matrix / 风险矩阵](legal/RISK_MATRIX.md)。
+No remote creation, Public or Release is authorized.
