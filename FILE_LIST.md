@@ -1,28 +1,19 @@
-# Final reviewed file scope / 最终审阅文件边界
+# Reviewed file scope / 审阅文件边界
 
-Revision: github-final-prep-1; **50 files, NOT PUBLISHED**. G1 is confirmed;
-the exact public content/actions and license adoption are not approved.
-This is the complete Skill review tree, not a G2 introduction repository.
+Revision: post-release-finalization-1; **50 files** in this local successor.
+G1 baseline rc.1 is public. This successor is not pushed and its license is not adopted.
 
-- S (11): complete independent Skill folders, including their examples and tests.
-- D (16): coherent release context: README/license status, installation, Known Limitations,
-  roadmap, security/contribution policy and lawful source references.
-- U (9): optional public support/validation and integrity metadata.
-- A (14): optional **sanitized public summaries**, not original audit evidence.
+- S (11): complete independent Skill folders; method bodies/references unchanged.
+- D (16): README, installation, current license candidate, limitations, roadmap,
+  contribution/security policies and lawful source references.
+- U (9): public support/validation and integrity metadata.
+- A (14): sanitized review summaries; older reports retain their historical scope.
 
-All 50 are proposed for review, not automatically approved to publish. S/D are
-needed for this complete Research Candidate presentation; U/A are not needed
-for Skill installation. Removing optional files changes the approved tree/hash.
-**Private-only records inside this tree: 0.** Original research ZIPs, private
-custody/absolute locators, raw host/model logs, contracts, credentials, internal
-production records and human approval/receipt files remain outside this tree.
-No private sibling directory or prior review ZIP is part of the public scope.
-
-G1 would upload the exact separately approved full tree and applicable history.
-G2 would use a different, separately approved introduction-only GitHub tree;
-the full Skill is delivered through a separately reviewed channel. Do not push
-this full commit as an introduction-only repository. G2 remains a fallback;
-G1 is the selected direction, not permission to publish.
+No private original archives, custody locators, contracts, approval records,
+credentials, raw host/model logs or internal production records are included.
+Private-only records in this tree: 0. The separate Profile README and local review
+packet are outside this 50-file project scope. This is the complete G1 Skill tree;
+G2 would require a separate introduction-only repository and is not selected.
 
 | File | Class | Purpose |
 |---|---|---|

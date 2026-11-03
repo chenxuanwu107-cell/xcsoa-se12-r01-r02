@@ -1,8 +1,14 @@
 {
   "schema_version": 2,
-  "revision": "github-final-prep-1",
-  "status": "RIGHTS_NOT_FULLY_CLEARED",
-  "actual_licensor": "UNCONFIRMED",
+  "revision": "post-release-finalization-1",
+  "status": "OWNER_AUTHORITY_ATTESTED_LICENSE_ADOPTION_PENDING",
+  "actual_licensor": {
+    "public_name": "yidewen",
+    "github_account": "chenxuanwu107-cell",
+    "capacity": "NATURAL_PERSON_SELF_CONFIRMED",
+    "authority_basis": "EXPLICIT_OWNER_ATTESTATION",
+    "independent_title_adjudication": "NOT_PERFORMED"
+  },
   "no_current_grant": true,
   "license_intent": "CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED",
   "evidence_index": {
@@ -15,7 +21,9 @@
     "NATIVE-USER-ACCEPTANCE-OBSERVATIONS": "One bounded real CLI attempt, raw terminal code 14/exit 1, unchanged method bytes, full temporary folder copies and Quick Start requests; private custody, not model or ownership qualification.",
     "FINAL-PUBLICATION-PREP-OBSERVATIONS": "Baseline 11788e36527e7cdc834f81f34bf842b632b8dbd3; all current files scanned, five method files reread and prior source-rights evidence reused, current S2/G1 direction, private exact-commit checks. No title or final approval inferred.",
     "FINAL-RELEASE-CLOSURE": "Baseline d9d06d6acbbe80fd000e7316096bbbb4569e74d0; five unchanged priority files use existing bounded source-rights review. Publication scope classification and contact/route/status corrections only; no new title evidence, research or behavioral tests.",
-    "GITHUB-FINAL-PREP-1": "User confirmed G1, account and exact target; in-principle platform grants accepted. Five priority files reread against prior bounded source evidence. All 11 Skill files and license sections 1-10 unchanged. Account authentication verified read-only; no title or publication authorization inferred."
+    "GITHUB-FINAL-PREP-1": "User confirmed G1, account and exact target; in-principle platform grants accepted. Five priority files reread against prior bounded source evidence. All 11 Skill files and license sections 1-10 unchanged. Account authentication verified read-only; no title or publication authorization inferred.",
+    "OWNER-ATTESTATION-POST-RELEASE": "Proposed Licensor explicitly identifies as the natural person publishing as yidewen (GitHub chenxuanwu107-cell), attests authority to license covered expression and no known unresolved restrictions. Owner evidence only, not independent adjudication or adoption.",
+    "POST-RELEASE-FINALIZATION-1": "Read-only verified rc.1 main/Release and Profile README; private vulnerability reporting enabled; five priority files and unchanged non-guide Skill files match published bytes. New license/navigation/metadata candidate only; no remote mutation or license adoption."
   },
   "files": [
     {
@@ -52,7 +60,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -111,11 +119,13 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -176,11 +186,13 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -240,11 +252,13 @@
         "GIT-BASELINE-IDENTITY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -274,7 +288,7 @@
     {
       "path": "LICENSE",
       "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
-      "file_specific_basis": "AI-written pending-license notice based on human refusal to adopt or publish; no operative grant.",
+      "file_specific_basis": "Complete AI-assisted English adoption candidate from confirmed personal-commercial/S2/enterprise restriction policy and prior legal drafting; public Licensor identity/authority owner-attested. Still NOT_EFFECTIVE.",
       "content_parts": {
         "human_original_expression": {
           "status": "NOT_ESTABLISHED",
@@ -283,11 +297,14 @@
         },
         "ai_assistance": {
           "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
-          "scope": "AI-written pending-license notice based on human refusal to adopt or publish; no operative grant."
+          "scope": "Complete AI-assisted English adoption candidate from confirmed personal-commercial/S2/enterprise restriction policy and prior legal drafting; public Licensor identity/authority owner-attested. Still NOT_EFFECTIVE."
         },
         "inherited_expression": {
-          "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
-          "source_refs": []
+          "status": "POLICY_AND_EXISTING_LICENSE_DRAFT_REUSED",
+          "source_refs": [
+            "HUMAN-POLICY-DIRECTION-ONLY",
+            "OWNER-ATTESTATION-POST-RELEASE"
+          ]
         },
         "third_party": {
           "status": "NO_EXTERNAL_PAYLOAD_ADDED_OR_IDENTIFIED_IN_THIS_FILE",
@@ -303,11 +320,13 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -423,11 +442,13 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -488,11 +509,13 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -551,7 +574,9 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
@@ -608,11 +633,13 @@
         "GIT-BASELINE-IDENTITY",
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Source citations/paraphrases are identified; no exhaustive similarity review or blanket third-party relicensing grant is established."
       ],
       "relicensing_basis": {
@@ -678,7 +705,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -798,11 +825,13 @@
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -870,7 +899,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -928,11 +957,13 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "GIT-BASELINE-IDENTITY"
+        "GIT-BASELINE-IDENTITY",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -998,11 +1029,12 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Source citations/paraphrases are identified; no exhaustive similarity review or blanket third-party relicensing grant is established."
       ],
       "relicensing_basis": {
@@ -1064,11 +1096,13 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -1098,7 +1132,7 @@
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
       "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
-      "file_specific_basis": "AI-assisted final preparation license v0.1.0: S2 integrated; individual paid-work and customer-output sections 2-3 retained byte-for-byte; licensor/adoption unconfirmed; not an effective license.",
+      "file_specific_basis": "New factual pointer to authoritative root English LICENSE; no duplicate operative English text.",
       "content_parts": {
         "human_original_expression": {
           "status": "NOT_ESTABLISHED",
@@ -1107,7 +1141,7 @@
         },
         "ai_assistance": {
           "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
-          "scope": "AI-assisted final preparation license v0.1.0: S2 integrated; individual paid-work and customer-output sections 2-3 retained byte-for-byte; licensor/adoption unconfirmed; not an effective license."
+          "scope": "New factual pointer to authoritative root English LICENSE; no duplicate operative English text."
         },
         "inherited_expression": {
           "status": "NO_RESEARCH_METHOD_EXPRESSION_RELIED_ON_AS_A_NEW_TITLE_GRANT",
@@ -1129,11 +1163,13 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -1194,11 +1230,13 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -1262,11 +1300,13 @@
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Source citations/paraphrases are identified; no exhaustive similarity review or blanket third-party relicensing grant is established."
       ],
       "relicensing_basis": {
@@ -1345,11 +1385,13 @@
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Source citations/paraphrases are identified; no exhaustive similarity review or blanket third-party relicensing grant is established."
       ],
       "relicensing_basis": {
@@ -1410,11 +1452,13 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -1475,11 +1519,13 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -1539,11 +1585,13 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -1607,7 +1655,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -1672,7 +1720,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -1732,11 +1780,13 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -1797,7 +1847,9 @@
         "TASK-GENERATION-OBSERVED",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
@@ -1907,7 +1959,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -1968,7 +2020,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -2029,7 +2081,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -2090,7 +2142,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -2205,7 +2257,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -2264,11 +2316,13 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "GITHUB-FINAL-PREP-1"
+        "GITHUB-FINAL-PREP-1",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -2329,11 +2383,13 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "SOURCE-BYTES-REVERIFIED"
+        "SOURCE-BYTES-REVERIFIED",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -2398,33 +2454,35 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "SOURCE-BYTES-REVERIFIED"
+        "SOURCE-BYTES-REVERIFIED",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
-        "status": "NOT_ESTABLISHED",
-        "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "status": "OWNER_ATTESTED_AUTHORITY_NOT_INDEPENDENTLY_CLEARED",
+        "title_evidence_refs": [
+          "OWNER-ATTESTATION-POST-RELEASE"
+        ],
+        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
         "missing_evidence": [
-          "Actual holder and protectable-expression identification for this file/part.",
-          "Any necessary upstream/contributor/employment/commission rights.",
-          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+          "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
+          "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
         ],
         "not_proof_of_title": [
-          "Source possession or hashes",
-          "Human research/policy guidance",
+          "Source hashes or Git author",
           "AI output alone",
-          "Neutral Git author identity or a generated manifest"
+          "Source possession or policy direction alone"
         ]
       },
       "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
-        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
       },
@@ -2467,7 +2525,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -2529,33 +2587,35 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "SOURCE-BYTES-REVERIFIED"
+        "SOURCE-BYTES-REVERIFIED",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
-        "status": "NOT_ESTABLISHED",
-        "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "status": "OWNER_ATTESTED_AUTHORITY_NOT_INDEPENDENTLY_CLEARED",
+        "title_evidence_refs": [
+          "OWNER-ATTESTATION-POST-RELEASE"
+        ],
+        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
         "missing_evidence": [
-          "Actual holder and protectable-expression identification for this file/part.",
-          "Any necessary upstream/contributor/employment/commission rights.",
-          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+          "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
+          "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
         ],
         "not_proof_of_title": [
-          "Source possession or hashes",
-          "Human research/policy guidance",
+          "Source hashes or Git author",
           "AI output alone",
-          "Neutral Git author identity or a generated manifest"
+          "Source possession or policy direction alone"
         ]
       },
       "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
-        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
       },
@@ -2599,7 +2659,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -2661,11 +2721,13 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "SOURCE-BYTES-REVERIFIED"
+        "SOURCE-BYTES-REVERIFIED",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -2730,33 +2792,35 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "SOURCE-BYTES-REVERIFIED"
+        "SOURCE-BYTES-REVERIFIED",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
-        "status": "NOT_ESTABLISHED",
-        "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "status": "OWNER_ATTESTED_AUTHORITY_NOT_INDEPENDENTLY_CLEARED",
+        "title_evidence_refs": [
+          "OWNER-ATTESTATION-POST-RELEASE"
+        ],
+        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
         "missing_evidence": [
-          "Actual holder and protectable-expression identification for this file/part.",
-          "Any necessary upstream/contributor/employment/commission rights.",
-          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+          "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
+          "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
         ],
         "not_proof_of_title": [
-          "Source possession or hashes",
-          "Human research/policy guidance",
+          "Source hashes or Git author",
           "AI output alone",
-          "Neutral Git author identity or a generated manifest"
+          "Source possession or policy direction alone"
         ]
       },
       "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
-        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
       },
@@ -2800,7 +2864,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -2863,33 +2927,35 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "SOURCE-BYTES-REVERIFIED"
+        "SOURCE-BYTES-REVERIFIED",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
-        "status": "NOT_ESTABLISHED",
-        "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "status": "OWNER_ATTESTED_AUTHORITY_NOT_INDEPENDENTLY_CLEARED",
+        "title_evidence_refs": [
+          "OWNER-ATTESTATION-POST-RELEASE"
+        ],
+        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
         "missing_evidence": [
-          "Actual holder and protectable-expression identification for this file/part.",
-          "Any necessary upstream/contributor/employment/commission rights.",
-          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+          "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
+          "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
         ],
         "not_proof_of_title": [
-          "Source possession or hashes",
-          "Human research/policy guidance",
+          "Source hashes or Git author",
           "AI output alone",
-          "Neutral Git author identity or a generated manifest"
+          "Source possession or policy direction alone"
         ]
       },
       "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
-        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
       },
@@ -2930,33 +2996,35 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "SOURCE-BYTES-REVERIFIED"
+        "SOURCE-BYTES-REVERIFIED",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
-        "status": "NOT_ESTABLISHED",
-        "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "status": "OWNER_ATTESTED_AUTHORITY_NOT_INDEPENDENTLY_CLEARED",
+        "title_evidence_refs": [
+          "OWNER-ATTESTATION-POST-RELEASE"
+        ],
+        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
         "missing_evidence": [
-          "Actual holder and protectable-expression identification for this file/part.",
-          "Any necessary upstream/contributor/employment/commission rights.",
-          "Applicable generation-provider terms plus the legally relevant human contribution basis."
+          "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
+          "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
         ],
         "not_proof_of_title": [
-          "Source possession or hashes",
-          "Human research/policy guidance",
+          "Source hashes or Git author",
           "AI output alone",
-          "Neutral Git author identity or a generated manifest"
+          "Source possession or policy direction alone"
         ]
       },
       "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
-        "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
+        "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
       },
@@ -3002,7 +3070,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified.",
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared.",
         "Any protected inherited expression in the identified source objects needs original-author/inbound-license evidence; identity and research guidance do not prove that authority."
       ],
       "relicensing_basis": {
@@ -3064,7 +3132,7 @@
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -3121,11 +3189,13 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "GIT-BASELINE-IDENTITY"
+        "GIT-BASELINE-IDENTITY",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -3182,11 +3252,13 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "GIT-BASELINE-IDENTITY"
+        "GIT-BASELINE-IDENTITY",
+        "OWNER-ATTESTATION-POST-RELEASE",
+        "POST-RELEASE-FINALIZATION-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
-        "Actual licensor identity, any employment/client/joint-author constraints and governing provider agreement remain unverified."
+        "Actual licensor identity/authority is now owner-attested; independent title/provider-law adjudication remains unperformed. No known unresolved employment/client/joint-author restriction was declared."
       ],
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
@@ -3219,18 +3291,25 @@
     "R1": "New AI-assisted material, no identified conflict; protectability is not presumed.",
     "R2": "Five method-body/reference files prioritized for any actual inherited protected expression and necessary license basis.",
     "R3": "Reserved for a confirmed third-party expression/ownership conflict; none identified here.",
-    "S2": "INTEGRATED_FINAL_PREPARATION_DRAFT_NOT_EFFECTIVE",
+    "S2": "FINAL_ADOPTION_CANDIDATE_NOT_EFFECTIVE",
     "G2": "FALLBACK_NOT_SELECTED",
-    "G1": "DIRECTION_AND_TARGET_CONFIRMED_PLATFORM_GRANTS_ACCEPTED_IN_PRINCIPLE_UPLOAD_NOT_AUTHORIZED"
+    "G1": "RC1_PUBLIC_SUCCESSOR_UPDATE_PENDING_APPROVAL"
   },
   "packaging_revision": "codex-native-packaging-1",
   "acceptance_notice_revision": 1,
-  "publication_preparation": "github-final-prep-1 / v0.1 Research Candidate / NOT_PUBLISHED",
+  "publication_preparation": "post-release-finalization-1 / rc.1 PUBLIC / local successor NOT_PUSHED",
   "publication_blockers": [
-    "B01_LICENSOR_AND_PROTECTED_EXPRESSION_AUTHORITY_UNCONFIRMED",
-    "B02_EXACT_LICENSE_LEGAL_REVIEW_AND_ADOPTION_PENDING",
-    "B03_EXACT_LICENSED_COMMIT_AND_PUBLICATION_ACTIONS_NOT_APPROVED",
-    "B04_PRIVATE_SECURITY_CONTACT_UNCONFIGURED"
+    "EXACT_LICENSE_ADOPTION_AND_SCOPE_EFFECTIVENESS_NOTICE_CHOICES_PENDING",
+    "PROFILE_AND_PROJECT_SUCCESSOR_PUSH_AND_RC2_RELEASE_APPROVAL_PENDING"
   ],
-  "release_closure_revision": 1
+  "release_closure_revision": 1,
+  "owner_attestation": {
+    "scope": "Authority to license the covered expression, especially the five core Skill/Reference files, with no known unresolved third-party/employer/client/joint-author restrictions, explicitly confirmed by the proposed Licensor.",
+    "limit": "Not a statement that every AI-assisted span is copyrightable or an independent CLEAR determination; only actual controlled rights can be granted.",
+    "license_adoption": "NOT_GIVEN"
+  },
+  "residual_rights_unknowns": [
+    "Independent title/copyrightability adjudication not performed; AI participation does not prove or defeat all rights.",
+    "Any concrete later third-party protected-expression conflict needs actual permission or targeted treatment; no such payload identified in current five files."
+  ]
 }

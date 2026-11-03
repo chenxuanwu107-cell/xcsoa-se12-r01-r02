@@ -1,6 +1,6 @@
 # Roadmap / 后续十个岗位
 
-The first proposed public artifact is **v0.1 Research Candidate**, containing only
+The first public artifact is [**v0.1 Research Candidate / v0.1.0-rc.1**](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases/tag/v0.1.0-rc.1), containing only
 R01 Requirements Engineering and R02 Engineering Coordination & Handoff.
 R01 W8 awaits Human Freeze; R02 FR1 is FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE.
 No roadmap entry changes either status or promises native compatibility.

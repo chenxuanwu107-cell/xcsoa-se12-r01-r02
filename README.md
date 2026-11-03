@@ -3,14 +3,18 @@
 Two independently usable research-derived skills for requirements engineering
 and engineering coordination/handoff. No Xuanwu AI installation is required.
 
-**v0.1 Research Candidate · PREPUBLICATION / NOT PUBLISHED**
+**v0.1 Research Candidate · first public preview released**
 
-Artifact version: `0.1.0-rc.1`; proposed tag: `v0.1.0-rc.1` (not created).
+Published baseline: [v0.1.0-rc.1](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases/tag/v0.1.0-rc.1).
+This local post-release revision proposes `v0.1.0-rc.2`; it is not released and
+the custom license is **NOT EFFECTIVE** pending express adoption.
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
 [中文](README.zh-CN.md) · [Quick Start](docs/QUICK_START.md) ·
-[Known limitations](docs/RESEARCH_STATUS.md#known-limitations) · [Final review](reports/FINAL_PUBLICATION_REVIEW.md) · [Roadmap](ROADMAP.md)
+[Known limitations](docs/RESEARCH_STATUS.md#known-limitations) · [License](LICENSE) ·
+[Examples](docs/COMBINED_EXAMPLE.md) · [Roadmap](ROADMAP.md) ·
+[Feedback](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/issues) · [Security reports](SECURITY.md)
 
 | Skill | Use it for | Start here |
 |---|---|---|
@@ -78,7 +82,10 @@ additional enterprise operational rights; applicable platform rights and legal
 exceptions remain. The current GitHub terms include platform and affiliate AI
 rights that this license cannot remove; see [legal review](legal/REVIEW.md).
 
-The root [LICENSE](LICENSE) is pending. Read the [English candidate](legal/LICENSE-CANDIDATE.en.md),
+The complete English adoption candidate is in the root [LICENSE](LICENSE),
+with proposed Licensor **yidewen** (the natural person publishing as
+`chenxuanwu107-cell`), based on that person's authority statement. This is not
+independent title clearance or license adoption. Read the [English pointer](legal/LICENSE-CANDIDATE.en.md),
 [Chinese reference translation](legal/LICENSE-CANDIDATE.zh-CN.md), and
 [scenario FAQ](legal/FAQ.md). MIT, Apache-2.0, CC BY-NC-SA, and PolyForm
 Noncommercial are not final-license recommendations or adopted alternatives.
@@ -105,12 +112,11 @@ contribute material they control, and earn income from independent professional
 work. No enterprise Skill operation or resale grant is added. The draft remains
 NOT EFFECTIVE until rights and adoption approval are complete.
 
-G1 full GitHub publication is the confirmed direction. The intended repository is
-`chenxuanwu107-cell/xcsoa-se12-r01-r02`. The publisher has accepted applicable
-platform/affiliate grants in principle; exact content and publication approval
-remain pending. G2 is a fallback, not the selected route. The custom restriction
-cannot withdraw platform rights. See [platform disclosure](legal/PLATFORM_PATHS.md).
-No remote creation, push, Public or Release has occurred.
+G1 full GitHub publication was carried out at
+[chenxuanwu107-cell/xcsoa-se12-r01-r02](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02)
+for rc.1 after explicit publication approval. That approval did not adopt the
+license. The custom restriction cannot withdraw applicable platform rights.
+This successor revision still needs separate approval. See [platform disclosure](legal/PLATFORM_PATHS.md).
 
 **Codex native compatibility is UNVERIFIED.** Actual native initialization was
 blocked; discovery and explicit invocation are NOT_RUN. See
@@ -124,8 +130,9 @@ R03-R12 are ten future positions for gradual separate research/review and releas
 they are not included or qualified here. See [Roadmap](ROADMAP.md). Ordinary use
 of R01 or R02 never requires the complete twelve-position system.
 
-Private security reporting is NOT_CONFIGURED. Enabling and checking GitHub Private
-Vulnerability Reporting is proposed for the approved publication sequence;
-see [SECURITY.md](SECURITY.md). Public reports are sanitized summaries, not private
+GitHub Private Vulnerability Reporting is **enabled**. Use the repository
+Security → Advisories → Report a vulnerability route for confidential security
+reports; ordinary feedback belongs in Issues. Notification delivery has not been
+tested. See [SECURITY.md](SECURITY.md). Public reports are sanitized summaries, not private
 source custody or raw execution evidence. The 50-file review scope is classified
 in [FILE_LIST.md](FILE_LIST.md).

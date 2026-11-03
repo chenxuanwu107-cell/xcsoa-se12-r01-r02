@@ -1,5 +1,25 @@
 # Changelog
 
+## post-release-finalization-1 — proposed v0.1.0-rc.2, NOT RELEASED
+
+- Preserved public rc.1 commit/tag/Release; no professional-method change.
+- Corrected README, Quick Start, roadmap and enabled security-reporting status;
+  added direct feedback and license navigation.
+- Recorded proposed natural-person Licensor yidewen and owner-attested authority,
+  without independent CLEAR or an all-AI copyright claim.
+- Moved the complete English adoption candidate into root LICENSE and kept a
+  single-source pointer plus Chinese reference; S2/core commercial freedoms and
+  enterprise restrictions retained. NOT EFFECTIVE pending express adoption.
+- Allowed the intended origin and release tags in static checks while preserving
+  all-object scanning and foreign-remote rejection; added focused regression.
+
+## v0.1.0-rc.1 — 2026-11-03 — PUBLIC RESEARCH PREVIEW
+
+- Published exact commit a9a36db6e5c57716f147e3bfb235c10aa6f1268d and its 50 files.
+- Created v0.1.0-rc.1 Pre-release with the project license still NOT EFFECTIVE.
+- Enabled Private Vulnerability Reporting; no end-to-end notification test.
+- The following entries describe prepublication history, not current public status.
+
 ## github-final-prep-1 — 2026-11-03 — HOLD_PUBLIC
 
 - Recorded confirmed G1 direction and target `chenxuanwu107-cell/xcsoa-se12-r01-r02`;

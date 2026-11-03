@@ -1,8 +1,8 @@
 # Usage FAQ / 简明使用 FAQ
 
-**Final preparation draft only — NOT EFFECTIVE.**
-CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUBLIC.
-The [English license draft](LICENSE-CANDIDATE.en.md) is the proposed controlling
+**Post-release adoption candidate — NOT EFFECTIVE.**
+CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUSH.
+The complete English [root LICENSE](../LICENSE) is the proposed controlling
 text; [中文参考译文](LICENSE-CANDIDATE.zh-CN.md) is explanatory. “Allowed” below
 means only **if validly adopted**, over rights actually held.
 
@@ -21,7 +21,7 @@ means only **if validly adopted**, over rights actually held.
 | Individual submits a contribution / 个人贡献 | Must control the necessary expression and platform rights. Same-license inclusion grant; no assignment or unrestricted relicensing. |
 | Employee submits employer-owned content / 雇主所有贡献 | Needs the actual holder's permission; contributing does not authorize enterprise Skill operation. |
 | Company reads public docs or makes a native Fork / 企业阅读及平台内 Fork | Applicable platform/legal rights remain; no additional project operational grant follows. |
-| G1 GitHub hosting, direction confirmed / 全量方向已确认 | Applicable platform/affiliate grants accepted in principle; exact content/actions still need approval. The custom license cannot cancel platform rights. |
+| G1 GitHub hosting / 全量 GitHub | rc.1 is public under the applicable platform grants. This successor and license adoption remain unapproved. The custom license cannot cancel platform rights. |
 | G2 introduction + separate delivery / 仅介绍与外部交付 | Fallback only, not selected. Needs its own approved introduction/delivery channel; no Skill bodies or patches in the introduction repository. |
 | Personal Codex/ChatGPT/API use / 个人云模型 | Only actual compatible task-processing terms fit the narrow clause. No blanket provider exemption; personal account or training-off alone is not clearance. |
 | Facts, general methods and independently created material / 一般事实方法与独立创作 | No exclusive rights are claimed where none exist. The license does not manufacture copyright in wholly AI-generated content. |
@@ -33,3 +33,30 @@ boundary. Customer materials still need lawful processing authority.
 Native compatibility remains UNVERIFIED; research publication does not certify
 model compliance or production qualification. See [installation](../docs/QUICK_START.md),
 [platform disclosure](PLATFORM_PATHS.md) and [rights review](RIGHTS_AUDIT.md).
+
+## Personal cloud use / 个人云端运行
+
+Once the license is adopted, evaluate an actual product/account configuration
+once and retain its terms/date, task control, training/improvement rights and
+retention conditions. Reuse that decision while the relevant terms, account,
+workspace and recipients remain unchanged; no new legal interview is required
+for every task. No product-specific compatible configuration has been certified.
+
+- A personally controlled task with provider rights limited to the Section 4
+  necessary processing scope can fit the proposed grant; general computing fees
+  alone are not Skill resale.
+- Personal account, training-off or a local client alone is insufficient. Broader
+  mandatory provider training/improvement rights need separate actual authority
+  or a fitting agreement/product/local execution route before submission.
+- Customer-managed keys/workspaces, corporate Skill APIs or proxy operation do
+  not gain permission through this technical-processing clause.
+
+## Adoption and prior release / 采用及旧版
+
+The proposed Licensor has identified as the natural person publishing as yidewen
+(GitHub: chenxuanwu107-cell) and attested authority with no known unresolved
+rights restrictions. This is owner evidence, not independent legal clearance or
+a claim that all AI-assisted words are exclusively protected. rc.1 remains the
+original public research snapshot with its pending notice. Proposed rc.2 would
+carry the expressly adopted text prospectively; no tag rewrite or implicit
+retroactive permission for past unlicensed acts is proposed.

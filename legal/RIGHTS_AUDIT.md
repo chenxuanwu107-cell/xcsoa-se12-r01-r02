@@ -1,5 +1,40 @@
 # Rights and third-party audit
 
+**OWNER_AUTHORITY_ATTESTED / INDEPENDENT_TITLE_NOT_ADJUDICATED / LEGAL_REVIEW_REQUIRED**
+
+The proposed Licensor identifies as the natural person publishing as **yidewen**
+(GitHub: `chenxuanwu107-cell`). In this post-release review, that person expressly
+attested authority to license the covered expression and reported no known
+unresolved third-party, employer, client or joint-author restrictions. This is
+holder-supplied evidence; it does not identify every protectable human span,
+prove all AI-assisted expression copyrightable, or constitute independent CLEAR.
+
+The two SKILL.md files and three Method References match the rc.1 bytes. Their
+specific R01 original/scope/W8 and R02 original/scope/W05/R8/FR1 source mappings
+and prior selected-source permission observations were reused. No specific
+third-party protected paper/book/code passage or implementation was identified
+in these five public files. No new REMOVE, REWRITE or LICENSE_REQUIRED finding
+is supported. The original source identity/limited research labels alone still
+do not prove upstream title; the owner's new authority statement is recorded
+separately rather than inferred from those labels or Git author data.
+
+Current priority disposition: **OWNER_ATTESTED_AUTHORITY / NO_SPECIFIC_CONFLICT_IDENTIFIED /
+INDEPENDENT_COPYRIGHTABILITY_AND_TITLE_UNKNOWN**. If an actual conflicting
+protected passage is identified later, obtain the relevant permission or address
+only that part. Do not reopen the whole historical collection on speculation.
+Bare facts and general methods require no invented copyright, and no claim is
+made to exclusive rights in wholly AI-generated or otherwise unprotected matter.
+
+The [rights ledger](../rights-manifest.json) records this new basis and remaining
+uncertainty. The complete [English candidate](../LICENSE) still needs express
+adoption for its stated scope; publication approval of rc.1 was not adoption.
+Private statements/contracts/custody and original archives remain excluded.
+
+## Prior audit record before the post-release owner statement
+
+The following preparation record is historical. Its missing-holder statements
+predate the attestation above; they are not repeated demands for a new identity.
+
 **RIGHTS_NOT_FULLY_CLEARED / LEGAL_REVIEW_REQUIRED / HUMAN_REVIEW_PENDING**
 
 Every candidate file has its own record in [rights-manifest.json](../rights-manifest.json),

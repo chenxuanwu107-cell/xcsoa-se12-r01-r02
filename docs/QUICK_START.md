@@ -1,10 +1,15 @@
 # Codex Quick Start / 复制文件夹即可安装
 
-**Authorized local review only: HOLD_PUBLIC / LEGAL_REVIEW_REQUIRED.**
+**Research Candidate / LICENSE_ADOPTION_PENDING / LEGAL_REVIEW_REQUIRED.**
 The license candidate is not effective. These steps grant no additional rights;
 retain the source distribution's LICENSE, legal notices and research status.
 Cloud use also needs an applicable cleared configuration; see
 [personal use](PERSONAL_USE.md). No global configuration change is needed.
+
+Get the reviewed source snapshot from the
+[published rc.1 release](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases/tag/v0.1.0-rc.1)
+or repository. Public availability alone does not adopt the pending license.
+This local successor proposes rc.2 without changing the professional method.
 
 ## Copy one complete folder
 
@@ -126,7 +131,8 @@ NOT_RUN. The separate historical local smoke does not certify native Codex use.
 Research-publication scope: the v0.1 candidate can be considered for publication
 with Native Compatibility UNVERIFIED; the SQLite block is not a requirement to
 rewrite the Skill or obtain a compatibility PASS before research distribution.
-Rights, actual license adoption and exact publication approval remain separate
-gates. G1 is confirmed for `chenxuanwu107-cell/xcsoa-se12-r01-r02`; it does not
-authorize uploading this still-unlicensed candidate.
+The rc.1 research preview is public; license adoption and approval of this local
+successor remain pending. The proposed Licensor has supplied an authority
+statement; it is not independent legal clearance. Read the root LICENSE and FAQ
+for S2, individual cloud processing and enterprise-use boundaries.
 See [Roadmap](../ROADMAP.md) for the ten future positions; they are not dependencies.

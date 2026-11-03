@@ -24,6 +24,8 @@ class ReleaseCheckerControls(unittest.TestCase):
 
     def test_public_hash_and_reserved_identity_are_legal(self):
         self.assertEqual(checker.scan_text("fixture", "a" * 64 + "\nrelease-candidate@invalid.example"), [])
+        self.assertEqual(checker.scan_text("fixture",
+            "git@github.com:chenxuanwu107-cell/xcsoa-se12-r01-r02.git"), [])
 
     def test_missing_and_escaping_links(self):
         with tempfile.TemporaryDirectory() as d:
@@ -82,6 +84,33 @@ class ReleaseCheckerControls(unittest.TestCase):
             self.assertEqual(report["status"], "FAIL")
             self.assertIn("github_token", [f["rule"] for f in report["issues"]])
             self.assertEqual(report["commit_count"], 2)
+
+    def test_published_origin_and_tags_keep_security_checks(self):
+        with tempfile.TemporaryDirectory() as d:
+            root = Path(d)
+            template = root / "empty-template"
+            template.mkdir()
+            def git(*args):
+                return checker.git_run(root, ["-c", "user.name=Fixture Builder", "-c",
+                    "user.email=fixture@invalid.example"] + list(args))
+            git("init", "--template=" + str(template), "--initial-branch=main")
+            (root / "README.md").write_text("# Synthetic published fixture\n")
+            git("add", "README.md")
+            git("commit", "-m", "synthetic published state")
+            git("tag", "-a", "v0.0.0-fixture", "-m", "synthetic release")
+            git("remote", "add", "origin",
+                "https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02.git")
+            self.assertEqual(checker.scan_git(root)["status"], "PASS")
+            git("remote", "set-url", "origin",
+                "git@github.com:chenxuanwu107-cell/xcsoa-se12-r01-r02.git")
+            self.assertEqual(checker.scan_git(root)["status"], "PASS")
+            git("remote", "set-url", "--push", "origin", "https://example.invalid/other.git")
+            findings = checker.scan_git(root)["issues"]
+            self.assertIn("unexpected_remote", [f["rule"] for f in findings])
+            fake = "gh" + "p_" + "HARMLESSTAGFIXTURE" * 3
+            git("tag", "-a", "v0.0.1-fixture", "-m", fake)
+            findings = checker.scan_git(root)["issues"]
+            self.assertIn("github_token", [f["rule"] for f in findings])
 
 
 if __name__ == "__main__":

@@ -1,8 +1,8 @@
 {
-  "release_candidate": "0.1.0-rc.1",
+  "release_candidate": "0.1.0-rc.2",
   "prepublication_revision": 2,
   "baseline_commit": "ea8aa5b63cf2aaeed1ce0f415d1e2880fed72520",
-  "status": "HOLD_PUBLIC_RIGHTS_AND_LICENSE_ADOPTION_AND_EXACT_EXECUTION_APPROVAL_PENDING",
+  "status": "LOCAL_POST_RELEASE_REVIEW_HOLD_PUSH_LICENSE_ADOPTION_PENDING",
   "self_exclusion": "This manifest excludes itself; final commit/external receipt binds exact bytes.",
   "files": [
     {
@@ -12,23 +12,23 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 3470,
-      "sha256": "d613ef88b04db719503d55b13215e766305d74824acf50b27e3ba7e8236fd9b5"
+      "bytes": 4661,
+      "sha256": "11bcc669f1ef3f43f0a8457b503fb2eed5ad68904745bd41abed256295bd3139"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 2468,
-      "sha256": "8b108095e93610365076110b785b09cf2cfd01761a0300f7c263cfb8fd2da46d"
+      "bytes": 2674,
+      "sha256": "8f2a2fe634170f29e056dab8191cafd33f80d0a2ff13b97561fb648eb239d773"
     },
     {
       "path": "FILE_LIST.md",
-      "bytes": 6341,
-      "sha256": "9a91263a0f96d6f5922ece576e987aafb0b10229b0f287c5319f1b75775c7708"
+      "bytes": 5726,
+      "sha256": "9757309c27c7060cf47f9024d960d5e906e3ff82479bcf35109d8e82b135b93a"
     },
     {
       "path": "LICENSE",
-      "bytes": 974,
-      "sha256": "1b780cce2b17a3c2d39f978bd56c83a6d62c7f6063bc7972df4254c2f97076df"
+      "bytes": 18125,
+      "sha256": "b8795c7e8296ebee3f87f2f2d5b9e49fae6009fe8567360121c5234e6f1df5b6"
     },
     {
       "path": "NATIVE_ACCEPTANCE_REPORT.md",
@@ -37,23 +37,23 @@
     },
     {
       "path": "README.md",
-      "bytes": 7306,
-      "sha256": "fe8dd3a786a79a0c085a971ef86f31b32482df38431d393b7b96dd95d8aa0a36"
+      "bytes": 7874,
+      "sha256": "4e0ff5271213a281f3414e17ccb50b76d0f78bfa1488abad854ab299ea17a5f4"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 6226,
-      "sha256": "ac60160a801a9e361fdef158d1a3b9139ad69a793b5c8609864c061f893fe3c0"
+      "bytes": 6722,
+      "sha256": "00ea56c3fb08763ab4fd801028bd3fb3a5b1734d8ecec1be531dbefea76287e6"
     },
     {
       "path": "ROADMAP.md",
-      "bytes": 1196,
-      "sha256": "2a3459b597b872d76ed6dc15a265fe2f185d2ee9adbf02366813fa3308164b33"
+      "bytes": 1286,
+      "sha256": "a8673f7e2923fb62a1a186f09b8b7f3948ee3a8f64404241f8b7821db95e212e"
     },
     {
       "path": "SECURITY.md",
-      "bytes": 2793,
-      "sha256": "bd074a3b5ff0050677a7c095560d25ef21c54764d5ea6fd33b634d22bde5e505"
+      "bytes": 2100,
+      "sha256": "99b8bbdab3de14b8f7199d9fcd860b0b0d04007d1eb1b10f1614b39cf4561765"
     },
     {
       "path": "docs/COMBINED_EXAMPLE.md",
@@ -67,8 +67,8 @@
     },
     {
       "path": "docs/QUICK_START.md",
-      "bytes": 5732,
-      "sha256": "0350c72d4ea12e150f2d195f2d27450e060dd16c9eeb2eca3d9cff1124cb0cdc"
+      "bytes": 6131,
+      "sha256": "a1ae0b7c65da34f26fc740f25a51d706f42ce23326c488dfc2d835406edbc9df"
     },
     {
       "path": "docs/RESEARCH_STATUS.md",
@@ -77,53 +77,53 @@
     },
     {
       "path": "docs/TESTS.md",
-      "bytes": 2859,
-      "sha256": "d0919518bbc36f2d6e000b841bcfda13f6ee63ad87a23e90c7fc5b28b8e0046b"
+      "bytes": 3224,
+      "sha256": "63806844aa72d9fee20a0baa45b308adc3635d2572ab5f96ee4fc8e479ec8619"
     },
     {
       "path": "legal/CLOUD_PROCESSING.md",
-      "bytes": 8066,
-      "sha256": "813183f7898d6e84a497566a1cae02d5e71a6d5d047e48d854b5549b968c2a99"
+      "bytes": 8053,
+      "sha256": "37f275ee3b528efe45dce18e2951b057fa481554d37f096dd576b0f277d132b8"
     },
     {
       "path": "legal/FAQ.md",
-      "bytes": 4210,
-      "sha256": "b4c37d142cb918762843fc851a088834cd121cff419469e045478ab2206bff9d"
+      "bytes": 5768,
+      "sha256": "ef7e1e043b7b8965b497202e47f98739ae4a4777b57350b058361cd2ecc92863"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
-      "bytes": 17301,
-      "sha256": "c7166d4825bfd1a7f10ea7f08d17355f6a7745c5151e1d721efaeb23959116d7"
+      "bytes": 643,
+      "sha256": "8295afcfa1f7f1c75e8525fd2f42003ac2a3874555198828d0f5ee46c165534f"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
-      "bytes": 12868,
-      "sha256": "ed3bf61d6fe94f8a854001c9d93a40d807f357b912c1f37357c8353a7f28c9be"
+      "bytes": 13533,
+      "sha256": "ac5675a6a86492d85b57ff773e129622ae949960a521351d6c2ae8a611a5327a"
     },
     {
       "path": "legal/PLATFORM_PATHS.md",
-      "bytes": 4268,
-      "sha256": "3eb3b3b79701945065ed619510976250d27bfeeca93f7f34cc48cf230fba8343"
+      "bytes": 4341,
+      "sha256": "3a89b32c82203dc47af78248fa9b0cdbcc606ed27005378891c6809a67db18f2"
     },
     {
       "path": "legal/REVIEW.md",
-      "bytes": 8487,
-      "sha256": "8e72fc819401c345a70aa4bcd8f6aad58d4db88509837d05929e486531862c66"
+      "bytes": 9161,
+      "sha256": "cca8c472cb3653784b4f93695b7d5ad5d3fe6ff3ee8f8b377c0dfe9dd2b386e6"
     },
     {
       "path": "legal/RIGHTS_AUDIT.md",
-      "bytes": 9298,
-      "sha256": "ebe886804b7ad9521a3e124820d4b7d6f79b5d2fb65599911f9de3102082af33"
+      "bytes": 11510,
+      "sha256": "0fb0f0f5701b002ecdcf042ea1cd52696f01fb5157ec8971ac3e5742da7628ec"
     },
     {
       "path": "legal/RISK_MATRIX.md",
-      "bytes": 2519,
-      "sha256": "c2208a7dd4b0d42505046663af84de7789f528b0eaa7b33d56f7379b32a784e1"
+      "bytes": 2577,
+      "sha256": "73996e0b3ca6d6762d1335c2baf7486b590496193fbb9c61f680b316f8f4f7ab"
     },
     {
       "path": "legal/SHARING_OPTIONS.md",
-      "bytes": 1403,
-      "sha256": "64087779dda971539130ba264e2973dc4f661921d14894cff44a69576237077b"
+      "bytes": 1458,
+      "sha256": "3b0b16acdb8bb2a4fc191f9ed248acc101689d79e79a880347997b6eee285d3f"
     },
     {
       "path": "provenance/ADAPTATION.md",
@@ -137,8 +137,8 @@
     },
     {
       "path": "reports/FINAL_PUBLICATION_REVIEW.md",
-      "bytes": 5867,
-      "sha256": "c12482bc89e4533979fa2848e5c708824c4029716ef5bf78ffd8ef4c5dd69713"
+      "bytes": 5031,
+      "sha256": "9675fdf3e02428ffc765725292527e7027d1ff584729ce7851068a1467827e39"
     },
     {
       "path": "reports/PREPUBLICATION_2.md",
@@ -177,13 +177,13 @@
     },
     {
       "path": "rights-manifest.json",
-      "bytes": 180178,
-      "sha256": "2cec25c78cde266a9fb1995545d07e50c19b05cd2e0d757a23fd249fe29236b1"
+      "bytes": 188148,
+      "sha256": "5abda041f9669bedb0426a5ce3529e3fa0ef6d03f1f54b3c024e565c5cadd67b"
     },
     {
       "path": "skills/r01-requirements/README.md",
-      "bytes": 1990,
-      "sha256": "17673a0316dd48e26d6d264ef463a7f1c00cbab9fa28851c5466d0dc77238482"
+      "bytes": 2264,
+      "sha256": "903d5e8a95dfb920b214091034798b00d2b7851c6de1f09c78c5bca603b94984"
     },
     {
       "path": "skills/r01-requirements/SKILL.md",
@@ -207,8 +207,8 @@
     },
     {
       "path": "skills/r02-coordination/README.md",
-      "bytes": 2010,
-      "sha256": "13e5137ddda7a5573c60abed1248818ab632786ee73c6c13eaab72b253774830"
+      "bytes": 2284,
+      "sha256": "3397fdc5fb0ef7cbb2ecd9592d6b9f29c4971e4bdc03a16c67fe92e89f672fca"
     },
     {
       "path": "skills/r02-coordination/SKILL.md",
@@ -242,13 +242,13 @@
     },
     {
       "path": "tests/test_release_checks.py",
-      "bytes": 4052,
-      "sha256": "f74b5f7540dd2f920b7643b5fb264ba14677b3b48cc3e1f69fbe364e6cf7883d"
+      "bytes": 5782,
+      "sha256": "0286bf6258a8ff03fb9faccdcef2374487a26d277206d7123ae27e9f4c6c0fe0"
     },
     {
       "path": "tools/check_release.py",
-      "bytes": 13030,
-      "sha256": "9a3a3f2c97a38c348277680b2017e56f8d2e9c14b8790e3b9ec6dc62fd98d1be"
+      "bytes": 13735,
+      "sha256": "019f97a27e8d8298840ad724c47a4f4db499c28d63ed9fb82e69e4ac234d600a"
     }
   ],
   "packaging_revision": "codex-native-packaging-1",
@@ -257,14 +257,21 @@
   "acceptance_baseline_commit": "73ed3ad5215f2ab2e8a637e07385fe9812be4f11",
   "publication_preparation": "publication-prep-1",
   "release_title": "v0.1 Research Candidate",
-  "proposed_tag": "v0.1.0-rc.1_NOT_CREATED",
+  "proposed_tag": "v0.1.0-rc.2_NOT_CREATED",
   "publication_baseline_commit": "11788e36527e7cdc834f81f34bf842b632b8dbd3",
   "license_draft_version": "0.1.0_NOT_EFFECTIVE",
   "release_closure_revision": 1,
   "closure_baseline_commit": "d9d06d6acbbe80fd000e7316096bbbb4569e74d0",
-  "final_distribution_route": "G1_CONFIRMED_NOT_EXECUTED",
-  "license_review_revision": "github-final-prep-1_NOT_EFFECTIVE",
-  "final_publication_preparation": "github-final-prep-1",
+  "final_distribution_route": "G1_IMPLEMENTED_FOR_RC1_SUCCESSOR_NOT_PUSHED",
+  "license_review_revision": "post-release-finalization-1_NOT_EFFECTIVE",
+  "final_publication_preparation": "post-release-finalization-1",
   "final_preparation_baseline_commit": "e44a82679ca01bea465ab1cb3120a305f38a6232",
-  "target_repository": "chenxuanwu107-cell/xcsoa-se12-r01-r02"
+  "target_repository": "chenxuanwu107-cell/xcsoa-se12-r01-r02",
+  "published_baseline": {
+    "tag": "v0.1.0-rc.1",
+    "commit": "a9a36db6e5c57716f147e3bfb235c10aa6f1268d",
+    "tree": "2c77852c02f5e8296c2bb258b3f8732624e54387",
+    "status": "PUBLIC_PRE_RELEASE_LICENSE_NOT_EFFECTIVE"
+  },
+  "scope_notice": "This local successor preserves the rc.1 professional methods; no adoption, push, tag or Release update has occurred."
 }

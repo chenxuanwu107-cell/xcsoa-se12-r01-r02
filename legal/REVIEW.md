@@ -3,7 +3,19 @@
 Reviewed for drafting on 2026-11-03. **LEGAL_REVIEW_REQUIRED**; no lawyer opinion,
 enforceability certification, or established chain of title is asserted.
 
-## Policy selection
+## Post-release decision record
+
+rc.1 is public. The proposed Licensor now identifies as the natural person
+publishing as yidewen (GitHub: chenxuanwu107-cell) and attests authority over the
+covered expression with no known unresolved rights restrictions. This is not
+independent title adjudication or professional legal review. The complete
+English candidate is now the root LICENSE. Final adoption remains pending.
+
+The following preparation analysis is retained as historical research. Identity
+and G1 publication statements in it describe the earlier review state; the
+current decisions are summarized in the final review and risk matrix.
+
+## Policy selection (historical drafting analysis)
 
 The confirmed policy allows individual commercial work and paid independent
 services for enterprise customers, with ordinary output rights for customers;

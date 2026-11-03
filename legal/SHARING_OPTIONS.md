@@ -1,9 +1,9 @@
 # S2 — incorporated for final preparation, not yet adopted
 
-**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUBLIC**.
+**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUSH**.
 
 The current direction is S2. The complete proposed terms are maintained only in
-[English License section 5](LICENSE-CANDIDATE.en.md) and its
+[English License section 5](../LICENSE) and its
 [Chinese reference translation](LICENSE-CANDIDATE.zh-CN.md). S1 is no longer an
 alternative in the adoption text; earlier reports describe historical options.
 
@@ -19,5 +19,6 @@ must control the expression they submit and the necessary GitHub platform rights
 employer/client-owned expression needs the actual holder's permission. No
 assignment or broader relicensing is presumed. No contribution is accepted now.
 
-[G1/G2 path and platform disclosure](PLATFORM_PATHS.md) requires explicit informed approval.
-S2 policy direction is not license adoption or rights-holder confirmation.
+[Platform disclosure](PLATFORM_PATHS.md) records implemented G1 publication of rc.1.
+The proposed Licensor has now supplied an authority statement. S2 still needs
+express adoption; platform-native Fork/PR functionality does not adopt it.

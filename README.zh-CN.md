@@ -3,14 +3,17 @@
 两个可独立使用的研究方法 Skill：需求工程，以及工程协调与交接。
 无需安装玄武 AI，也不要求十二岗位串联。
 
-**v0.1 Research Candidate · 发布准备 / 尚未公开**
+**v0.1 Research Candidate · 首个公开预览已发布**
 
-制品版本 `0.1.0-rc.1`；拟议标签 `v0.1.0-rc.1`（尚未创建）。
+已发布基线：[v0.1.0-rc.1](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases/tag/v0.1.0-rc.1)。
+本地发布后修订拟作为 `v0.1.0-rc.2`，尚未发行；定制许可仍为 **NOT EFFECTIVE**，待明确采用。
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
 [English](README.md) · [快速开始](docs/QUICK_START.md) ·
-[已知限制](docs/RESEARCH_STATUS.md#known-limitations) · [最终发行审查](reports/FINAL_PUBLICATION_REVIEW.md) · [路线图](ROADMAP.md)
+[已知限制](docs/RESEARCH_STATUS.md#known-limitations) · [许可证](LICENSE) ·
+[示例](docs/COMBINED_EXAMPLE.md) · [路线图](ROADMAP.md) ·
+[普通反馈](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/issues) · [安全报告](SECURITY.md)
 
 | Skill | 解决的问题 | 入口 |
 |---|---|---|
@@ -63,7 +66,9 @@ Codex 可将所选完整 Skill 文件夹复制到项目 `.agents/skills/`。
 但不因此取得超出平台条款及法定例外的 Skill 商业运行权。当前 GitHub 条款另含平台及
 关联方 AI 权利，定制许可不能撤销；详见[法律审查](legal/REVIEW.md)。
 
-[根 LICENSE](LICENSE)保持待批准。[英文许可候选](legal/LICENSE-CANDIDATE.en.md)、
+[根 LICENSE](LICENSE)已放入完整英文采用候选，仍未生效；拟议许可人为自然人本人，
+署名 **yidewen（GitHub: chenxuanwu107-cell）**，依据本人授权声明，不冒称独立权属裁决。
+[英文入口](legal/LICENSE-CANDIDATE.en.md)、
 [中文参考译文](legal/LICENSE-CANDIDATE.zh-CN.md)及[场景 FAQ](legal/FAQ.md)尚未经律师审核。
 MIT、Apache-2.0、CC BY-NC-SA、PolyForm Noncommercial 均不作为最终建议或已采用许可。
 实际权利归属及可执行性尚待核实。
@@ -75,7 +80,7 @@ MIT、Apache-2.0、CC BY-NC-SA、PolyForm Noncommercial 均不作为最终建议
 私人聊天、凭据、数据库和未公开生产架构均未收录。
 
 [安全政策](SECURITY.md) · [贡献规则](CONTRIBUTING.md) · [变更记录](CHANGELOG.md)。
-未创建远程仓库，未推送、发布 Release 或设置 Public。
+rc.1 已公开；本地后续修订未推送，不修改既有 Release 或 Tag。
 
 ## 本次发行政策与兼容性披露
 
@@ -83,10 +88,10 @@ MIT、Apache-2.0、CC BY-NC-SA、PolyForm Noncommercial 均不作为最终建议
 内容，并通过个人项目和独立职业服务盈利。不增加企业运行或转售 Skill 的许可。
 当前仍是未生效文本，须完成权利与正式采用批准。
 
-G1 全量 GitHub 已确认为发行方向，目标为 `chenxuanwu107-cell/xcsoa-se12-r01-r02`。
-发布人已原则接受适用的平台及关联方授权；具体内容和发布动作仍待最终批准。
-G2 仅保留为备选，不是当前选择。定制企业限制不能撤回平台授权；见[平台披露](legal/PLATFORM_PATHS.md)。
-未创建远程、Push、设置 Public 或发布 Release。
+G1 全量 GitHub 已按明确批准完成 rc.1 首次公开，实际仓库为
+[chenxuanwu107-cell/xcsoa-se12-r01-r02](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02)。
+该发布批准没有采用许可证。后续修订仍待单独批准，定制企业限制不能撤回适用的平台授权；
+见[平台披露](legal/PLATFORM_PATHS.md)。
 
 **Codex Native Compatibility：UNVERIFIED。** 实际原生初始化受阻，发现与显式调用均
 NOT_RUN，见[原生验收](NATIVE_ACCEPTANCE_REPORT.md)和[安装说明](docs/QUICK_START.md)。
@@ -96,5 +101,6 @@ NOT_RUN，见[原生验收](NATIVE_ACCEPTANCE_REPORT.md)和[安装说明](docs/Q
 后续还有 R03-R12 十个岗位逐步研究、审查和发布；本仓库不包含或宣称其资格。
 见[路线图](ROADMAP.md)。普通 R01/R02 使用不要求安装十二岗位体系。
 
-GitHub 私密漏洞报告尚未配置，拟在获批的发布步骤中启用并检查，见 [SECURITY.md](SECURITY.md)。公开 reports 仅为净化摘要，
+GitHub 私密漏洞报告已启用；保密安全问题使用 Security → Advisories → Report a vulnerability，
+普通反馈使用 Issues。通知送达尚未测试，见 [SECURITY.md](SECURITY.md)。公开 reports 仅为净化摘要，
 原始证据与私有审计保管记录不在发行目录；50 文件分类见 [FILE_LIST.md](FILE_LIST.md)。

@@ -21,7 +21,7 @@ PATTERNS = {
     "bearer_value": re.compile(r"(?i)Bearer\s+[A-Za-z0-9._~-]{16,}"),
     "credential_assignment": re.compile(r"(?i)\b(?:api[_-]?key|access[_-]?token|password|secret)\s*[=:]\s*[\"']?[A-Za-z0-9_+/=-]{16,}"),
     "private_platform_id": re.compile(r"\b(?:ou_|oc_|cli_|libfile_)[A-Za-z0-9]{12,}\b"),
-    "private_email": re.compile(r"\b[A-Za-z0-9._%+-]+@(?!(?:[A-Za-z0-9.-]+\.)?(?:example|invalid)(?:\.[a-z]+)?\b)[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b"),
+    "private_email": re.compile(r"\b(?!git@github\.com:)[A-Za-z0-9._%+-]+@(?!(?:[A-Za-z0-9.-]+\.)?(?:example|invalid)(?:\.[a-z]+)?\b)[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b"),
 }
 LINK = re.compile(r"!?\[[^\]\n]+\]\(([^\s)]+)(?:\s+\"[^\"]*\")?\)")
 
@@ -130,10 +130,19 @@ def scan_git(root):
     for name in ["objects/info/alternates", "shallow", "commondir"]:
         if (root / ".git" / name).exists():
             issues.append({"file": ".git/" + name, "rule": "inherited_git_storage"})
-    if git_run(root, ["remote"]).strip():
-        issues.append({"file": ".git/config", "rule": "unexpected_remote"})
+    # A normal clone of the published repository has an origin and release tags.
+    # Keep rejecting other destinations; all objects, including tag objects, are scanned.
+    allowed_origins = {
+        "https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02.git",
+        "git@github.com:chenxuanwu107-cell/xcsoa-se12-r01-r02.git",
+    }
+    for remote in git_run(root, ["remote"]).decode().splitlines():
+        urls = git_run(root, ["remote", "get-url", "--all", remote]).decode().splitlines()
+        push_urls = git_run(root, ["remote", "get-url", "--push", "--all", remote]).decode().splitlines()
+        if remote != "origin" or not urls or any(u not in allowed_origins for u in urls + push_urls):
+            issues.append({"file": ".git/config", "rule": "unexpected_remote"})
     refs = git_run(root, ["for-each-ref", "--format=%(refname)"]).decode()
-    if any(not r.startswith("refs/heads/") for r in refs.splitlines()):
+    if any(not r.startswith(("refs/heads/", "refs/tags/")) for r in refs.splitlines()):
         issues.append({"file": ".git/refs", "rule": "unexpected_ref"})
     listing = git_run(root, ["cat-file", "--batch-all-objects", "--batch-check=%(objectname) %(objecttype) %(objectsize)"])
     total = 0

@@ -14,7 +14,7 @@ permission to the provider for the actual processing; the provider's corporate
 status cannot be wished away. It is distinct from the forbidden arrangement in
 which the freelancer merely operates the customer's Skill service by proxy.
 
-The [English candidate, Section 4](LICENSE-CANDIDATE.en.md#4-no-organizational-operational-license-no-circumvention)
+The [English candidate, Section 4](../LICENSE#4-no-organizational-operational-license-no-circumvention)
 proposes that distinction, subject to legal and rights-holder approval. It would
 cover necessary transmission, temporary copying, inference, task storage,
 security/abuse handling, lawful retention, and necessary sub-processors only to

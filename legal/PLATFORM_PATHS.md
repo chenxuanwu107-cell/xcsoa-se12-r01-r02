@@ -1,10 +1,11 @@
-# G1 confirmed — exact publication approval pending
+# G1 implemented for rc.1 — successor approval pending
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUBLIC**.
 G1 full GitHub publication is confirmed for
 `chenxuanwu107-cell/xcsoa-se12-r01-r02`. The publisher accepts applicable
-public-repository platform/affiliate grants in principle. This is not license
-adoption or approval to create, upload, make Public, tag or release.
+public-repository platform/affiliate grants, and rc.1 was published after exact
+action approval. That approval did not adopt a project license. This local
+successor requires separate adoption/update approval.
 No remote or platform setting is created by this document.
 
 ## Required platform disclosure
@@ -44,7 +45,7 @@ platform grants or retained-copy risks.
 G2 would keep only a fresh introduction repository on GitHub and distribute the
 Skill elsewhere after reviewing that channel. It adds a delivery/contribution
 handoff and link/version maintenance; it is not a way to retract prior uploads.
-G1 has not been implemented. The full Skill review commit must not be pushed
+G1 has been implemented for rc.1. The full Skill review commit must not be pushed
 to GitHub and described as G2 merely because its README links elsewhere.
 
 ## Material choice for final approval
@@ -56,7 +57,7 @@ to GitHub and described as G2 merely because its README links elsewhere.
 | User installation | One source/download location, copy chosen folder | Follow the approved external delivery link, verify the version, copy chosen folder |
 | S2 contribution route | Rights-cleared Fork/PR after license/platform approval | Separate approved contribution channel; no Skill patches in introduction-repo Issues/PRs |
 | Maintenance | One host, with platform/inbound-rights obligations | Separate delivery integrity, contribution handling and link/version maintenance |
-| Direction / final authorization | Selected; exact upload/actions not approved | Fallback only; not selected or approved |
+| Direction / final authorization | rc.1 public; successor update/adoption pending | Fallback only; not selected or approved |
 
 This comparison does not itself adopt a license or authorize repository creation
 or upload. G2 needs a separately reviewed introduction tree;

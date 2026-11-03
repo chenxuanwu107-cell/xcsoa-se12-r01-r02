@@ -25,9 +25,9 @@ No commit, merge, remote push or release is authorized by this file.
 Final preparation incorporates [S2](legal/SHARING_OPTIONS.md) in the draft,
 not as an effective grant. Once validly adopted, qualified individuals may share
 noncommercially under the same terms and contribute material they control.
-G1 allows a normal Fork/PR workflow only after its specific project/platform
-approval. G1 is the selected direction; G2 is a fallback requiring a separate
-approved contribution channel. Contributors must have authority for both project and platform grants;
+G1 rc.1 is already public. GitHub-native Fork/PR functionality and platform
+rights remain available independently of project license adoption. After valid
+adoption, S2 provides the additional same-license project sharing/inclusion grant. Contributors must have authority for both project and platform grants;
 a PR does not prove title or create a broader relicensing right.
 
 For proposed S2, a personal account is not proof that an employee owns a patch.
@@ -35,4 +35,6 @@ Personal-capacity contributions of expression actually controlled by that person
 can be reviewed; employer-owned contributions need the actual holder's permission.
 Do not authorize an employee to run the Skill for an employer merely to contribute.
 Lawful factual bug reports and independently written ideas are separate from
-Skill operation or transfer of protected Skill content. No contribution is accepted here.
+Skill operation or transfer of protected Skill content. Protected Skill contributions are not accepted under an assumed operative
+license before adoption. Independently written ideas and factual bug reports
+may be submitted through Issues now.

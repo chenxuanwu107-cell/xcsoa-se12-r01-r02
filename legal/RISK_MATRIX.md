@@ -1,19 +1,21 @@
-# Final publication risk matrix
+# Post-release license decision matrix
 
-**HOLD_PUBLIC / LEGAL_REVIEW_REQUIRED.** Policy: S2 review draft; G1 confirmed.
+**LICENSE_ADOPTION_PENDING / LEGAL_REVIEW_REQUIRED / HOLD_PUSH.**
+No whole-file or whole-project CLEAR determination is made.
 
-| ID | Concrete item | Disposition / smallest closure |
-|---|---|---|
-| B01 | Licensor/authority remains UNCONFIRMED, especially five source-derived Skill/reference files | PUBLICATION BLOCKER. Confirm actual holder and the right to publish/license the protected expression identified by file/source; hashes and policy direction are insufficient. |
-| B02 | Final license v0.1.0 has no adopted licensor/effective record or completed legal acceptance | PUBLICATION BLOCKER. Review exact text, notice identity/contact, proposed no express law/forum choice, termination/liability and limited cloud-processing clause; adopt explicitly only over controlled rights. |
-| B03 | G1 and target account/repository confirmed; exact content/actions not approved | FINAL HUMAN GATE. Bind the exact final commit/license and applicable platform grants to the authorized publication sequence; do not re-open the route choice. |
-| B04 | Private security reporting channel not designated or verified | PUBLICATION OPERATIONS BLOCKER. Owner must designate an authorized monitored channel, or approve its setup/verification as a bounded publication action. No endpoint is invented. |
-| C01 | No known unauthorized third-party payload identified in reviewed tree; no exhaustive originality investigation | Residual risk. Exclude or obtain permission for a concrete later finding; do not demand rights in bare facts/methods or fabricate AI/human copyright. |
-| C02 | Contributions/employer or customer rights | No external contribution accepted. Future S2 submissions require actual authority for project and platform grants. |
-| C03 | Cloud product/account compatibility | Unverified usage limitation; no vendor-wide exemption. Not itself a bar to publishing accurately labeled research instructions. |
-| C04 | Codex native initialization blocked; invocation NOT_RUN; limited prior smoke with wording caveat | Disclose UNVERIFIED. Not a publication prerequisite by the current human direction; no model/production claim. |
-| C05 | S2 and route selection vs effective authorization | S2 integrated for review; G1 confirmed. Neither direction is final license adoption or Public authorization. |
+| Item | Actual evidence / smallest remaining decision |
+|---|---|
+| Licensor and authority | Natural person publishing as yidewen (GitHub: chenxuanwu107-cell), self-attested authority with no known unresolved restrictions. Identity/authority no longer lack a holder statement; no independent title adjudication or blanket AI copyright claim. |
+| Five priority files | Exact method/source mappings unchanged; no specific third-party paper/book/code payload identified. Owner-attested authority is recorded; independent protectability/title and a concrete later third-party claim remain residual unknowns. No unsupported removal/rewrite/CLEAR. |
+| Final English v0.1.0 adoption | Full root LICENSE and Chinese reference prepared. Owner must expressly adopt exact terms and designated rc.2 scope/effectiveness; current root remains NOT EFFECTIVE. |
+| Legal choices | Confirm mixed individual/company capacity, necessary cloud-processing scope, S2 same-license contribution grant, material-breach termination/written reinstatement, liability limits, no express law/forum choice, English priority and proposed non-confidential Issues notice channel. No lawyer opinion obtained. |
+| G1 / Fork / PR | rc.1 already public. Applicable platform/affiliate rights remain; S2 does not revoke native Fork rights or automatically clear contributor/employer title. No corporate project operation grant. |
+| Personal cloud configurations | Product-specific fit not certified. Reuse a documented decision until relevant terms/account/recipients change; no blanket personal-account/training-off exemption. |
+| Safety reporting | GitHub Private Vulnerability Reporting enabled; submission, notification receipt and response SLA NOT_TESTED. |
+| Research/native behavior | R01 HUMAN_FREEZE_PENDING; R02 FR1 FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE; native UNVERIFIED; independent effects unqualified. No new native/model tests. |
+| Version and remote changes | Preserve rc.1 commit/tag/Release. Proposed rc.2 and Profile README require approval before any push; legal adoption changes warrant a successor release. |
 
-The proposed language changes do not reduce the corporate-operation/resale ban
-or the personal paid-work/ordinary-output freedoms. No Public action is allowed
-until B01-B04 are resolved. General legal research is not being expanded.
+Owner attestation is actual evidence of asserted authority, not a substitute for
+an identified third-party license if a concrete conflict emerges. Facts/methods
+are not claimed exclusive. Address a specific conflict by targeted permission,
+removal or lawful expression; no speculative full-corpus audit is reopened.

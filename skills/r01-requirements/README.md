@@ -20,15 +20,17 @@ permission or a separate enterprise grant.
 
 ## Package identity and license declaration
 
-Release candidate version: **0.1.0-rc.1**.
+Published baseline: **0.1.0-rc.1**. Proposed successor: **0.1.0-rc.2**, not released.
 Packaging baseline: **codex-native-packaging-1**; this standalone notice was
 completed during native user acceptance, without a method revision.
 
-**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUBLIC**.
+**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / LICENSE_ADOPTION_PENDING**.
 The proposed license is **XCSOA Individual & Independent Professional Use License**.
-No operative project license has been adopted. This local candidate is for review;
+No operative project license has been adopted. The rc.1 research preview is public;
 this notice grants no distribution or operational permission. Existing
 task-specific permissions, mandatory legal exceptions and applicable platform
-rights are unaffected. The full non-effective license candidates remain in the
-source distribution. This notice is neither a formal license nor evidence of
+rights are unaffected. The full non-effective English adoption candidate is in
+the source distribution's root LICENSE, with a Chinese reference translation.
+Proposed Licensor: yidewen, the natural person publishing as chenxuanwu107-cell.
+Keep the source license and provenance notices with any permitted shared copy. This notice is neither a formal license nor evidence of
 copyright clearance, legal review, native compatibility or production qualification.
