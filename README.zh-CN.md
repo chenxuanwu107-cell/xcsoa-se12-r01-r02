@@ -10,7 +10,7 @@
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
 [English](README.md) · [快速开始](docs/QUICK_START.md) ·
-[研究状态](docs/RESEARCH_STATUS.md) · [最终发行审查](reports/FINAL_PUBLICATION_REVIEW.md) · [路线图](ROADMAP.md)
+[已知限制](docs/RESEARCH_STATUS.md#known-limitations) · [最终发行审查](reports/FINAL_PUBLICATION_REVIEW.md) · [路线图](ROADMAP.md)
 
 | Skill | 解决的问题 | 入口 |
 |---|---|---|
@@ -83,8 +83,7 @@ MIT、Apache-2.0、CC BY-NC-SA、PolyForm Noncommercial 均不作为最终建议
 内容，并通过个人项目和独立职业服务盈利。不增加企业运行或转售 Skill 的许可。
 当前仍是未生效文本，须完成权利与正式采用批准。
 
-优先拟采用 G1 全量 GitHub 公开，但须单独知情确认实际平台授权，含平台／关联方 AI
-权利。定制企业限制不能撤回平台授权；见[平台披露](legal/PLATFORM_PATHS.md)。
+G1 全量 GitHub 与 G2 仅介绍、外部交付两条路径均待最终选择及具体内容、平台授权批准。定制企业限制不能撤回平台授权；见[平台披露](legal/PLATFORM_PATHS.md)。
 未创建远程、Push、设置 Public 或发布 Release。
 
 **Codex Native Compatibility：UNVERIFIED。** 实际原生初始化受阻，发现与显式调用均
@@ -94,3 +93,6 @@ NOT_RUN，见[原生验收](NATIVE_ACCEPTANCE_REPORT.md)和[安装说明](docs/Q
 
 后续还有 R03-R12 十个岗位逐步研究、审查和发布；本仓库不包含或宣称其资格。
 见[路线图](ROADMAP.md)。普通 R01/R02 使用不要求安装十二岗位体系。
+
+私密安全联系渠道尚未配置，见 [SECURITY.md](SECURITY.md)。公开 reports 仅为净化摘要，
+原始证据与私有审计保管记录不在发行目录；50 文件分类见 [FILE_LIST.md](FILE_LIST.md)。

@@ -1,8 +1,8 @@
-# G1 — full GitHub publication proposed, actual grants require confirmation
+# G1 / G2 — final route and actual platform authorization pending
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / HOLD_PUBLIC**.
-The current proposed path is G1: the complete approved release tree on GitHub.
-G2 is retained only as an alternative if the G1 rights cannot be accepted.
+Neither route is selected or authorized. The final owner decision must specify
+the actual route, content, hosting/account agreement and publication target.
 No remote or platform setting is created by this document.
 
 ## Required platform disclosure
@@ -41,4 +41,20 @@ platform grants or retained-copy risks.
 G2 would keep only a fresh introduction repository on GitHub and distribute the
 Skill elsewhere after reviewing that channel. It adds a delivery/contribution
 handoff and link/version maintenance; it is not a way to retract prior uploads.
-It is not the present preferred direction and is not implemented.
+Neither route is implemented. The full Skill review commit must not be pushed
+to GitHub and described as G2 merely because its README links elsewhere.
+
+## Material choice for final approval
+
+| Decision | G1: full Skill on GitHub | G2: introduction on GitHub, separate Skill delivery |
+|---|---|---|
+| Actual GitHub content | Exact approved complete Skill release tree | A separately written, approved introduction only; no Skill bodies, prompts, full examples, patches or raw attachments |
+| Platform rights attach to | All uploaded Skill and other content | Uploaded introduction/Issues/PRs only; the delivery channel has its own terms to clear |
+| User installation | One source/download location, copy chosen folder | Follow the approved external delivery link, verify the version, copy chosen folder |
+| S2 contribution route | Rights-cleared Fork/PR after license/platform approval | Separate approved contribution channel; no Skill patches in introduction-repo Issues/PRs |
+| Maintenance | One host, with platform/inbound-rights obligations | Separate delivery integrity, contribution handling and link/version maintenance |
+| Final authorization | Not obtained | Not obtained |
+
+No account agreement, platform grant, repository creation or route choice is
+accepted by this comparison. G2 needs a separately reviewed introduction tree;
+the current full Skill commit is not its public GitHub tree.

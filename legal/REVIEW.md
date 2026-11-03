@@ -78,9 +78,10 @@ assurances. Neither publication nor a static PASS can close them.
 
 ## Current final-publication preparation scope
 
-S2 is integrated in the v0.1.0 NOT EFFECTIVE license draft; G1 full GitHub
-publication is the preferred path subject to actual rights and platform approval.
-Earlier reports record historical S1/G2 options and are not the current direction.
+S2 is integrated in the v0.1.0 NOT EFFECTIVE review draft. G1/G2 remain for final
+selection; neither actual platform terms nor a publication target is approved.
+Earlier reports preserve historical directions, including a preferred G1 proposal;
+current closure waits for an explicit G1/G2 decision.
 The root LICENSE remains pending. Actual licensor/publication authority and
 applicable account grants are not inferred from policy direction or possession.
 

@@ -13,7 +13,8 @@
     "PUBLIC-SOURCE-CITATION-NOT-TITLE": "File-specific official URLs and paraphrase scope; not a grant to relicense sources or proof of actual account terms.",
     "CURRENT_LOCAL_TEST_RECORDS": "Frozen input/oracle, actual isolated MLX outputs and startup failures, private logs/hash records; not a source-rights or legal clearance.",
     "NATIVE-USER-ACCEPTANCE-OBSERVATIONS": "One bounded real CLI attempt, raw terminal code 14/exit 1, unchanged method bytes, full temporary folder copies and Quick Start requests; private custody, not model or ownership qualification.",
-    "FINAL-PUBLICATION-PREP-OBSERVATIONS": "Baseline 11788e36527e7cdc834f81f34bf842b632b8dbd3; all current files scanned, five method files reread and prior source-rights evidence reused, current S2/G1 direction, private exact-commit checks. No title or final approval inferred."
+    "FINAL-PUBLICATION-PREP-OBSERVATIONS": "Baseline 11788e36527e7cdc834f81f34bf842b632b8dbd3; all current files scanned, five method files reread and prior source-rights evidence reused, current S2/G1 direction, private exact-commit checks. No title or final approval inferred.",
+    "FINAL-RELEASE-CLOSURE": "Baseline d9d06d6acbbe80fd000e7316096bbbb4569e74d0; five unchanged priority files use existing bounded source-rights review. Publication scope classification and contact/route/status corrections only; no new title evidence, research or behavioral tests."
   },
   "files": [
     {
@@ -74,7 +75,8 @@
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "U"
     },
     {
       "path": "CHANGELOG.md",
@@ -135,7 +137,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -169,7 +172,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -197,7 +201,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "FILE_LIST.md",
@@ -230,7 +235,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -258,7 +264,8 @@
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "U"
     },
     {
       "path": "LICENSE",
@@ -319,7 +326,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "NATIVE_ACCEPTANCE_REPORT.md",
@@ -373,7 +381,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "README.md",
@@ -407,7 +416,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -435,7 +445,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "README.zh-CN.md",
@@ -469,7 +480,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -497,7 +509,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "ROADMAP.md",
@@ -550,7 +563,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "SECURITY.md",
@@ -585,7 +599,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "PUBLIC-SOURCE-CITATION-NOT-TITLE"
+        "PUBLIC-SOURCE-CITATION-NOT-TITLE",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -614,7 +629,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "docs/COMBINED_EXAMPLE.md",
@@ -679,7 +695,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "U"
     },
     {
       "path": "docs/PERSONAL_USE.md",
@@ -714,7 +731,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "CURRENT_LOCAL_TEST_RECORDS",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
@@ -733,7 +751,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "U"
     },
     {
       "path": "docs/QUICK_START.md",
@@ -769,7 +788,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -797,7 +817,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "docs/RESEARCH_STATUS.md",
@@ -835,7 +856,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "SOURCE-BYTES-REVERIFIED"
+        "SOURCE-BYTES-REVERIFIED",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -864,7 +886,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "docs/TESTS.md",
@@ -924,7 +947,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "legal/CLOUD_PROCESSING.md",
@@ -994,7 +1018,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "legal/FAQ.md",
@@ -1028,7 +1053,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1056,7 +1082,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
@@ -1090,7 +1117,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1118,7 +1146,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
@@ -1152,7 +1181,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1180,7 +1210,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "legal/PLATFORM_PATHS.md",
@@ -1217,7 +1248,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1246,7 +1278,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "legal/REVIEW.md",
@@ -1297,7 +1330,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1326,7 +1360,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "legal/RIGHTS_AUDIT.md",
@@ -1388,7 +1423,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "legal/RISK_MATRIX.md",
@@ -1422,7 +1458,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1450,7 +1487,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "legal/SHARING_OPTIONS.md",
@@ -1484,7 +1522,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1512,7 +1551,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "provenance/ADAPTATION.md",
@@ -1576,7 +1616,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "provenance/SOURCE_LEDGER.json",
@@ -1640,7 +1681,8 @@
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "D"
     },
     {
       "path": "release-manifest.json",
@@ -1701,7 +1743,8 @@
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "U"
     },
     {
       "path": "reports/FINAL_PUBLICATION_REVIEW.md",
@@ -1735,7 +1778,8 @@
       },
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "FINAL-RELEASE-CLOSURE"
       ],
       "unconfirmed_parts": [
         "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
@@ -1754,7 +1798,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "reports/PREPUBLICATION_2.md",
@@ -1807,7 +1852,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "reports/RELEASE_AUDIT.md",
@@ -1867,7 +1913,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "reports/REVISION_1.md",
@@ -1927,7 +1974,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "reports/check-results.json",
@@ -1987,7 +2035,8 @@
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "reports/external-links.json",
@@ -2047,7 +2096,8 @@
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "reports/local-acceptance.json",
@@ -2100,7 +2150,8 @@
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "reports/revision-check-results.json",
@@ -2160,7 +2211,8 @@
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "A"
     },
     {
       "path": "rights-manifest.json",
@@ -2221,7 +2273,8 @@
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "U"
     },
     {
       "path": "skills/r01-requirements/README.md",
@@ -2286,7 +2339,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r01-requirements/SKILL.md",
@@ -2354,7 +2408,8 @@
         "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r01-requirements/examples.md",
@@ -2418,7 +2473,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r01-requirements/references/handoff.md",
@@ -2483,7 +2539,8 @@
         "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r01-requirements/tests/cases.json",
@@ -2548,7 +2605,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r02-coordination/README.md",
@@ -2613,7 +2671,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r02-coordination/SKILL.md",
@@ -2681,7 +2740,8 @@
         "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r02-coordination/examples.md",
@@ -2746,7 +2806,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r02-coordination/references/git-evidence.md",
@@ -2812,7 +2873,8 @@
         "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r02-coordination/references/handoff.md",
@@ -2878,7 +2940,8 @@
         "action": "Target only actual protected inherited expression and any independent permission/title needed; do not claim confirmed conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "skills/r02-coordination/tests/cases.json",
@@ -2945,7 +3008,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "S"
     },
     {
       "path": "tests/example-records.json",
@@ -3005,7 +3069,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "U"
     },
     {
       "path": "tests/test_release_checks.py",
@@ -3065,7 +3130,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "U"
     },
     {
       "path": "tools/check_release.py",
@@ -3125,7 +3191,8 @@
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
         "evidence_handling": "Reuse prior per-file/source evidence; this round adds local engineering records only, with no new source-corpus audit.",
         "clearance_limit": "Risk priority is not a copyrightability, public-domain or final-license determination."
-      }
+      },
+      "public_scope_class": "U"
     }
   ],
   "risk_policy": {
@@ -3134,15 +3201,17 @@
     "R2": "Five method-body/reference files prioritized for any actual inherited protected expression and necessary license basis.",
     "R3": "Reserved for a confirmed third-party expression/ownership conflict; none identified here.",
     "S2": "INTEGRATED_FINAL_PREPARATION_DRAFT_NOT_EFFECTIVE",
-    "G2": "ALTERNATIVE_ONLY_NOT_SELECTED",
-    "G1": "PREFERRED_ACTUAL_PLATFORM_GRANTS_NOT_APPROVED"
+    "G2": "FINAL_CHOICE_PENDING_NOT_AUTHORIZED",
+    "G1": "FINAL_CHOICE_PENDING_NOT_AUTHORIZED"
   },
   "packaging_revision": "codex-native-packaging-1",
   "acceptance_notice_revision": 1,
   "publication_preparation": "publication-prep-1 / v0.1 Research Candidate / NOT_PUBLISHED",
   "publication_blockers": [
-    "B01_ACTUAL_LICENSOR_AND_CONTROLLED_PROTECTED_EXPRESSION_UNCONFIRMED",
-    "B02_EXACT_LICENSE_ADOPTION_AND_EFFECTIVE_RECORD_PENDING",
-    "B03_ACTUAL_GITHUB_AGREEMENT_AND_PLATFORM_GRANTS_NOT_APPROVED"
-  ]
+    "B01_LICENSOR_AND_PROTECTED_EXPRESSION_AUTHORITY_UNCONFIRMED",
+    "B02_EXACT_LICENSE_LEGAL_REVIEW_AND_ADOPTION_PENDING",
+    "B03_G1_G2_TARGET_SCOPE_AND_ACTUAL_PLATFORM_GRANTS_UNAPPROVED",
+    "B04_PRIVATE_SECURITY_CONTACT_UNCONFIGURED"
+  ],
+  "release_closure_revision": 1
 }

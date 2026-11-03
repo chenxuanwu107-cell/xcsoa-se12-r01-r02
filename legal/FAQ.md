@@ -21,7 +21,8 @@ means only **if validly adopted**, over rights actually held.
 | Individual submits a contribution / 个人贡献 | Must control the necessary expression and platform rights. Same-license inclusion grant; no assignment or unrestricted relicensing. |
 | Employee submits employer-owned content / 雇主所有贡献 | Needs the actual holder's permission; contributing does not authorize enterprise Skill operation. |
 | Company reads public docs or makes a native Fork / 企业阅读及平台内 Fork | Applicable platform/legal rights remain; no additional project operational grant follows. |
-| G1 GitHub hosting / 全量 GitHub 发行 | Requires informed approval of the actual platform grants, including platform/affiliate AI rights. The custom license cannot cancel them. |
+| G1 GitHub hosting, not yet selected / 全量方案待选择 | Requires informed approval of the actual platform grants, including platform/affiliate AI rights. The custom license cannot cancel them. |
+| G2 introduction + separate delivery / 仅介绍与外部交付 | The introduction and delivery channel need separate approval; no Skill bodies or patches in the introduction repository. Not selected. |
 | Personal Codex/ChatGPT/API use / 个人云模型 | Only actual compatible task-processing terms fit the narrow clause. No blanket provider exemption; personal account or training-off alone is not clearance. |
 | Facts, general methods and independently created material / 一般事实方法与独立创作 | No exclusive rights are claimed where none exist. The license does not manufacture copyright in wholly AI-generated content. |
 

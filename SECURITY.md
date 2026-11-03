@@ -10,10 +10,15 @@ using a minimal synthetic reproduction. Include the exact version, expected
 boundary, observed result and impact; do not post credentials, private chats,
 customer records, unpublished architecture, or original internal archives.
 
-No remote repository or private reporting endpoint currently exists. For review,
+**Contact status: NOT_CONFIGURED / OWNER_CONFIRMATION_REQUIRED.**
+No public security mailbox or private reporting endpoint has been designated or
+verified for this release. Do not infer one from a username or publish a private
+contact without permission. No remote repository currently exists. For review,
 use the already authorized private channel with the maintainer. Do not open a
-public issue with sensitive evidence. Before public publication, establish and
-verify a private reporting channel. GitHub private vulnerability reporting is
+public issue with sensitive evidence. Before publication, the owner must
+designate and confirm a monitored private channel, or explicitly authorize setting up and verifying the chosen channel as
+part of the approved publication sequence. No test message or setup is authorized
+by this file. GitHub private vulnerability reporting is
 available to public-repository administrators when enabled; it has not been
 enabled here. [Official configuration guide](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository).
 

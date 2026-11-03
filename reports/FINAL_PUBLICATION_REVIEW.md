@@ -1,8 +1,8 @@
-# Final publication preparation — v0.1 Research Candidate
+# Final release closure — v0.1 Research Candidate
 
 **PUBLICATION_BLOCKED / HOLD_PUBLIC / LEGAL_REVIEW_REQUIRED.**
-S2 is integrated in license **v0.1.0, publication-prep-1, NOT EFFECTIVE**;
-G1 full GitHub publication is preferred subject to the approvals below.
+S2 is integrated in license **v0.1.0, release-closure-1, NOT EFFECTIVE**.
+G1/G2 remain unselected; no platform authorization has been accepted.
 Proposed artifact/tag: `0.1.0-rc.1` / `v0.1.0-rc.1`; no tag or remote exists.
 
 ## Rights check and actual included scope
@@ -10,8 +10,8 @@ Proposed artifact/tag: `0.1.0-rc.1` / `v0.1.0-rc.1`; no tag or remote exists.
 All proposed files are listed in [FILE_LIST.md](../FILE_LIST.md), with byte
 identities in [release-manifest.json](../release-manifest.json) and a per-file
 rights basis in [rights-manifest.json](../rights-manifest.json). Existing source
-custody evidence was reused where bytes were unchanged. The following five
-files were reread; all eleven Skill-directory files remain byte-identical to
+custody evidence was reused where bytes were unchanged. The prior bounded source/expression review of the following five
+files is reused after exact-byte comparison; all eleven Skill-directory files remain byte-identical to
 the native-acceptance baseline. No professional method was changed.
 
 | Priority file | Source basis / unresolved authorization |
@@ -48,25 +48,29 @@ rights and applicable generation/upstream permissions where relevant.
    the S2, limited processor, termination/liability and proposed absence of an
    express law/exclusive-forum choice. Legal validity is not certified here.
    The root LICENSE remains pending and supplies no operative grant.
-3. **B03 — Actual GitHub agreement/grants not confirmed.** Review
+3. **B03 — Final G1/G2 route, target/content and applicable grants not confirmed.** Review
    [platform disclosure](../legal/PLATFORM_PATHS.md) and approve the applicable
    account agreement and exact uploaded scope. Custom enterprise restrictions
    cannot withdraw platform/affiliate rights. If those grants are unacceptable,
-   G1 must stop; a different route needs separate approval.
+   G1 must stop; G2 still needs its own delivery and introduction approval.
+4. **B04 — Private security contact not configured.** Designate and confirm a
+   monitored private channel, or approve its setup/verification in the exact
+   publication sequence. No email, endpoint or verification is invented.
 
 ## Engineering and safety scope
 
 Release structure, local links, JSON, entrypoints, sensitive patterns and all
-local Git objects/metadata are checked by the release checker; nine checker
-negative controls were rerun successfully. Final exact-commit check receipts
-remain with the private approval record. These checks do not establish title,
+local Git objects/metadata are checked by the release checker; the prior nine checker
+negative controls already passed. Existing validation evidence is reused; only the final exact-tree Git, sensitive
+pattern, manifest/hash and link closure checks are repeated. No model/native or
+checker-negative-control suite is rerun. Exact-commit receipts remain private. These checks do not establish title,
 license effectiveness, professional skill quality or model compliance.
 
 Native compatibility remains **UNVERIFIED**: actual SQLite initialization was
 blocked; discovery/explicit invocation are NOT_RUN. No native retry occurred in
 this preparation. The limited historical local smoke and its R02 wording caveat
 remain separate. Under the current human direction, Native PASS is **not** a
-research-publication prerequisite; B01-B03 still are.
+research-publication prerequisite; B01-B04 still are.
 
 R01 W8 remains **HUMAN_FREEZE_PENDING**; R02 FR1 remains
 **FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE**. The new [Roadmap](../ROADMAP.md)

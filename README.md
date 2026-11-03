@@ -10,7 +10,7 @@ Artifact version: `0.1.0-rc.1`; proposed tag: `v0.1.0-rc.1` (not created).
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
 [中文](README.zh-CN.md) · [Quick Start](docs/QUICK_START.md) ·
-[Research status](docs/RESEARCH_STATUS.md) · [Final review](reports/FINAL_PUBLICATION_REVIEW.md) · [Roadmap](ROADMAP.md)
+[Known limitations](docs/RESEARCH_STATUS.md#known-limitations) · [Final review](reports/FINAL_PUBLICATION_REVIEW.md) · [Roadmap](ROADMAP.md)
 
 | Skill | Use it for | Start here |
 |---|---|---|
@@ -105,8 +105,8 @@ contribute material they control, and earn income from independent professional
 work. No enterprise Skill operation or resale grant is added. The draft remains
 NOT EFFECTIVE until rights and adoption approval are complete.
 
-G1 full GitHub publication is preferred, subject to separate informed approval
-of the actual platform grants, including platform/affiliate AI rights. The
+G1 full GitHub publication and G2 introduction-only GitHub plus separate delivery
+remain unselected. Either route needs final content and actual-platform approval. The
 custom restriction cannot withdraw those rights. See [platform disclosure](legal/PLATFORM_PATHS.md).
 No remote creation, push, Public or Release has occurred.
 
@@ -121,3 +121,8 @@ research candidate; rights and license approval remain required.
 R03-R12 are ten future positions for gradual separate research/review and release;
 they are not included or qualified here. See [Roadmap](ROADMAP.md). Ordinary use
 of R01 or R02 never requires the complete twelve-position system.
+
+Private security contact is not configured; [SECURITY.md](SECURITY.md) records
+the required owner decision. Public reports are sanitized summaries, not private
+source custody or raw execution evidence. The 50-file review scope is classified
+in [FILE_LIST.md](FILE_LIST.md).

@@ -1,14 +1,15 @@
 # XCSOA Individual & Independent Professional Use License
 
-Version 0.1.0 — final preparation draft, publication-prep-1, NOT EFFECTIVE
+Version 0.1.0 — rights-holder/legal review draft, release-closure-1, NOT EFFECTIVE
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
 **Status notice.** This text proposes operative terms for a future release. It
 has not been approved by a lawyer or adopted by the verified rights holder.
 It grants no new rights while marked as a candidate. Before adoption, the
-licensor, covered files, effective release, governing law/forum, and the S2 text and G1 platform grants, and the remaining legal
-choices identified in the legal review must be approved. “License” below refers
+licensor, covered rights, effective release/date, S2 text, selected distribution
+route and its actual platform grants, and remaining legal terms must be approved.
+“License” below refers
 to the proposed terms if and when validly adopted. Publication alone must not
 be used to claim that this candidate has taken effect.
 

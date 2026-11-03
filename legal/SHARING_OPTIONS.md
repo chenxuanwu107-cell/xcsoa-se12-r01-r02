@@ -19,5 +19,5 @@ must control the expression they submit and the necessary GitHub platform rights
 employer/client-owned expression needs the actual holder's permission. No
 assignment or broader relicensing is presumed. No contribution is accepted now.
 
-[G1 platform disclosure](PLATFORM_PATHS.md) requires explicit informed approval.
+[G1/G2 path and platform disclosure](PLATFORM_PATHS.md) requires explicit informed approval.
 S2 policy direction is not license adoption or rights-holder confirmation.

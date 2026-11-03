@@ -1,4 +1,4 @@
-# Research status and limitations
+# Research status and Known Limitations
 
 The table records upstream research qualification. The new prepublication-2
 [local engineering smoke](../reports/PREPUBLICATION_2.md) is separate evidence
@@ -8,7 +8,9 @@ and does not rewrite those historical statuses or qualify native Codex behavior.
 |---|---|---|
 | Package/static validation | See check-results | Files, links, identities, examples as data, and bounded content/history scans |
 | Professional method | METHOD_RESEARCH_CANDIDATE | Research-derived instruction adaptation, not qualified behavior |
-| Model invocation/compliance | MODEL_BEHAVIOR_NOT_RUN | No model forward test, replay, efficacy benchmark or real-user trial for this package |
+| Upstream behavioral qualification | MODEL_BEHAVIOR_NOT_RUN | Original exposed designs are NOT_RUN; no efficacy benchmark or real-user qualification |
+| Limited local smoke | OBSERVED_LOCAL_SMOKE_ONLY | Six prior outputs with exposed oracles and author-side review; no general reliability claim |
+| Codex native discovery/invocation | UNVERIFIED / initialization BLOCKED | Native model requests were not reached; no native compatibility PASS |
 | Human/legal/release | HUMAN_REVIEW_PENDING | No research freeze signature, license adoption, external legal review or public release |
 
 ## R01 W8
@@ -60,3 +62,21 @@ failures/timeouts, and an honest denominator. Exposed cases are not blind
 holdouts. Compare a faithful original baseline; allow correct refusal, partial
 HOLD, NO_CHANGE, and a candidate that performs worse. No effect or cost benefit
 is claimed by this candidate.
+
+## Known Limitations
+
+- Original research freezes, source-chain gaps and qualifications above remain
+  open. Package publication does not close them or activate a production Skill.
+- Native discovery/explicit invocation are unverified; no SQLite investigation or
+  native retest is required for this research release closure.
+- The prior local smoke is narrow, exposed and not independently blind-reviewed.
+  R02 used failure wording without execution evidence in one output; that wording
+  finding is not closed and must not become a claim of a real executed failure.
+- Rights-holder authority, final license adoption and the G1/G2 publication
+  decision remain pending. No exclusive copyright in facts/methods or all
+  AI-generated expression is assumed.
+- The private security reporting channel is not configured; see
+  [SECURITY.md](../SECURITY.md). Do not send secrets to public Issues.
+- R03-R12 are roadmap slots for later separate review/publication, not included
+  or qualified here. No benchmark, production benefit or full SE12 certification
+  is claimed. Native PASS is not itself a research-publication gate.
