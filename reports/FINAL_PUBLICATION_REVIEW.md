@@ -64,7 +64,9 @@ is enabled; report submission/notification receipt are NOT_TESTED.
 The static checker now accepts the intended repository's origin and normal
 release tags, while scanning all tag/history objects and rejecting other
 remote/push destinations. A focused regression covers that real post-release
-usability defect, foreign push URLs and a synthetic secret in a tag. No model,
+usability defect, foreign push URLs and a synthetic secret in a tag. A fresh
+public rc.1 clone also passed static checking with this revised checker, including
+its normal origin tracking refs; no Skill/model execution was involved. No model,
 native compatibility or SQLite investigation is performed. Static results are
 not professional-skill, rights or legal qualification.
 

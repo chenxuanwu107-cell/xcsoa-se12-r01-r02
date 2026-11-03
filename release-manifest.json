@@ -77,8 +77,8 @@
     },
     {
       "path": "docs/TESTS.md",
-      "bytes": 3224,
-      "sha256": "63806844aa72d9fee20a0baa45b308adc3635d2572ab5f96ee4fc8e479ec8619"
+      "bytes": 3264,
+      "sha256": "c49805dc440f21e4072fb9264e426fca04a6b3cd329544593806b0f252be5fed"
     },
     {
       "path": "legal/CLOUD_PROCESSING.md",
@@ -137,8 +137,8 @@
     },
     {
       "path": "reports/FINAL_PUBLICATION_REVIEW.md",
-      "bytes": 5031,
-      "sha256": "9675fdf3e02428ffc765725292527e7027d1ff584729ce7851068a1467827e39"
+      "bytes": 5194,
+      "sha256": "43dc4ce151441f3449bebc4e0a4d912c22ea84e92c65af56248eb99c1cf4869c"
     },
     {
       "path": "reports/PREPUBLICATION_2.md",
@@ -242,13 +242,13 @@
     },
     {
       "path": "tests/test_release_checks.py",
-      "bytes": 5782,
-      "sha256": "0286bf6258a8ff03fb9faccdcef2374487a26d277206d7123ae27e9f4c6c0fe0"
+      "bytes": 5936,
+      "sha256": "fab1ff8a9c3f881a5ac47fb922701dee77348db7102a4a976afc90347f18305f"
     },
     {
       "path": "tools/check_release.py",
-      "bytes": 13735,
-      "sha256": "019f97a27e8d8298840ad724c47a4f4db499c28d63ed9fb82e69e4ac234d600a"
+      "bytes": 13915,
+      "sha256": "55feb6f39002286889518bea1fdc6bfeaf4dfed2513668b4571522b33d6fe2fb"
     }
   ],
   "packaging_revision": "codex-native-packaging-1",

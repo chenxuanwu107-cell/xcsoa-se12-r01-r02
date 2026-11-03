@@ -136,13 +136,19 @@ def scan_git(root):
         "https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02.git",
         "git@github.com:chenxuanwu107-cell/xcsoa-se12-r01-r02.git",
     }
+    origin_allowed = False
     for remote in git_run(root, ["remote"]).decode().splitlines():
         urls = git_run(root, ["remote", "get-url", "--all", remote]).decode().splitlines()
         push_urls = git_run(root, ["remote", "get-url", "--push", "--all", remote]).decode().splitlines()
         if remote != "origin" or not urls or any(u not in allowed_origins for u in urls + push_urls):
             issues.append({"file": ".git/config", "rule": "unexpected_remote"})
+        else:
+            origin_allowed = True
     refs = git_run(root, ["for-each-ref", "--format=%(refname)"]).decode()
-    if any(not r.startswith(("refs/heads/", "refs/tags/")) for r in refs.splitlines()):
+    allowed_refs = ("refs/heads/", "refs/tags/")
+    if origin_allowed:
+        allowed_refs += ("refs/remotes/origin/",)
+    if any(not r.startswith(allowed_refs) for r in refs.splitlines()):
         issues.append({"file": ".git/refs", "rule": "unexpected_ref"})
     listing = git_run(root, ["cat-file", "--batch-all-objects", "--batch-check=%(objectname) %(objecttype) %(objectsize)"])
     total = 0

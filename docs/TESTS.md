@@ -9,7 +9,8 @@ Prepublication-1 also checks per-file rights-ledger coverage, required evidence
 categories, and the presence of title evidence for any claimed clearance. This
 validates accounting only; it does not determine whether the evidence grants rights.
 Post-release checking permits the intended GitHub origin (HTTPS or SSH) and
-normal release tags; foreign fetch/push destinations and other ref namespaces
+normal release tags and the declared origin's tracking refs; foreign fetch/push
+destinations and other ref namespaces
 remain rejected. All local objects, including tag objects, are still scanned.
 It reports STATIC_CHECK_PASS only for that scope. It cannot prove absence of
 every secret, semantic method equivalence, ownership, or professional behavior.

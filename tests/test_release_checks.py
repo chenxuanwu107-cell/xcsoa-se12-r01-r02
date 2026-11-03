@@ -100,6 +100,8 @@ class ReleaseCheckerControls(unittest.TestCase):
             git("tag", "-a", "v0.0.0-fixture", "-m", "synthetic release")
             git("remote", "add", "origin",
                 "https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02.git")
+            git("update-ref", "refs/remotes/origin/main", "HEAD")
+            git("symbolic-ref", "refs/remotes/origin/HEAD", "refs/remotes/origin/main")
             self.assertEqual(checker.scan_git(root)["status"], "PASS")
             git("remote", "set-url", "origin",
                 "git@github.com:chenxuanwu107-cell/xcsoa-se12-r01-r02.git")
