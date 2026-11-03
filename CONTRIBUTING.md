@@ -26,7 +26,8 @@ Final preparation incorporates [S2](legal/SHARING_OPTIONS.md) in the draft,
 not as an effective grant. Once validly adopted, qualified individuals may share
 noncommercially under the same terms and contribute material they control.
 G1 allows a normal Fork/PR workflow only after its specific project/platform
-approval; G2 requires a separate approved contribution channel. No route is selected. Contributors must have authority for both;
+approval. G1 is the selected direction; G2 is a fallback requiring a separate
+approved contribution channel. Contributors must have authority for both project and platform grants;
 a PR does not prove title or create a broader relicensing right.
 
 For proposed S2, a personal account is not proof that an employee owns a patch.

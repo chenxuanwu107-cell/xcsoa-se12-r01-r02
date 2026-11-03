@@ -1,6 +1,7 @@
 # Final reviewed file scope / 最终审阅文件边界
 
-Revision: release-closure-1; **50 files, NOT PUBLISHED**. G1/G2 is unselected.
+Revision: github-final-prep-1; **50 files, NOT PUBLISHED**. G1 is confirmed;
+the exact public content/actions and license adoption are not approved.
 This is the complete Skill review tree, not a G2 introduction repository.
 
 - S (11): complete independent Skill folders, including their examples and tests.
@@ -20,7 +21,8 @@ No private sibling directory or prior review ZIP is part of the public scope.
 G1 would upload the exact separately approved full tree and applicable history.
 G2 would use a different, separately approved introduction-only GitHub tree;
 the full Skill is delivered through a separately reviewed channel. Do not push
-this full commit as an introduction-only repository. Neither route is selected.
+this full commit as an introduction-only repository. G2 remains a fallback;
+G1 is the selected direction, not permission to publish.
 
 | File | Class | Purpose |
 |---|---|---|

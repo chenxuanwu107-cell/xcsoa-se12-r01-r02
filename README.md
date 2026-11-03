@@ -105,9 +105,11 @@ contribute material they control, and earn income from independent professional
 work. No enterprise Skill operation or resale grant is added. The draft remains
 NOT EFFECTIVE until rights and adoption approval are complete.
 
-G1 full GitHub publication and G2 introduction-only GitHub plus separate delivery
-remain unselected. Either route needs final content and actual-platform approval. The
-custom restriction cannot withdraw those rights. See [platform disclosure](legal/PLATFORM_PATHS.md).
+G1 full GitHub publication is the confirmed direction. The intended repository is
+`chenxuanwu107-cell/xcsoa-se12-r01-r02`. The publisher has accepted applicable
+platform/affiliate grants in principle; exact content and publication approval
+remain pending. G2 is a fallback, not the selected route. The custom restriction
+cannot withdraw platform rights. See [platform disclosure](legal/PLATFORM_PATHS.md).
 No remote creation, push, Public or Release has occurred.
 
 **Codex native compatibility is UNVERIFIED.** Actual native initialization was
@@ -122,7 +124,8 @@ R03-R12 are ten future positions for gradual separate research/review and releas
 they are not included or qualified here. See [Roadmap](ROADMAP.md). Ordinary use
 of R01 or R02 never requires the complete twelve-position system.
 
-Private security contact is not configured; [SECURITY.md](SECURITY.md) records
-the required owner decision. Public reports are sanitized summaries, not private
+Private security reporting is NOT_CONFIGURED. Enabling and checking GitHub Private
+Vulnerability Reporting is proposed for the approved publication sequence;
+see [SECURITY.md](SECURITY.md). Public reports are sanitized summaries, not private
 source custody or raw execution evidence. The 50-file review scope is classified
 in [FILE_LIST.md](FILE_LIST.md).

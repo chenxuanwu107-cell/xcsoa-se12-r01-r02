@@ -11,6 +11,8 @@ boundary, observed result and impact; do not post credentials, private chats,
 customer records, unpublished architecture, or original internal archives.
 
 **Contact status: NOT_CONFIGURED / OWNER_CONFIRMATION_REQUIRED.**
+Proposed reporting channel: GitHub Private Vulnerability Reporting for
+`chenxuanwu107-cell/xcsoa-se12-r01-r02`, after final authorization and enablement.
 No public security mailbox or private reporting endpoint has been designated or
 verified for this release. Do not infer one from a username or publish a private
 contact without permission. No remote repository currently exists. For review,
@@ -28,3 +30,12 @@ visible. Do not request full private logs or claim independent verification from
 an author self-check. If a secret enters history, deletion from the latest tree
 alone is insufficient; assess the affected history and rotate a real exposed
 credential through its owner. Publication requires a fresh audit and approval.
+
+## Proposed post-approval configuration
+
+After the approved public repository exists, its owner/admin can open Settings →
+Security and quality → Advanced Security → Private vulnerability reporting → Enable.
+Verify the setting and the correct repository's Advisories → Report a vulnerability
+form without submitting a report. Record the actual result before claiming an
+active contact. The named maintainer must monitor security notifications; a toggle
+alone does not prove notification delivery. No synthetic report is authorized here.

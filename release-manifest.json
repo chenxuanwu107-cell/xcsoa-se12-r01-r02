@@ -2,7 +2,7 @@
   "release_candidate": "0.1.0-rc.1",
   "prepublication_revision": 2,
   "baseline_commit": "ea8aa5b63cf2aaeed1ce0f415d1e2880fed72520",
-  "status": "PUBLICATION_BLOCKED_RIGHTS_ADOPTION_ROUTE_CONTACT_PENDING",
+  "status": "HOLD_PUBLIC_RIGHTS_AND_LICENSE_ADOPTION_AND_EXACT_EXECUTION_APPROVAL_PENDING",
   "self_exclusion": "This manifest excludes itself; final commit/external receipt binds exact bytes.",
   "files": [
     {
@@ -12,23 +12,23 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 2777,
-      "sha256": "22c13b30c3926db39b7358f677f4a0c7b0b481f5cfd4d819d1fc53a4b510be90"
+      "bytes": 3470,
+      "sha256": "d613ef88b04db719503d55b13215e766305d74824acf50b27e3ba7e8236fd9b5"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 2417,
-      "sha256": "c475e33c2bb468f853a514d8eb4eb3d0fc040769069ea2819deab1216f4c2ac4"
+      "bytes": 2468,
+      "sha256": "8b108095e93610365076110b785b09cf2cfd01761a0300f7c263cfb8fd2da46d"
     },
     {
       "path": "FILE_LIST.md",
-      "bytes": 6218,
-      "sha256": "b3ac6975f56c68111a51a942ae07b57e4da67082ebfa20f47f8bcc247372798f"
+      "bytes": 6341,
+      "sha256": "9a91263a0f96d6f5922ece576e987aafb0b10229b0f287c5319f1b75775c7708"
     },
     {
       "path": "LICENSE",
-      "bytes": 905,
-      "sha256": "16cba78af28b8c3a42a15c65070148b5c38821d7eb766b61961e87c273702835"
+      "bytes": 974,
+      "sha256": "1b780cce2b17a3c2d39f978bd56c83a6d62c7f6063bc7972df4254c2f97076df"
     },
     {
       "path": "NATIVE_ACCEPTANCE_REPORT.md",
@@ -37,13 +37,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 7087,
-      "sha256": "edaef352bfda9b0dd24bd5ad0acf095d9c791f2cdfbbea679c0483f52e241885"
+      "bytes": 7306,
+      "sha256": "fe8dd3a786a79a0c085a971ef86f31b32482df38431d393b7b96dd95d8aa0a36"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 6043,
-      "sha256": "9bf051cbed74496c5d56e939e527d23cbe33016733e7441284c82d775c1df262"
+      "bytes": 6226,
+      "sha256": "ac60160a801a9e361fdef158d1a3b9139ad69a793b5c8609864c061f893fe3c0"
     },
     {
       "path": "ROADMAP.md",
@@ -52,8 +52,8 @@
     },
     {
       "path": "SECURITY.md",
-      "bytes": 2092,
-      "sha256": "b7be7d73830bbb0d449d3d934407f49ea64bf75a367efd0f18b3b34d5eeb7b06"
+      "bytes": 2793,
+      "sha256": "bd074a3b5ff0050677a7c095560d25ef21c54764d5ea6fd33b634d22bde5e505"
     },
     {
       "path": "docs/COMBINED_EXAMPLE.md",
@@ -67,8 +67,8 @@
     },
     {
       "path": "docs/QUICK_START.md",
-      "bytes": 5627,
-      "sha256": "6d4dbb7f7fbceaa58c30f798046a12a37198cb16503fa5a8f0a9db44c9355405"
+      "bytes": 5732,
+      "sha256": "0350c72d4ea12e150f2d195f2d27450e060dd16c9eeb2eca3d9cff1124cb0cdc"
     },
     {
       "path": "docs/RESEARCH_STATUS.md",
@@ -87,38 +87,38 @@
     },
     {
       "path": "legal/FAQ.md",
-      "bytes": 4184,
-      "sha256": "a0106497d943aa259aca7b209169d9115eef1b76fad797731d52079c610f2f24"
+      "bytes": 4210,
+      "sha256": "b4c37d142cb918762843fc851a088834cd121cff419469e045478ab2206bff9d"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
-      "bytes": 17152,
-      "sha256": "4270cf1ffb5873925fbd960a910e511fd40a2a54ec0e8b97c68b14d930d49fc4"
+      "bytes": 17301,
+      "sha256": "c7166d4825bfd1a7f10ea7f08d17355f6a7745c5151e1d721efaeb23959116d7"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
-      "bytes": 12723,
-      "sha256": "95e2ee420a4ae857bf47ebb018e9073e85fff6966ae905c2ca89b845ab9bdea4"
+      "bytes": 12868,
+      "sha256": "ed3bf61d6fe94f8a854001c9d93a40d807f357b912c1f37357c8353a7f28c9be"
     },
     {
       "path": "legal/PLATFORM_PATHS.md",
-      "bytes": 4069,
-      "sha256": "5f947cea560e09994011c840ff336a049aff80bb26fdd266baea39262a4a3e72"
+      "bytes": 4268,
+      "sha256": "3eb3b3b79701945065ed619510976250d27bfeeca93f7f34cc48cf230fba8343"
     },
     {
       "path": "legal/REVIEW.md",
-      "bytes": 8467,
-      "sha256": "7f60bebc1dbc44a75e16b48e2bbab48c315a6fd4ec7a172f9ba17ff1d0355393"
+      "bytes": 8487,
+      "sha256": "8e72fc819401c345a70aa4bcd8f6aad58d4db88509837d05929e486531862c66"
     },
     {
       "path": "legal/RIGHTS_AUDIT.md",
-      "bytes": 8628,
-      "sha256": "3403a82e69cc00177c774ecac8f2f6139798fc6eeb119c118147e90d582d5801"
+      "bytes": 9298,
+      "sha256": "ebe886804b7ad9521a3e124820d4b7d6f79b5d2fb65599911f9de3102082af33"
     },
     {
       "path": "legal/RISK_MATRIX.md",
       "bytes": 2519,
-      "sha256": "711ca4a95f676fd58fa334a0d966a74563e0c54a76fd11bb20f39e24fc380436"
+      "sha256": "c2208a7dd4b0d42505046663af84de7789f528b0eaa7b33d56f7379b32a784e1"
     },
     {
       "path": "legal/SHARING_OPTIONS.md",
@@ -137,8 +137,8 @@
     },
     {
       "path": "reports/FINAL_PUBLICATION_REVIEW.md",
-      "bytes": 5602,
-      "sha256": "02752a3e0e80c40ee5b2da3949bebb1573b09006c3d8b1400055598e62c8e430"
+      "bytes": 5867,
+      "sha256": "c12482bc89e4533979fa2848e5c708824c4029716ef5bf78ffd8ef4c5dd69713"
     },
     {
       "path": "reports/PREPUBLICATION_2.md",
@@ -177,8 +177,8 @@
     },
     {
       "path": "rights-manifest.json",
-      "bytes": 179246,
-      "sha256": "7cafc3b74f73d94b2d1937a217bb6e3aaa0e540f7650a191423b3b590470b15b"
+      "bytes": 180178,
+      "sha256": "2cec25c78cde266a9fb1995545d07e50c19b05cd2e0d757a23fd249fe29236b1"
     },
     {
       "path": "skills/r01-requirements/README.md",
@@ -262,6 +262,9 @@
   "license_draft_version": "0.1.0_NOT_EFFECTIVE",
   "release_closure_revision": 1,
   "closure_baseline_commit": "d9d06d6acbbe80fd000e7316096bbbb4569e74d0",
-  "final_distribution_route": "G1_OR_G2_UNSELECTED",
-  "license_review_revision": "release-closure-1_NOT_EFFECTIVE"
+  "final_distribution_route": "G1_CONFIRMED_NOT_EXECUTED",
+  "license_review_revision": "github-final-prep-1_NOT_EFFECTIVE",
+  "final_publication_preparation": "github-final-prep-1",
+  "final_preparation_baseline_commit": "e44a82679ca01bea465ab1cb3120a305f38a6232",
+  "target_repository": "chenxuanwu107-cell/xcsoa-se12-r01-r02"
 }

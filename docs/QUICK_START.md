@@ -126,6 +126,7 @@ NOT_RUN. The separate historical local smoke does not certify native Codex use.
 Research-publication scope: the v0.1 candidate can be considered for publication
 with Native Compatibility UNVERIFIED; the SQLite block is not a requirement to
 rewrite the Skill or obtain a compatibility PASS before research distribution.
-Rights, actual license adoption, final G1/G2 route and applicable platform
-approval remain separate gates.
+Rights, actual license adoption and exact publication approval remain separate
+gates. G1 is confirmed for `chenxuanwu107-cell/xcsoa-se12-r01-r02`; it does not
+authorize uploading this still-unlicensed candidate.
 See [Roadmap](../ROADMAP.md) for the ten future positions; they are not dependencies.

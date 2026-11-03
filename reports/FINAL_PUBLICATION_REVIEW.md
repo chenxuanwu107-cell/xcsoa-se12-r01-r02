@@ -1,83 +1,86 @@
-# Final release closure — v0.1 Research Candidate
+# GitHub final publication preparation — v0.1 Research Candidate
 
-**PUBLICATION_BLOCKED / HOLD_PUBLIC / LEGAL_REVIEW_REQUIRED.**
-S2 is integrated in license **v0.1.0, release-closure-1, NOT EFFECTIVE**.
-G1/G2 remain unselected; no platform authorization has been accepted.
-Proposed artifact/tag: `0.1.0-rc.1` / `v0.1.0-rc.1`; no tag or remote exists.
+**github-final-prep-1 / HOLD_PUBLIC / LEGAL_REVIEW_REQUIRED.**
+Artifact: `0.1.0-rc.1`; proposed tag: `v0.1.0-rc.1` (not created).
+G1 is confirmed for `chenxuanwu107-cell/xcsoa-se12-r01-r02`.
+Applicable platform/affiliate grants are accepted in principle. This is not
+license adoption or approval to create, push, make Public, tag or release.
 
-## Rights check and actual included scope
+## Exact scope and rights findings
 
-All proposed files are listed in [FILE_LIST.md](../FILE_LIST.md), with byte
-identities in [release-manifest.json](../release-manifest.json) and a per-file
-rights basis in [rights-manifest.json](../rights-manifest.json). Existing source
-custody evidence was reused where bytes were unchanged. The prior bounded source/expression review of the following five
-files is reused after exact-byte comparison; all eleven Skill-directory files remain byte-identical to
-the native-acceptance baseline. No professional method was changed.
+The [50-file list](../FILE_LIST.md), [byte manifest](../release-manifest.json)
+and [per-file rights ledger](../rights-manifest.json) define the review scope.
+All eleven Skill-directory files are unchanged from release-closure-1.
+The two SKILL.md files and three Method References were reread against the
+existing source/adaptation map and selected-source rights evidence; no complete
+historical corpus audit, model test or native initialization retry was performed.
 
-| Priority file | Source basis / unresolved authorization |
-|---|---|
-| `skills/r01-requirements/SKILL.md` | R01 original/scope and W8 limits; protected inherited expression and actual licensor authority not confirmed |
-| `skills/r02-coordination/SKILL.md` | R02 original, W05 and R8/FR1; same missing publication/custom-license/platform authority |
-| `skills/r01-requirements/references/handoff.md` | R01 scope/handoff and source-depth obligations; same targeted rights confirmation needed |
-| `skills/r02-coordination/references/handoff.md` | R8 context/handoff; same targeted rights confirmation needed |
-| `skills/r02-coordination/references/git-evidence.md` | W05/R8/FR1 conditional evidence rules; historical implementation excluded; expression authority remains unconfirmed |
+| Priority file | Actual source basis | Disposition |
+|---|---|---|
+| `skills/r01-requirements/SKILL.md` | R01 original/scope, W8 verdict and freeze limits | UNKNOWN — actual holder and protected-expression grant not confirmed |
+| `skills/r02-coordination/SKILL.md` | R02 original/scope, W05, R8 guide and FR1 limits | UNKNOWN — same targeted authority gap |
+| `skills/r01-requirements/references/handoff.md` | R01 scope/handoff and original procedure 4 | UNKNOWN — same targeted authority gap |
+| `skills/r02-coordination/references/handoff.md` | R8 context/handoff and FR1 limits | UNKNOWN — same targeted authority gap |
+| `skills/r02-coordination/references/git-evidence.md` | W05/R8 handoff and FR1 verdict; historical implementation excluded | UNKNOWN — same targeted authority gap |
 
-No unauthorized third-party paper/book/code payload was identified in the
-bounded review of this tree. No such payload was removed or relicensed as a
-substitute for obtaining rights. Papers, books, external Skill corpora, original
-research archives, model/runtime files, private custody and raw host logs remain
-excluded. Public legal/platform references are links and bounded paraphrases.
-This is not an exhaustive external originality search or legal adjudication.
+User-led policy/research direction and observed AI-assisted public drafting are
+separate from authorship/title. Existing source identities and bounded research
+permissions do not establish a public redistribution/custom-license/platform grant.
+No specific unauthorized protected paper/book/code passage or implementation was
+identified in these five files; no concrete REMOVE, REWRITE or LICENSE_REQUIRED
+finding is supported at present. UNKNOWN is not a finding of infringement.
+If an actual protected conflict emerges, address only that part through permission,
+removal or lawful independent expression; do not silently change the frozen method.
+Facts/general methods and bare hashes are not claimed as exclusive copyright.
+AI assistance alone neither clears inherited rights nor bars the whole project.
 
-Source provenance includes external-method references; possession, research
-direction and matching hashes do not establish authority over any protected
-expression inherited from them. Facts/general methods are not claimed as
-exclusive copyright. New AI-assisted text/code is not automatically human-owned
-or exclusively protected. Do not demand invented authorship paperwork for bare
-metadata; confirm actual protected contributions, any employer/client/joint
-rights and applicable generation/upstream permissions where relevant.
+Original archives, third-party payloads, private custody/contracts/approval records,
+raw host/model logs, credentials and internal production records remain excluded.
+Public reports are sanitized summaries; historical reports retain their original
+scope and do not override this current review.
 
-## Exact remaining publication blockers
+## Final license and concrete remaining decisions
 
-1. **B01 — Rights holder/authority UNCONFIRMED.** Identify the actual licensor and
-   the protected contributions they control, especially the five files above;
-   confirm authority for S2 distribution/contribution terms and G1 grants.
-   No ownership conflict is confirmed, but the necessary grant is not established.
-2. **B02 — License not adopted.** Review the exact English v0.1.0 draft and Chinese
-   reference; record licensor, notice channel and effective version/date. Confirm
-   the S2, limited processor, termination/liability and proposed absence of an
-   express law/exclusive-forum choice. Legal validity is not certified here.
-   The root LICENSE remains pending and supplies no operative grant.
-3. **B03 — Final G1/G2 route, target/content and applicable grants not confirmed.** Review
-   [platform disclosure](../legal/PLATFORM_PATHS.md) and approve the applicable
-   account agreement and exact uploaded scope. Custom enterprise restrictions
-   cannot withdraw platform/affiliate rights. If those grants are unacceptable,
-   G1 must stop; G2 still needs its own delivery and introduction approval.
-4. **B04 — Private security contact not configured.** Designate and confirm a
-   monitored private channel, or approve its setup/verification in the exact
-   publication sequence. No email, endpoint or verification is invented.
+The complete English adoption candidate is [v0.1.0 / github-final-prep-1](../legal/LICENSE-CANDIDATE.en.md),
+with a [Chinese reference](../legal/LICENSE-CANDIDATE.zh-CN.md) and [short FAQ](../legal/FAQ.md).
+Sections 1–10 are unchanged. The root [LICENSE](../LICENSE) is still a pending
+notice; no operative grant or lawyer approval is asserted.
 
-## Engineering and safety scope
+- **B01 — actual licensor/authority UNCONFIRMED.** The publishing account is
+  confirmed, but it is not evidence of ownership. The actual holder/authorized
+  grantor must identify the protected contributions controlled and any needed
+  upstream, employer, client or joint-author permission for S2 and G1. Do not
+  demand artificial title in facts/methods or assume all AI text is owned.
+- **B02 — license adoption pending.** Record an authorized licensor identity,
+  notice channel, covered rights and effective release/date; decide the exact
+  English text, S2, narrow processor permission, term/material-breach termination,
+  written reinstatement, liability limits and no express law/exclusive-forum choice.
+  Enforceability, assent and AI/cloud/platform interaction remain legal risks;
+  no professional legal opinion has been obtained. LEGAL_REVIEW_REQUIRED remains.
+- **B03 — exact publication execution approval pending.** G1 and the target are
+  already confirmed. A final grant must name the actual licensed commit/tree/
+  manifest and authorized create/push/Public/tag/prerelease actions. This pending-
+  license review commit is not yet the licensed public release commit.
+- **B04 — security reporting NOT_CONFIGURED.** Approve enabling/checking GitHub
+  Private Vulnerability Reporting in the publication sequence and assign a
+  monitoring maintainer. No mailbox, live endpoint or notification receipt exists.
 
-Release structure, local links, JSON, entrypoints, sensitive patterns and all
-local Git objects/metadata are checked by the release checker; the prior nine checker
-negative controls already passed. Existing validation evidence is reused; only the final exact-tree Git, sensitive
-pattern, manifest/hash and link closure checks are repeated. No model/native or
-checker-negative-control suite is rerun. Exact-commit receipts remain private. These checks do not establish title,
-license effectiveness, professional skill quality or model compliance.
+## Engineering and operational boundary
 
-Native compatibility remains **UNVERIFIED**: actual SQLite initialization was
-blocked; discovery/explicit invocation are NOT_RUN. No native retry occurred in
-this preparation. The limited historical local smoke and its R02 wording caveat
-remain separate. Under the current human direction, Native PASS is **not** a
-research-publication prerequisite; B01-B04 still are.
+The existing checker is reused for the actual current files, hashes, local links,
+Skill entrypoints/references, JSON, secret/private-locator patterns and all local
+Git objects/metadata. Exact final receipts remain private. The prior nine checker
+negative controls are not rerun. Static PASS cannot establish title, license
+validity, method quality or model behavior. External URL retrieval is separate.
 
-R01 W8 remains **HUMAN_FREEZE_PENDING**; R02 FR1 remains
-**FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE**. The new [Roadmap](../ROADMAP.md)
-describes gradual future R03-R12 publication without asserting their methods,
-internal status or qualifications. No new research is started.
+Native Codex compatibility is **UNVERIFIED**; discovery/explicit invocation remain
+NOT_RUN. Independent effectiveness evaluation is incomplete. The historical
+bounded local smoke, including its unresolved R02 evidence-state wording caveat,
+is separate evidence. Native PASS is not a research-publication prerequisite.
+R01 W8 stays **HUMAN_FREEZE_PENDING**; R02 FR1 stays
+**FROZEN_RESEARCH_CANDIDATE / NOT_ACTIVE**. The [roadmap](../ROADMAP.md) describes
+R03–R12 gradual future research/release without dates or qualification claims.
 
-No repository creation, push, Public or Release has occurred. This preparation
-stops at the unresolved rights/license/platform gate. Final human approval must
-identify actual reviewed content and authorization; a direction to prepare is
-not approval to publish this still-unlicensed tree.
+No remote, push, Public change, tag or Release has been performed. Stop here:
+resolve the actual rights/adoption decisions, bind the resulting final licensed
+content, and obtain the single concrete publication approval before any upload.

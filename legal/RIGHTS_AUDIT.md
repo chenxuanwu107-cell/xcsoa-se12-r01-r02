@@ -104,3 +104,14 @@ not proof that the necessary rights have been granted.
 The concrete five-file scope, remaining B01-B03 blockers and stop decision are
 in [Final publication review](../reports/FINAL_PUBLICATION_REVIEW.md). Native
 compatibility is disclosed as unverified and is not a publication prerequisite.
+
+## github-final-prep-1 closure
+
+The five priority bodies/references and all eleven Skill files remain byte-identical
+to release-closure-1. Their actual source mappings and existing selected-source
+permission observations were reused after rereading the five files. Disposition
+remains UNKNOWN for grant authority, with no identified third-party protected
+payload requiring removal. No new title evidence has been supplied. G1 and target
+`chenxuanwu107-cell/xcsoa-se12-r01-r02` are confirmed; final license adoption and
+publication execution remain pending. See the current final review. No whole-project
+copyright claim or AI-based publication prohibition is inferred.

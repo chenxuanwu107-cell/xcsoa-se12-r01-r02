@@ -83,7 +83,9 @@ MIT、Apache-2.0、CC BY-NC-SA、PolyForm Noncommercial 均不作为最终建议
 内容，并通过个人项目和独立职业服务盈利。不增加企业运行或转售 Skill 的许可。
 当前仍是未生效文本，须完成权利与正式采用批准。
 
-G1 全量 GitHub 与 G2 仅介绍、外部交付两条路径均待最终选择及具体内容、平台授权批准。定制企业限制不能撤回平台授权；见[平台披露](legal/PLATFORM_PATHS.md)。
+G1 全量 GitHub 已确认为发行方向，目标为 `chenxuanwu107-cell/xcsoa-se12-r01-r02`。
+发布人已原则接受适用的平台及关联方授权；具体内容和发布动作仍待最终批准。
+G2 仅保留为备选，不是当前选择。定制企业限制不能撤回平台授权；见[平台披露](legal/PLATFORM_PATHS.md)。
 未创建远程、Push、设置 Public 或发布 Release。
 
 **Codex Native Compatibility：UNVERIFIED。** 实际原生初始化受阻，发现与显式调用均
@@ -94,5 +96,5 @@ NOT_RUN，见[原生验收](NATIVE_ACCEPTANCE_REPORT.md)和[安装说明](docs/Q
 后续还有 R03-R12 十个岗位逐步研究、审查和发布；本仓库不包含或宣称其资格。
 见[路线图](ROADMAP.md)。普通 R01/R02 使用不要求安装十二岗位体系。
 
-私密安全联系渠道尚未配置，见 [SECURITY.md](SECURITY.md)。公开 reports 仅为净化摘要，
+GitHub 私密漏洞报告尚未配置，拟在获批的发布步骤中启用并检查，见 [SECURITY.md](SECURITY.md)。公开 reports 仅为净化摘要，
 原始证据与私有审计保管记录不在发行目录；50 文件分类见 [FILE_LIST.md](FILE_LIST.md)。

@@ -1,8 +1,11 @@
 # XCSOA Individual & Independent Professional Use License
 
-Version 0.1.0 — rights-holder/legal review draft, release-closure-1, NOT EFFECTIVE
+Version 0.1.0 — final adoption candidate, github-final-prep-1, NOT EFFECTIVE
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
+
+G1 is confirmed for `chenxuanwu107-cell/xcsoa-se12-r01-r02`; the platform grants
+are accepted in principle, not an adoption or publication authorization.
 
 **Status notice.** This text proposes operative terms for a future release. It
 has not been approved by a lawyer or adopted by the verified rights holder.

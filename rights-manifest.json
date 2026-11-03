@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "revision": "prepublication-2",
+  "revision": "github-final-prep-1",
   "status": "RIGHTS_NOT_FULLY_CLEARED",
   "actual_licensor": "UNCONFIRMED",
   "no_current_grant": true,
@@ -14,7 +14,8 @@
     "CURRENT_LOCAL_TEST_RECORDS": "Frozen input/oracle, actual isolated MLX outputs and startup failures, private logs/hash records; not a source-rights or legal clearance.",
     "NATIVE-USER-ACCEPTANCE-OBSERVATIONS": "One bounded real CLI attempt, raw terminal code 14/exit 1, unchanged method bytes, full temporary folder copies and Quick Start requests; private custody, not model or ownership qualification.",
     "FINAL-PUBLICATION-PREP-OBSERVATIONS": "Baseline 11788e36527e7cdc834f81f34bf842b632b8dbd3; all current files scanned, five method files reread and prior source-rights evidence reused, current S2/G1 direction, private exact-commit checks. No title or final approval inferred.",
-    "FINAL-RELEASE-CLOSURE": "Baseline d9d06d6acbbe80fd000e7316096bbbb4569e74d0; five unchanged priority files use existing bounded source-rights review. Publication scope classification and contact/route/status corrections only; no new title evidence, research or behavioral tests."
+    "FINAL-RELEASE-CLOSURE": "Baseline d9d06d6acbbe80fd000e7316096bbbb4569e74d0; five unchanged priority files use existing bounded source-rights review. Publication scope classification and contact/route/status corrections only; no new title evidence, research or behavioral tests.",
+    "GITHUB-FINAL-PREP-1": "User confirmed G1, account and exact target; in-principle platform grants accepted. Five priority files reread against prior bounded source evidence. All 11 Skill files and license sections 1-10 unchanged. Account authentication verified read-only; no title or publication authorization inferred."
   },
   "files": [
     {
@@ -109,7 +110,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -173,7 +175,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -236,7 +239,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -298,7 +302,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "HUMAN-POLICY-DIRECTION-ONLY"
+        "HUMAN-POLICY-DIRECTION-ONLY",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -417,7 +422,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -481,7 +487,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -600,7 +607,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -789,7 +797,8 @@
         "GIT-BASELINE-IDENTITY",
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1054,7 +1063,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1118,7 +1128,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1182,7 +1193,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1249,7 +1261,8 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1331,7 +1344,8 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1395,7 +1409,8 @@
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1459,7 +1474,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1715,7 +1731,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1779,7 +1796,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
@@ -2245,7 +2263,8 @@
       "evidence_refs": [
         "TASK-GENERATION-OBSERVED",
         "GIT-BASELINE-IDENTITY",
-        "FINAL-PUBLICATION-PREP-OBSERVATIONS"
+        "FINAL-PUBLICATION-PREP-OBSERVATIONS",
+        "GITHUB-FINAL-PREP-1"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -3201,16 +3220,16 @@
     "R2": "Five method-body/reference files prioritized for any actual inherited protected expression and necessary license basis.",
     "R3": "Reserved for a confirmed third-party expression/ownership conflict; none identified here.",
     "S2": "INTEGRATED_FINAL_PREPARATION_DRAFT_NOT_EFFECTIVE",
-    "G2": "FINAL_CHOICE_PENDING_NOT_AUTHORIZED",
-    "G1": "FINAL_CHOICE_PENDING_NOT_AUTHORIZED"
+    "G2": "FALLBACK_NOT_SELECTED",
+    "G1": "DIRECTION_AND_TARGET_CONFIRMED_PLATFORM_GRANTS_ACCEPTED_IN_PRINCIPLE_UPLOAD_NOT_AUTHORIZED"
   },
   "packaging_revision": "codex-native-packaging-1",
   "acceptance_notice_revision": 1,
-  "publication_preparation": "publication-prep-1 / v0.1 Research Candidate / NOT_PUBLISHED",
+  "publication_preparation": "github-final-prep-1 / v0.1 Research Candidate / NOT_PUBLISHED",
   "publication_blockers": [
     "B01_LICENSOR_AND_PROTECTED_EXPRESSION_AUTHORITY_UNCONFIRMED",
     "B02_EXACT_LICENSE_LEGAL_REVIEW_AND_ADOPTION_PENDING",
-    "B03_G1_G2_TARGET_SCOPE_AND_ACTUAL_PLATFORM_GRANTS_UNAPPROVED",
+    "B03_EXACT_LICENSED_COMMIT_AND_PUBLICATION_ACTIONS_NOT_APPROVED",
     "B04_PRIVATE_SECURITY_CONTACT_UNCONFIGURED"
   ],
   "release_closure_revision": 1

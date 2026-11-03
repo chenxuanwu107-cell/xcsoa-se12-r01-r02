@@ -1,5 +1,16 @@
 # Changelog
 
+## github-final-prep-1 — 2026-11-03 — HOLD_PUBLIC
+
+- Recorded confirmed G1 direction and target `chenxuanwu107-cell/xcsoa-se12-r01-r02`;
+  no remote creation, upload, tag or Release authorized.
+- Retained final v0.1.0 license terms and S2 for adoption review, not an operative
+  grant. Root LICENSE remains pending; no licensor identity/title invented.
+- Rechecked the five priority files against existing source/right records, without
+  new method research. All eleven Skill files and license sections 1–10 unchanged.
+- Refreshed current documentation, rights/integrity records and final local checks.
+  Historical reports retain their original dates/scope; private receipts excluded.
+
 ## publication-prep-1 — pending v0.1 Research Candidate
 
 - Integrated S2 into the v0.1.0 final license preparation draft; no operative

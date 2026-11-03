@@ -1,8 +1,11 @@
 # XCSOA Individual & Independent Professional Use License
 
-个人及独立职业使用许可 — v0.1.0 / release-closure-1 权利人及法律审查文本的中文参考译文，尚未生效
+个人及独立职业使用许可 — v0.1.0 / github-final-prep-1 最终采用候选的中文参考译文，尚未生效
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
+
+G1 已确认为 `chenxuanwu107-cell/xcsoa-se12-r01-r02` 全量公开方向；平台授权已原则接受，
+不代表许可采用或具体发布批准。
 
 **状态说明。** 本文对应英文许可候选，提出供未来发行采用的条款。尚未经过律师
 审核，也未由已核实的权利人采用；候选状态下不授予新权利。采用前必须确认许可人、
