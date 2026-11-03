@@ -1,11 +1,12 @@
-# English adoption candidate — single authoritative text
+# English license — single authoritative text
 
-The complete English **XCSOA Individual & Independent Professional Use License
-v0.1.0 / post-release-finalization-1** is maintained in the root [LICENSE](../LICENSE).
-This pointer avoids maintaining two English copies. The root text is an adoption
-candidate, **NOT EFFECTIVE**, until expressly adopted by the Licensor for a
-specified release. The public rc.1 snapshot remains unchanged.
+The complete **XCSOA Individual & Independent Professional Use License v0.1.0**
+is maintained in the root [LICENSE](../LICENSE). The Licensor adopted the exact
+terms on 2026-11-03, with prospective effectiveness on authorized publication
+of the designated rc.2 release. Adoption does not publish that release or change
+rc.1's historical pending notice.
 
-[Chinese reference translation](LICENSE-CANDIDATE.zh-CN.md) · [Usage FAQ](FAQ.md).
-No professional legal review, copyright clearance or publication authorization
-is inferred from this document.
+This legacy filename is retained for existing links. It no longer denotes a
+pending adoption decision. [Chinese reference translation](LICENSE-CANDIDATE.zh-CN.md)
+(the legacy filename is also retained) · [Usage FAQ](FAQ.md).
+No professional legal review or independent copyright clearance is asserted.

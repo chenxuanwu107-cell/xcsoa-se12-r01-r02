@@ -1,28 +1,28 @@
 # XCSOA Individual & Independent Professional Use License
 
-Version 0.1.0 — post-release-finalization-1 adoption candidate
+Version 0.1.0 — adopted 2026-11-03
 
-**ADOPTION_CANDIDATE / NOT_EFFECTIVE / CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
+**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
-The text below is prepared for express adoption; it grants no operative project
-rights while marked NOT_EFFECTIVE. No lawyer review or universal enforceability
-is claimed. Public release of v0.1.0-rc.1 did not adopt a license.
+The Licensor expressly adopted this text on 2026-11-03. No lawyer review,
+independent title adjudication or universal enforceability is claimed.
 
-- Proposed Licensor: the natural person publishing as **yidewen**
-  (GitHub: `chenxuanwu107-cell`), as confirmed by that person; authority is
-  owner-attested, not independently adjudicated.
-- Proposed covered release: **v0.1.0-rc.2**, and later releases expressly carrying
-  this license version, only for rights actually held or authorized. Third-party
-  works and unprotected matter remain outside the grant as stated below.
-- Proposed effectiveness: on express adoption recorded with the approved rc.2
-  release notice, prospectively for the designated material. No automatic change
-  to rc.1's historical LICENSE or permission for past unlicensed acts is asserted.
-- Proposed notices: non-confidential GitHub Issues under Section 10; confidential
-  legal notices require an appropriate arranged channel and applicable law.
+- Licensor: the natural person publishing as **yidewen**
+  (GitHub: `chenxuanwu107-cell`), with owner-attested authority, limited to
+  rights actually held or authorized.
+- Covered release: **v0.1.0-rc.2**, and later releases expressly carrying this
+  license version. Third-party works and unprotected matter remain outside
+  the grant as stated below.
+- Effectiveness: prospectively from the first authorized public publication of
+  v0.1.0-rc.2 carrying this adopted text, at that release's recorded publication
+  time. Adoption does not itself publish the release. It does not change rc.1's
+  historical LICENSE or authorize past unlicensed acts by implication.
+- Notices: non-confidential GitHub Issues under Section 10; confidential legal
+  notices require an appropriate arranged channel and applicable law.
 
-These proposed identity/scope/notice decisions and the exact terms still require
-final owner adoption. The Chinese version in legal/LICENSE-CANDIDATE.zh-CN.md
-is a reference translation. No push, tag or Release update is authorized here.
+The Chinese version in legal/LICENSE-CANDIDATE.zh-CN.md is a reference
+translation. Only the English text controls. No push, tag or Release update
+is authorized by this license document itself.
 
 ## 1. Definitions and covered rights
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "revision": "post-release-finalization-1",
-  "status": "OWNER_AUTHORITY_ATTESTED_LICENSE_ADOPTION_PENDING",
+  "revision": "license-adoption-1",
+  "status": "OWNER_AUTHORITY_ATTESTED_LICENSE_ADOPTED_EFFECTIVE_ON_RC2_PUBLICATION",
   "actual_licensor": {
     "public_name": "yidewen",
     "github_account": "chenxuanwu107-cell",
@@ -9,7 +9,6 @@
     "authority_basis": "EXPLICIT_OWNER_ATTESTATION",
     "independent_title_adjudication": "NOT_PERFORMED"
   },
-  "no_current_grant": true,
   "license_intent": "CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED",
   "evidence_index": {
     "HUMAN-POLICY-DIRECTION-ONLY": "Current explicit human policy and REVISE/HOLD feedback; no copyright authorship/assignment attestation.",
@@ -23,7 +22,8 @@
     "FINAL-RELEASE-CLOSURE": "Baseline d9d06d6acbbe80fd000e7316096bbbb4569e74d0; five unchanged priority files use existing bounded source-rights review. Publication scope classification and contact/route/status corrections only; no new title evidence, research or behavioral tests.",
     "GITHUB-FINAL-PREP-1": "User confirmed G1, account and exact target; in-principle platform grants accepted. Five priority files reread against prior bounded source evidence. All 11 Skill files and license sections 1-10 unchanged. Account authentication verified read-only; no title or publication authorization inferred.",
     "OWNER-ATTESTATION-POST-RELEASE": "Proposed Licensor explicitly identifies as the natural person publishing as yidewen (GitHub chenxuanwu107-cell), attests authority to license covered expression and no known unresolved restrictions. Owner evidence only, not independent adjudication or adoption.",
-    "POST-RELEASE-FINALIZATION-1": "Read-only verified rc.1 main/Release and Profile README; private vulnerability reporting enabled; five priority files and unchanged non-guide Skill files match published bytes. New license/navigation/metadata candidate only; no remote mutation or license adoption."
+    "POST-RELEASE-FINALIZATION-1": "Read-only verified rc.1 main/Release and Profile README; private vulnerability reporting enabled; five priority files and unchanged non-guide Skill files match published bytes. New license/navigation/metadata candidate only; no remote mutation or license adoption.",
+    "LICENSE-ADOPTION-2026-11-03": "Licensor expressly replied 采用 after review of v0.1.0 / post-release-finalization-1; exact English candidate SHA256 b8795c7e8296ebee3f87f2f2d5b9e49fae6009fe8567360121c5234e6f1df5b6. Adoption covers reviewed identity/scope/effectiveness/notices. Not remote publication approval or independent rights/legal clearance."
   },
   "files": [
     {
@@ -65,7 +65,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -78,7 +78,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
@@ -121,7 +121,8 @@
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -130,7 +131,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -143,7 +144,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -188,7 +189,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -197,7 +199,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -210,7 +212,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -254,7 +256,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -263,7 +266,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -276,7 +279,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
@@ -288,7 +291,7 @@
     {
       "path": "LICENSE",
       "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
-      "file_specific_basis": "Complete AI-assisted English adoption candidate from confirmed personal-commercial/S2/enterprise restriction policy and prior legal drafting; public Licensor identity/authority owner-attested. Still NOT_EFFECTIVE.",
+      "file_specific_basis": "Owner expressly adopted exact reviewed v0.1.0 terms, identity, scope, effectiveness and notices on 2026-11-03. Sections 1-10 unchanged; adoption/status wrapper only. Actual rights only, no independent CLEAR.",
       "content_parts": {
         "human_original_expression": {
           "status": "NOT_ESTABLISHED",
@@ -297,7 +300,7 @@
         },
         "ai_assistance": {
           "status": "OBSERVED_RELEASE_DRAFTING_OR_GENERATION",
-          "scope": "Complete AI-assisted English adoption candidate from confirmed personal-commercial/S2/enterprise restriction policy and prior legal drafting; public Licensor identity/authority owner-attested. Still NOT_EFFECTIVE."
+          "scope": "Owner expressly adopted exact reviewed v0.1.0 terms, identity, scope, effectiveness and notices on 2026-11-03. Sections 1-10 unchanged; adoption/status wrapper only. Actual rights only, no independent CLEAR."
         },
         "inherited_expression": {
           "status": "POLICY_AND_EXISTING_LICENSE_DRAFT_REUSED",
@@ -322,7 +325,8 @@
         "HUMAN-POLICY-DIRECTION-ONLY",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -331,7 +335,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -344,7 +348,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -394,12 +398,12 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -444,7 +448,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -453,7 +458,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -466,7 +471,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -511,7 +516,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -520,7 +526,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -533,7 +539,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -584,12 +590,12 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -645,7 +651,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -658,7 +664,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -711,7 +717,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -724,7 +730,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -767,7 +773,8 @@
         "TASK-GENERATION-OBSERVED",
         "CURRENT_LOCAL_TEST_RECORDS",
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
-        "FINAL-RELEASE-CLOSURE"
+        "FINAL-RELEASE-CLOSURE",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
@@ -775,12 +782,12 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -827,7 +834,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -836,7 +844,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -849,7 +857,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -905,7 +913,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -918,7 +926,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -968,7 +976,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -981,7 +989,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1030,7 +1038,8 @@
         "GIT-BASELINE-IDENTITY",
         "HUMAN-POLICY-DIRECTION-ONLY",
         "PUBLIC-SOURCE-CITATION-NOT-TITLE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1040,7 +1049,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1053,7 +1062,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1098,7 +1107,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1107,7 +1117,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1120,7 +1130,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1132,7 +1142,7 @@
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
       "identity_binding": "release-manifest.json entry for this path; the integrity manifest itself is bound by final Git commit/external receipt",
-      "file_specific_basis": "New factual pointer to authoritative root English LICENSE; no duplicate operative English text.",
+      "file_specific_basis": "Legacy-path pointer to authoritative adopted English root LICENSE; no duplicate operative English text.",
       "content_parts": {
         "human_original_expression": {
           "status": "NOT_ESTABLISHED",
@@ -1165,7 +1175,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1174,7 +1185,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1187,7 +1198,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1232,7 +1243,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1241,7 +1253,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1254,7 +1266,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1302,7 +1314,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1312,7 +1325,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1325,7 +1338,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1387,7 +1400,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1397,7 +1411,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1410,7 +1424,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1454,7 +1468,8 @@
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1463,7 +1478,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1476,7 +1491,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1521,7 +1536,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1530,7 +1546,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1543,7 +1559,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1587,7 +1603,8 @@
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "FINAL-RELEASE-CLOSURE",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1596,7 +1613,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1609,7 +1626,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1661,7 +1678,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1674,7 +1691,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1726,7 +1743,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1739,7 +1756,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
@@ -1782,7 +1799,8 @@
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -1791,7 +1809,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1804,7 +1822,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
@@ -1849,7 +1867,8 @@
         "FINAL-RELEASE-CLOSURE",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Any protectable human expression/arrangement and actual licensor authority, if relied on, are unconfirmed."
@@ -1857,12 +1876,12 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1911,12 +1930,12 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -1964,7 +1983,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -1977,7 +1996,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -2025,7 +2044,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2038,7 +2057,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -2086,7 +2105,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2099,7 +2118,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
@@ -2147,7 +2166,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2160,7 +2179,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
@@ -2209,12 +2228,12 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Explicit local preparation/testing only; no public or operative license grant.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual right holder for any protectable expression relied upon; do not require title evidence for bare facts or ordinary methods."
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
@@ -2262,7 +2281,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2275,7 +2294,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
@@ -2318,7 +2337,8 @@
         "FINAL-PUBLICATION-PREP-OBSERVATIONS",
         "GITHUB-FINAL-PREP-1",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -2327,7 +2347,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2340,7 +2360,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R0_FACTUAL_OR_ROUTINE_METADATA",
         "action": "No repeat authorship paperwork for bare facts/routine metadata; preserve exceptions and no exclusive claim.",
@@ -2385,7 +2405,8 @@
         "GIT-BASELINE-IDENTITY",
         "SOURCE-BYTES-REVERIFIED",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -2395,7 +2416,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2408,7 +2429,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -2468,7 +2489,7 @@
         "title_evidence_refs": [
           "OWNER-ATTESTATION-POST-RELEASE"
         ],
-        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
           "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
@@ -2479,7 +2500,7 @@
           "Source possession or policy direction alone"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
         "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
@@ -2531,7 +2552,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2544,7 +2565,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -2601,7 +2622,7 @@
         "title_evidence_refs": [
           "OWNER-ATTESTATION-POST-RELEASE"
         ],
-        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
           "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
@@ -2612,7 +2633,7 @@
           "Source possession or policy direction alone"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
         "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
@@ -2665,7 +2686,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2678,7 +2699,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -2723,7 +2744,8 @@
         "GIT-BASELINE-IDENTITY",
         "SOURCE-BYTES-REVERIFIED",
         "OWNER-ATTESTATION-POST-RELEASE",
-        "POST-RELEASE-FINALIZATION-1"
+        "POST-RELEASE-FINALIZATION-1",
+        "LICENSE-ADOPTION-2026-11-03"
       ],
       "unconfirmed_parts": [
         "Protectable human expression and any selection/arrangement rights in this file are not independently established.",
@@ -2733,7 +2755,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2746,7 +2768,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -2806,7 +2828,7 @@
         "title_evidence_refs": [
           "OWNER-ATTESTATION-POST-RELEASE"
         ],
-        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
           "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
@@ -2817,7 +2839,7 @@
           "Source possession or policy direction alone"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
         "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
@@ -2870,7 +2892,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -2883,7 +2905,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -2941,7 +2963,7 @@
         "title_evidence_refs": [
           "OWNER-ATTESTATION-POST-RELEASE"
         ],
-        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
           "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
@@ -2952,7 +2974,7 @@
           "Source possession or policy direction alone"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
         "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
@@ -3010,7 +3032,7 @@
         "title_evidence_refs": [
           "OWNER-ATTESTATION-POST-RELEASE"
         ],
-        "local_work_basis": "Owner supplied authority statement; this task permits local candidate preparation only. Exact license adoption and successor publication still pending.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Independent copyrightability/title adjudication not obtained; no all-AI or factual-method exclusive claim.",
           "A concrete conflicting third-party protected component, if later identified, requires actual authority or targeted exclusion."
@@ -3021,7 +3043,7 @@
           "Source possession or policy direction alone"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R2_SOURCE_DERIVED_PRIORITY",
         "action": "Reuse bounded source mapping and owner authority statement; do not declare independent CLEAR or manufacture a conflict. Target any actual later protected-expression issue.",
@@ -3076,7 +3098,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -3089,7 +3111,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -3137,7 +3159,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -3150,7 +3172,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -3200,7 +3222,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -3213,7 +3235,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -3263,7 +3285,7 @@
       "relicensing_basis": {
         "status": "NOT_ESTABLISHED",
         "title_evidence_refs": [],
-        "local_work_basis": "Current task authorizes local preparation/review only, not public distribution or copyright relicensing.",
+        "local_work_basis": "Exact reviewed license adoption is now expressly confirmed for actual controlled rights; underlying title evidence/limits as recorded. Remote publication remains separately authorized.",
         "missing_evidence": [
           "Actual holder and protectable-expression identification for this file/part.",
           "Any necessary upstream/contributor/employment/commission rights.",
@@ -3276,7 +3298,7 @@
           "Neutral Git author identity or a generated manifest"
         ]
       },
-      "candidate_license": "XCSOA Individual & Independent Professional Use License; proposed only, not adopted",
+      "candidate_license": "XCSOA Individual & Independent Professional Use License v0.1.0; adopted 2026-11-03; designated-release effectiveness under root LICENSE",
       "risk_triage": {
         "tier": "R1_NEW_AI_ASSISTED_NO_IDENTIFIED_CONFLICT",
         "action": "No new title investigation absent identified protected third-party content or a real ownership conflict.",
@@ -3291,25 +3313,35 @@
     "R1": "New AI-assisted material, no identified conflict; protectability is not presumed.",
     "R2": "Five method-body/reference files prioritized for any actual inherited protected expression and necessary license basis.",
     "R3": "Reserved for a confirmed third-party expression/ownership conflict; none identified here.",
-    "S2": "FINAL_ADOPTION_CANDIDATE_NOT_EFFECTIVE",
+    "S2": "ADOPTED_V0.1.0_EFFECTIVE_FOR_DESIGNATED_RELEASE",
     "G2": "FALLBACK_NOT_SELECTED",
-    "G1": "RC1_PUBLIC_SUCCESSOR_UPDATE_PENDING_APPROVAL"
+    "G1": "IMPLEMENTED_PLATFORM_RIGHTS_PRESERVED_REMOTE_OPERATIONS_REQUIRE_SEPARATE_AUTHORIZATION"
   },
   "packaging_revision": "codex-native-packaging-1",
   "acceptance_notice_revision": 1,
-  "publication_preparation": "post-release-finalization-1 / rc.1 PUBLIC / local successor NOT_PUSHED",
+  "publication_preparation": "license-adoption-1 / rc.1 public / remote operations separately authorized",
   "publication_blockers": [
-    "EXACT_LICENSE_ADOPTION_AND_SCOPE_EFFECTIVENESS_NOTICE_CHOICES_PENDING",
-    "PROFILE_AND_PROJECT_SUCCESSOR_PUSH_AND_RC2_RELEASE_APPROVAL_PENDING"
+    "PROFILE_AND_EXACT_RC2_PUBLICATION_ACTION_APPROVAL_PENDING"
   ],
   "release_closure_revision": 1,
   "owner_attestation": {
     "scope": "Authority to license the covered expression, especially the five core Skill/Reference files, with no known unresolved third-party/employer/client/joint-author restrictions, explicitly confirmed by the proposed Licensor.",
     "limit": "Not a statement that every AI-assisted span is copyrightable or an independent CLEAR determination; only actual controlled rights can be granted.",
-    "license_adoption": "NOT_GIVEN"
+    "license_adoption": "EXPRESSLY_CONFIRMED_2026-11-03_EXACT_REVIEWED_TEXT"
   },
   "residual_rights_unknowns": [
     "Independent title/copyrightability adjudication not performed; AI participation does not prove or defeat all rights.",
     "Any concrete later third-party protected-expression conflict needs actual permission or targeted treatment; no such payload identified in current five files."
-  ]
+  ],
+  "grant_effectiveness": "Prospective from authorized public publication of designated rc.2 carrying adopted v0.1.0; rc.1 historical pending notice unchanged.",
+  "adopted_license": {
+    "version": "0.1.0",
+    "adoption_date": "2026-11-03",
+    "path": "LICENSE",
+    "sha256": "324458201617d43e9ece6f723994c663e4ce15652ea43f77c9ca04bfa5f39d82",
+    "reviewed_candidate_sha256": "b8795c7e8296ebee3f87f2f2d5b9e49fae6009fe8567360121c5234e6f1df5b6",
+    "sections_1_to_10_sha256": "e95d368c6889c07672647d611c1be6c213bfe17de62a3eb19aa62ca1eb07cb9d",
+    "covered_release": "v0.1.0-rc.2 and later releases expressly carrying this version",
+    "effectiveness": "On first authorized public publication of designated rc.2; prospectively; no automatic rc.1 historical change."
+  }
 }

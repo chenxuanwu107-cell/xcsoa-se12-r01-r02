@@ -2,7 +2,7 @@
 
 **OWNER_AUTHORITY_ATTESTED / INDEPENDENT_TITLE_NOT_ADJUDICATED / LEGAL_REVIEW_REQUIRED**
 
-The proposed Licensor identifies as the natural person publishing as **yidewen**
+The Licensor identifies as the natural person publishing as **yidewen**
 (GitHub: `chenxuanwu107-cell`). In this post-release review, that person expressly
 attested authority to license the covered expression and reported no known
 unresolved third-party, employer, client or joint-author restrictions. This is
@@ -26,8 +26,9 @@ Bare facts and general methods require no invented copyright, and no claim is
 made to exclusive rights in wholly AI-generated or otherwise unprotected matter.
 
 The [rights ledger](../rights-manifest.json) records this new basis and remaining
-uncertainty. The complete [English candidate](../LICENSE) still needs express
-adoption for its stated scope; publication approval of rc.1 was not adoption.
+uncertainty. The complete [English license](../LICENSE) was expressly adopted on 2026-11-03
+for its designated rc.2 scope/effectiveness. Publication approval of rc.1 was
+not adoption; later adoption does not prove independent title clearance.
 Private statements/contracts/custody and original archives remain excluded.
 
 ## Prior audit record before the post-release owner statement

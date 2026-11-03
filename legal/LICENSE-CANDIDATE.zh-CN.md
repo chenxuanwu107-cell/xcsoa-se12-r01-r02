@@ -1,22 +1,23 @@
 # XCSOA Individual & Independent Professional Use License
 
-个人及独立职业使用许可 — v0.1.0 / post-release-finalization-1 采用候选的中文参考译文
+个人及独立职业使用许可 — v0.1.0，2026-11-03 明确采用的中文参考译文
 
-**ADOPTION_CANDIDATE / NOT_EFFECTIVE / CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
+**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
-以下文本供明确采用；仍标 NOT_EFFECTIVE 时不授予生效的项目权利。没有取得律师审核，
-不保证所有法域均可执行。公开 v0.1.0-rc.1 本身未采用许可证。
+许可人已于 2026-11-03 明确采用本文。没有取得律师审核或独立权属裁决，
+不保证所有法域均可执行。
 
-- 拟议许可人：以 **yidewen** 署名发布的自然人（GitHub：`chenxuanwu107-cell`），
-  已由本人确认；授权依据是本人声明，不是独立权属裁决。
-- 拟适用发行：**v0.1.0-rc.2** 及以后明确携带本许可版本的发行，仅限实际持有或获准
-  授予的权利。第三方材料及不受保护材料按正文排除。
-- 拟生效方式：在获准 rc.2 发行声明中记录明确采用后，对指定材料向将来生效；
-  不自动修改 rc.1 的历史 LICENSE，也不声称授权过去未获许可的行为。
-- 拟通知渠道：第十条的非保密 GitHub Issues；保密法律通知须安排适当渠道并遵守适用法。
+- 许可人：以 **yidewen** 署名发布的自然人（GitHub：`chenxuanwu107-cell`），
+  依据本人授权声明，仅限实际持有或有权授予的权利。
+- 适用发行：**v0.1.0-rc.2** 及以后明确携带本许可版本的发行；第三方材料及
+  不受保护材料按正文排除。
+- 生效安排：携带已采用文本的 v0.1.0-rc.2 首次获准公开发布时，以该发行记录的
+  发布时间为准，对指定材料向将来生效。采用本身不发布该发行，不改变 rc.1 的历史
+  LICENSE，也不通过推定授权过去未获许可的行为。
+- 通知渠道：第十条的非保密 GitHub Issues；保密法律通知须安排适当渠道并遵守适用法。
 
-身份、范围、通知方案和确切条款仍待最终采用；[根 LICENSE](../LICENSE) 为英文主导文本。
-本文件不授权推送、创建 Tag 或修改 Release。
+[根 LICENSE](../LICENSE) 为唯一主导英文文本，本文为参考译文。本许可文件本身
+不授权推送、创建 Tag 或修改 Release。
 
 ## 1. 定义与权利范围
 

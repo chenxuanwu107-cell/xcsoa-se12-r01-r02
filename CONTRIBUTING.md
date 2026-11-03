@@ -1,9 +1,10 @@
 # Contributing
 
-This candidate's license is not adopted. External contributions are not currently
-being solicited or accepted under an assumed inbound license. Before opening
-public contributions, adopt the final terms, identify a maintainer/contact, and
-define contributor permissions consistent with the actual platform agreement.
+The Licensor adopted [XCSOA Individual & Independent Professional Use License
+v0.1.0](LICENSE) on 2026-11-03. Its sharing/contribution grants apply according
+to the designated release and prospective effectiveness provisions. rc.1's
+historical pending notice remains unchanged. Public visibility and a PR alone
+do not replace necessary rights or acceptance.
 
 For an authorized review suggestion, identify the concrete problem, exact file
 and version, smallest supported change, source rights, a normal control and a
@@ -22,19 +23,22 @@ Run the local checks described in docs/TESTS.md. Label execution honestly and
 preserve failed attempts. Author checks are not independent professional review.
 No commit, merge, remote push or release is authorized by this file.
 
-Final preparation incorporates [S2](legal/SHARING_OPTIONS.md) in the draft,
-not as an effective grant. Once validly adopted, qualified individuals may share
-noncommercially under the same terms and contribute material they control.
-G1 rc.1 is already public. GitHub-native Fork/PR functionality and platform
-rights remain available independently of project license adoption. After valid
-adoption, S2 provides the additional same-license project sharing/inclusion grant. Contributors must have authority for both project and platform grants;
-a PR does not prove title or create a broader relicensing right.
+## S2 and contribution rights
 
-For proposed S2, a personal account is not proof that an employee owns a patch.
-Personal-capacity contributions of expression actually controlled by that person
-can be reviewed; employer-owned contributions need the actual holder's permission.
-Do not authorize an employee to run the Skill for an employer merely to contribute.
-Lawful factual bug reports and independently written ideas are separate from
-Skill operation or transfer of protected Skill content. Protected Skill contributions are not accepted under an assumed operative
-license before adoption. Independently written ideas and factual bug reports
-may be submitted through Issues now.
+For covered releases, eligible individuals may share the Skill/modifications
+noncommercially under the same license and contribute material they control.
+The contributor grants the same-license inclusion/modification/distribution
+and direct-downstream rights in Section 5; there is no assignment or unrestricted
+relicensing. Organizations receive no project operational grant. GitHub-native
+Fork/PR functionality and applicable platform rights remain separate.
+
+A personal account is not proof that an employee owns a patch. Personal-capacity
+expression can be reviewed; employer/client-owned expression needs actual holder
+permission. Contribution permission does not authorize employee use of the Skill
+for the employer. Identify necessary human/AI/third-party rights without exposing
+private contracts. No contribution is accepted automatically.
+
+Use [Issues](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/issues) for
+independently written ideas and factual bug reports. For protected Skill patches,
+use an applicable licensed release and confirm actual authority. Security reports
+follow SECURITY.md; ordinary license notices follow Section 10 of LICENSE.

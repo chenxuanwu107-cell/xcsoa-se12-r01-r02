@@ -1,7 +1,8 @@
 # Reviewed file scope / 审阅文件边界
 
-Revision: post-release-finalization-1; **50 files** in this local successor.
-G1 baseline rc.1 is public. This successor is not pushed and its license is not adopted.
+Revision: license-adoption-1; **50 files** in this local successor.
+G1 baseline rc.1 is public. License v0.1.0 was adopted on 2026-11-03 and specifies prospective rc.2
+effectiveness. This file does not authorize publication; see Releases for status.
 
 - S (11): complete independent Skill folders; method bodies/references unchanged.
 - D (16): README, installation, current license candidate, limitations, roadmap,

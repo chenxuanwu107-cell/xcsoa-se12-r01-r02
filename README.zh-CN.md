@@ -6,7 +6,9 @@
 **v0.1 Research Candidate · 首个公开预览已发布**
 
 已发布基线：[v0.1.0-rc.1](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases/tag/v0.1.0-rc.1)。
-本地发布后修订拟作为 `v0.1.0-rc.2`，尚未发行；定制许可仍为 **NOT EFFECTIVE**，待明确采用。
+制品版本：`v0.1.0-rc.2`。许可人已于 2026-11-03 采用 v0.1.0 许可；
+按根 LICENSE 约定，在指定 rc.2 获准公开时对材料向将来生效。实际发布状态见
+[Releases](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases)，采用本身不发布发行版。
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
@@ -26,7 +28,8 @@ R01 输出需求说明，R02 按实际接收者与用途组织计划。这里不
 
 ## 快速开始
 
-当前候选未授予新的使用权。以下供已获权审阅者，或许可证正式采用后的合格使用者参考：
+已采用许可的适用发行及生效安排见根 LICENSE。以下供已获权审阅者，或许可对指定
+发行生效后的合格使用者参考：
 
 1. 阅读所选 Skill 的 `SKILL.md`，按需读取其内部参考。
 2. 提供原始需求、相关来源版本、受众、消费用途和已有动作权限。
@@ -55,9 +58,9 @@ Codex 可将所选完整 Skill 文件夹复制到项目 `.agents/skills/`。
 公开发行不等于生产资格、真实效果验证、模型遵从或现役玄武 Skill 激活。
 没有 Benchmark 分数、通过率、用户数量或效果提升声明。
 
-## 许可政策候选
+## 许可证
 
-拟采用 `XCSOA Individual & Independent Professional Use License`：允许个人商业项目、
+已采用 `XCSOA Individual & Independent Professional Use License v0.1.0`：允许个人商业项目、
 独立开发者及自由职业者接企业付费订单并交付普通工作成果；企业可正常使用、修改、
 出售或许可合法成果。成果不得夹带 Skill 本体、其受保护内容的实质性复制或运行访问权。
 企业部署、员工代表企业运行、企业 API、组织集成及代理规避不在授权范围内。
@@ -66,8 +69,9 @@ Codex 可将所选完整 Skill 文件夹复制到项目 `.agents/skills/`。
 但不因此取得超出平台条款及法定例外的 Skill 商业运行权。当前 GitHub 条款另含平台及
 关联方 AI 权利，定制许可不能撤销；详见[法律审查](legal/REVIEW.md)。
 
-[根 LICENSE](LICENSE)已放入完整英文采用候选，仍未生效；拟议许可人为自然人本人，
-署名 **yidewen（GitHub: chenxuanwu107-cell）**，依据本人授权声明，不冒称独立权属裁决。
+[根 LICENSE](LICENSE)为完整英文已采用文本；许可人为自然人本人，
+署名 **yidewen（GitHub: chenxuanwu107-cell）**，于 2026-11-03 明确采用。
+依据本人授权声明，不冒称独立权属裁决或律师认证；按正文指定发行与生效安排适用。
 [英文入口](legal/LICENSE-CANDIDATE.en.md)、
 [中文参考译文](legal/LICENSE-CANDIDATE.zh-CN.md)及[场景 FAQ](legal/FAQ.md)尚未经律师审核。
 MIT、Apache-2.0、CC BY-NC-SA、PolyForm Noncommercial 均不作为最终建议或已采用许可。
@@ -84,9 +88,9 @@ rc.1 已公开；本地后续修订未推送，不修改既有 Release 或 Tag�
 
 ## 本次发行政策与兼容性披露
 
-最终准备文本已整合 S2：合格个人可按同许可非商业分享 Skill 与修改版、提交有权贡献的
+已采用文本整合 S2：合格个人可按同许可非商业分享 Skill 与修改版、提交有权贡献的
 内容，并通过个人项目和独立职业服务盈利。不增加企业运行或转售 Skill 的许可。
-当前仍是未生效文本，须完成权利与正式采用批准。
+授权仅限实际可授予的权利，并依根 LICENSE 的适用发行与生效安排实施。
 
 G1 全量 GitHub 已按明确批准完成 rc.1 首次公开，实际仓库为
 [chenxuanwu107-cell/xcsoa-se12-r01-r02](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02)。
@@ -96,7 +100,7 @@ G1 全量 GitHub 已按明确批准完成 rc.1 首次公开，实际仓库为
 **Codex Native Compatibility：UNVERIFIED。** 实际原生初始化受阻，发现与显式调用均
 NOT_RUN，见[原生验收](NATIVE_ACCEPTANCE_REPORT.md)和[安装说明](docs/QUICK_START.md)。
 历史有限本地模型 Smoke 单独记录，保留 R02 证据状态措辞问题，不构成一般行为资格。
-本研究候选公开不以 Native PASS 为前提，但必须完成权利与许可证批准。
+本研究候选公开不以 Native PASS 为前提；许可采用不替代具体发布批准。
 
 后续还有 R03-R12 十个岗位逐步研究、审查和发布；本仓库不包含或宣称其资格。
 见[路线图](ROADMAP.md)。普通 R01/R02 使用不要求安装十二岗位体系。

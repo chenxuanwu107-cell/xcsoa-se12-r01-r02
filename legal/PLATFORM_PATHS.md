@@ -5,7 +5,8 @@ G1 full GitHub publication is confirmed for
 `chenxuanwu107-cell/xcsoa-se12-r01-r02`. The publisher accepts applicable
 public-repository platform/affiliate grants, and rc.1 was published after exact
 action approval. That approval did not adopt a project license. This local
-successor requires separate adoption/update approval.
+successor now has express license adoption dated 2026-11-03; publication/update
+approval remains separate.
 No remote or platform setting is created by this document.
 
 ## Required platform disclosure
@@ -57,7 +58,7 @@ to GitHub and described as G2 merely because its README links elsewhere.
 | User installation | One source/download location, copy chosen folder | Follow the approved external delivery link, verify the version, copy chosen folder |
 | S2 contribution route | Rights-cleared Fork/PR after license/platform approval | Separate approved contribution channel; no Skill patches in introduction-repo Issues/PRs |
 | Maintenance | One host, with platform/inbound-rights obligations | Separate delivery integrity, contribution handling and link/version maintenance |
-| Direction / final authorization | rc.1 public; successor update/adoption pending | Fallback only; not selected or approved |
+| Direction / final authorization | rc.1 public; license adopted; successor update approval separate | Fallback only; not selected or approved |
 
 This comparison does not itself adopt a license or authorize repository creation
 or upload. G2 needs a separately reviewed introduction tree;

@@ -14,23 +14,25 @@ host compatibility and professional behavior are not certified.
 局部未知与最小交接。明确普通问题直接回答，不必做需求访谈或十二岗位会签。
 
 Research: W8 HUMAN_FREEZE_PENDING; original method core retained, W4 patches
-not adopted. MODEL_BEHAVIOR_NOT_RUN. The repository's pending custom license
+not adopted. MODEL_BEHAVIOR_NOT_RUN. The repository's custom license
 also applies to this folder; standalone packaging does not imply redistribution
 permission or a separate enterprise grant.
 
 ## Package identity and license declaration
 
-Published baseline: **0.1.0-rc.1**. Proposed successor: **0.1.0-rc.2**, not released.
+Published baseline: **0.1.0-rc.1**. Package version: **0.1.0-rc.2**.
+See the source repository Releases for actual publication status.
 Packaging baseline: **codex-native-packaging-1**; this standalone notice was
 completed during native user acceptance, without a method revision.
 
-**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / LICENSE_ADOPTION_PENDING**.
-The proposed license is **XCSOA Individual & Independent Professional Use License**.
-No operative project license has been adopted. The rc.1 research preview is public;
-this notice grants no distribution or operational permission. Existing
+**CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED / LICENSE_ADOPTED_FOR_RC2**.
+The adopted license is **XCSOA Individual & Independent Professional Use License v0.1.0**.
+Its grant applies prospectively on authorized public release of the designated
+rc.2 material. This notice grants no additional permission. Existing
 task-specific permissions, mandatory legal exceptions and applicable platform
-rights are unaffected. The full non-effective English adoption candidate is in
-the source distribution's root LICENSE, with a Chinese reference translation.
-Proposed Licensor: yidewen, the natural person publishing as chenxuanwu107-cell.
+rights are unaffected. The full adopted English text and its covered
+release/effectiveness provisions are in the source distribution's root LICENSE,
+with a Chinese reference translation. Licensor: yidewen, the natural person
+publishing as chenxuanwu107-cell. Adoption confirmed 2026-11-03.
 Keep the source license and provenance notices with any permitted shared copy. This notice is neither a formal license nor evidence of
 copyright clearance, legal review, native compatibility or production qualification.

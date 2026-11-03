@@ -5,11 +5,13 @@ enforceability certification, or established chain of title is asserted.
 
 ## Post-release decision record
 
-rc.1 is public. The proposed Licensor now identifies as the natural person
+rc.1 is public. The Licensor now identifies as the natural person
 publishing as yidewen (GitHub: chenxuanwu107-cell) and attests authority over the
 covered expression with no known unresolved rights restrictions. This is not
 independent title adjudication or professional legal review. The complete
-English candidate is now the root LICENSE. Final adoption remains pending.
+English text is the root LICENSE. The owner expressly adopted the exact terms
+on 2026-11-03, effective prospectively on authorized rc.2 publication. Publication
+approval remains separate; no professional legal review is implied.
 
 The following preparation analysis is retained as historical research. Identity
 and G1 publication statements in it describe the earlier review state; the

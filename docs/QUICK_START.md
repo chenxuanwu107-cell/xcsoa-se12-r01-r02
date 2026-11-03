@@ -1,15 +1,16 @@
 # Codex Quick Start / 复制文件夹即可安装
 
-**Research Candidate / LICENSE_ADOPTION_PENDING / LEGAL_REVIEW_REQUIRED.**
-The license candidate is not effective. These steps grant no additional rights;
+**Research Candidate / LICENSE_ADOPTED_FOR_RC2 / LEGAL_REVIEW_REQUIRED.**
+The adopted license specifies its covered releases/effectiveness. These steps grant no additional rights;
 retain the source distribution's LICENSE, legal notices and research status.
 Cloud use also needs an applicable cleared configuration; see
 [personal use](PERSONAL_USE.md). No global configuration change is needed.
 
-Get the reviewed source snapshot from the
-[published rc.1 release](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases/tag/v0.1.0-rc.1)
-or repository. Public availability alone does not adopt the pending license.
-This local successor proposes rc.2 without changing the professional method.
+Get a covered version carrying the adopted license from
+[Releases](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases)
+or the repository. rc.1 retains its historical pending notice. The rc.2 package
+retains the professional method and carries the adopted license, effective
+prospectively on its authorized public release.
 
 ## Copy one complete folder
 
@@ -131,8 +132,8 @@ NOT_RUN. The separate historical local smoke does not certify native Codex use.
 Research-publication scope: the v0.1 candidate can be considered for publication
 with Native Compatibility UNVERIFIED; the SQLite block is not a requirement to
 rewrite the Skill or obtain a compatibility PASS before research distribution.
-The rc.1 research preview is public; license adoption and approval of this local
-successor remain pending. The proposed Licensor has supplied an authority
-statement; it is not independent legal clearance. Read the root LICENSE and FAQ
+The rc.1 research preview is public. License adoption for rc.2 is confirmed;
+successor publication approval remains separate. The Licensor has supplied an
+authority statement; it is not independent legal clearance. Read the root LICENSE and FAQ
 for S2, individual cloud processing and enterprise-use boundaries.
 See [Roadmap](../ROADMAP.md) for the ten future positions; they are not dependencies.

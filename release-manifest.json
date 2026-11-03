@@ -2,7 +2,7 @@
   "release_candidate": "0.1.0-rc.2",
   "prepublication_revision": 2,
   "baseline_commit": "ea8aa5b63cf2aaeed1ce0f415d1e2880fed72520",
-  "status": "LOCAL_POST_RELEASE_REVIEW_HOLD_PUSH_LICENSE_ADOPTION_PENDING",
+  "status": "RC2_LICENSE_ADOPTED_PUBLICATION_REQUIRES_SEPARATE_AUTHORIZATION",
   "self_exclusion": "This manifest excludes itself; final commit/external receipt binds exact bytes.",
   "files": [
     {
@@ -12,23 +12,23 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 4661,
-      "sha256": "11bcc669f1ef3f43f0a8457b503fb2eed5ad68904745bd41abed256295bd3139"
+      "bytes": 5175,
+      "sha256": "4eb64bbd3743c8905568ec589b0bc1bb3532f302d00aec6d2d9b8aee5e201438"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 2674,
-      "sha256": "8f2a2fe634170f29e056dab8191cafd33f80d0a2ff13b97561fb648eb239d773"
+      "bytes": 2661,
+      "sha256": "03c6b0cb8554df46874b1ec64d9565e09b8285446639e2756da68d685a8fdc9b"
     },
     {
       "path": "FILE_LIST.md",
-      "bytes": 5726,
-      "sha256": "9757309c27c7060cf47f9024d960d5e906e3ff82479bcf35109d8e82b135b93a"
+      "bytes": 5810,
+      "sha256": "307e06ec664a800a5ac511c5ac91b9090522657cc36259f1c54dac3a02e7032e"
     },
     {
       "path": "LICENSE",
-      "bytes": 18125,
-      "sha256": "b8795c7e8296ebee3f87f2f2d5b9e49fae6009fe8567360121c5234e6f1df5b6"
+      "bytes": 17920,
+      "sha256": "324458201617d43e9ece6f723994c663e4ce15652ea43f77c9ca04bfa5f39d82"
     },
     {
       "path": "NATIVE_ACCEPTANCE_REPORT.md",
@@ -37,13 +37,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 7874,
-      "sha256": "4e0ff5271213a281f3414e17ccb50b76d0f78bfa1488abad854ab299ea17a5f4"
+      "bytes": 8143,
+      "sha256": "f9b15c427979548003587fc735fab99318baf34bdd5687a53a71aeb1de932993"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 6722,
-      "sha256": "00ea56c3fb08763ab4fd801028bd3fb3a5b1734d8ecec1be531dbefea76287e6"
+      "bytes": 7017,
+      "sha256": "8e782b36f9c9428f24a5071745cc1bf7afd09da089b7b4963ad5cf88cf69ee9d"
     },
     {
       "path": "ROADMAP.md",
@@ -62,13 +62,13 @@
     },
     {
       "path": "docs/PERSONAL_USE.md",
-      "bytes": 3204,
-      "sha256": "28256b0ddc42acd6c0147081147a675795338787b51ff60bea75c8354a0b5dda"
+      "bytes": 3329,
+      "sha256": "483fe5c0b6f98e2fc93430d65c6de6c818d50cbe8ab498415268c35f9ce48c0f"
     },
     {
       "path": "docs/QUICK_START.md",
-      "bytes": 6131,
-      "sha256": "a1ae0b7c65da34f26fc740f25a51d706f42ce23326c488dfc2d835406edbc9df"
+      "bytes": 6199,
+      "sha256": "547eb23c68059c2d994e75a0983d555f1f1e327fdfb0948f92c8233ef8974470"
     },
     {
       "path": "docs/RESEARCH_STATUS.md",
@@ -82,48 +82,48 @@
     },
     {
       "path": "legal/CLOUD_PROCESSING.md",
-      "bytes": 8053,
-      "sha256": "37f275ee3b528efe45dce18e2951b057fa481554d37f096dd576b0f277d132b8"
+      "bytes": 8152,
+      "sha256": "fa8ce1223bdc38087c4dea1c3261c974f1dc0f24375bc2db8307bf4c8839bbd4"
     },
     {
       "path": "legal/FAQ.md",
-      "bytes": 5768,
-      "sha256": "ef7e1e043b7b8965b497202e47f98739ae4a4777b57350b058361cd2ecc92863"
+      "bytes": 5950,
+      "sha256": "8e784bb8f649d4a0a108223da3e9fb0c1ad2daf7a51c82f7c7008665bedd4ebe"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.en.md",
-      "bytes": 643,
-      "sha256": "8295afcfa1f7f1c75e8525fd2f42003ac2a3874555198828d0f5ee46c165534f"
+      "bytes": 706,
+      "sha256": "8a35bd0dab3bd96c15938ecd9873a28d7ce6a0996935aacb2cd34e5ba87f8013"
     },
     {
       "path": "legal/LICENSE-CANDIDATE.zh-CN.md",
-      "bytes": 13533,
-      "sha256": "ac5675a6a86492d85b57ff773e129622ae949960a521351d6c2ae8a611a5327a"
+      "bytes": 13415,
+      "sha256": "55dcbb796f9f47223a313f2e1b14cb956b8ffea60d623c3ce75a15275262ea75"
     },
     {
       "path": "legal/PLATFORM_PATHS.md",
-      "bytes": 4341,
-      "sha256": "3a89b32c82203dc47af78248fa9b0cdbcc606ed27005378891c6809a67db18f2"
+      "bytes": 4412,
+      "sha256": "c9399c445091489b4c8a91fc937a0e2a4c538094abef801eb7c81fa78fa74854"
     },
     {
       "path": "legal/REVIEW.md",
-      "bytes": 9161,
-      "sha256": "cca8c472cb3653784b4f93695b7d5ad5d3fe6ff3ee8f8b377c0dfe9dd2b386e6"
+      "bytes": 9306,
+      "sha256": "e8e656578b45fb32bb6c016ff1a0eb33606e4151989159e3fd6cafed7b7a6afc"
     },
     {
       "path": "legal/RIGHTS_AUDIT.md",
-      "bytes": 11510,
-      "sha256": "0fb0f0f5701b002ecdcf042ea1cd52696f01fb5157ec8971ac3e5742da7628ec"
+      "bytes": 11588,
+      "sha256": "3e55a099fb947cb5a90883e825d5dddcd2d89671c06420f2bb19d66ce7ba736b"
     },
     {
       "path": "legal/RISK_MATRIX.md",
-      "bytes": 2577,
-      "sha256": "73996e0b3ca6d6762d1335c2baf7486b590496193fbb9c61f680b316f8f4f7ab"
+      "bytes": 2658,
+      "sha256": "ed471c11c3840fae6916abffc3cdb7e0bdd55280b1d18a937f2afb84135aa30d"
     },
     {
       "path": "legal/SHARING_OPTIONS.md",
-      "bytes": 1458,
-      "sha256": "3b0b16acdb8bb2a4fc191f9ed248acc101689d79e79a880347997b6eee285d3f"
+      "bytes": 1522,
+      "sha256": "f4ac3cd9d4ca38f9e234bd1b4d24e34e4ed4b557fd2bc0bb8def1650b7c34a1c"
     },
     {
       "path": "provenance/ADAPTATION.md",
@@ -137,8 +137,8 @@
     },
     {
       "path": "reports/FINAL_PUBLICATION_REVIEW.md",
-      "bytes": 5194,
-      "sha256": "43dc4ce151441f3449bebc4e0a4d912c22ea84e92c65af56248eb99c1cf4869c"
+      "bytes": 2737,
+      "sha256": "266923e2c4af34a2f6edece5120c79c2c0e03392c31a49e91633b15d7171a0f2"
     },
     {
       "path": "reports/PREPUBLICATION_2.md",
@@ -177,13 +177,13 @@
     },
     {
       "path": "rights-manifest.json",
-      "bytes": 188148,
-      "sha256": "5abda041f9669bedb0426a5ce3529e3fa0ef6d03f1f54b3c024e565c5cadd67b"
+      "bytes": 196648,
+      "sha256": "7f8b6d5f2b97ff9fd01fc6372f167b70e49b9677f6c369b4e251b098b487fc27"
     },
     {
       "path": "skills/r01-requirements/README.md",
-      "bytes": 2264,
-      "sha256": "903d5e8a95dfb920b214091034798b00d2b7851c6de1f09c78c5bca603b94984"
+      "bytes": 2355,
+      "sha256": "afddd85466bf2d2236f2e82284c3d40b98df78dcc90576718b8e4051d1109a6f"
     },
     {
       "path": "skills/r01-requirements/SKILL.md",
@@ -207,8 +207,8 @@
     },
     {
       "path": "skills/r02-coordination/README.md",
-      "bytes": 2284,
-      "sha256": "3397fdc5fb0ef7cbb2ecd9592d6b9f29c4971e4bdc03a16c67fe92e89f672fca"
+      "bytes": 2375,
+      "sha256": "43714f1b871bb30c5897a2ec57253b79d3218a3ec97ff9881656a2864af81e3c"
     },
     {
       "path": "skills/r02-coordination/SKILL.md",
@@ -257,14 +257,12 @@
   "acceptance_baseline_commit": "73ed3ad5215f2ab2e8a637e07385fe9812be4f11",
   "publication_preparation": "publication-prep-1",
   "release_title": "v0.1 Research Candidate",
-  "proposed_tag": "v0.1.0-rc.2_NOT_CREATED",
   "publication_baseline_commit": "11788e36527e7cdc834f81f34bf842b632b8dbd3",
-  "license_draft_version": "0.1.0_NOT_EFFECTIVE",
   "release_closure_revision": 1,
   "closure_baseline_commit": "d9d06d6acbbe80fd000e7316096bbbb4569e74d0",
-  "final_distribution_route": "G1_IMPLEMENTED_FOR_RC1_SUCCESSOR_NOT_PUSHED",
-  "license_review_revision": "post-release-finalization-1_NOT_EFFECTIVE",
-  "final_publication_preparation": "post-release-finalization-1",
+  "final_distribution_route": "G1_PUBLIC_REPOSITORY_RC1_RELEASE_EXISTS",
+  "license_review_revision": "license-adoption-1_LEGAL_REVIEW_REQUIRED",
+  "final_publication_preparation": "license-adoption-1",
   "final_preparation_baseline_commit": "e44a82679ca01bea465ab1cb3120a305f38a6232",
   "target_repository": "chenxuanwu107-cell/xcsoa-se12-r01-r02",
   "published_baseline": {
@@ -273,5 +271,8 @@
     "tree": "2c77852c02f5e8296c2bb258b3f8732624e54387",
     "status": "PUBLIC_PRE_RELEASE_LICENSE_NOT_EFFECTIVE"
   },
-  "scope_notice": "This local successor preserves the rc.1 professional methods; no adoption, push, tag or Release update has occurred."
+  "scope_notice": "Reviewed v0.1.0 license terms adopted 2026-11-03; professional methods unchanged. This manifest does not authorize remote operations; exact publication is a separate action.",
+  "license_version": "0.1.0",
+  "license_state": "ADOPTED_2026-11-03_EFFECTIVE_ON_AUTHORIZED_RC2_PUBLICATION",
+  "target_tag": "v0.1.0-rc.2"
 }

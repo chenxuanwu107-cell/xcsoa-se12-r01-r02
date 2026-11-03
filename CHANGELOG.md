@@ -1,5 +1,14 @@
 # Changelog
 
+## License v0.1.0 adopted — 2026-11-03 — designated for rc.2
+
+- Owner expressly adopted the exact reviewed terms, public identity, scope,
+  effectiveness and notices. English and Chinese sections 1–10 unchanged.
+- Effectiveness is prospective on authorized rc.2 public publication; adopting
+  the license does not itself authorize a push or rewrite rc.1.
+- Synchronized license status and entrypoint notices. No method, test design,
+  model/native qualification or independent rights/legal clearance added.
+
 ## post-release-finalization-1 — proposed v0.1.0-rc.2, NOT RELEASED
 
 - Preserved public rc.1 commit/tag/Release; no professional-method change.

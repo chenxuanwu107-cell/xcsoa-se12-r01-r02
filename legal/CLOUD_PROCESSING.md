@@ -1,11 +1,12 @@
-# A — Personal cloud-model use: proposed processing boundary
+# Personal cloud-model use: adopted processing boundary, configuration unverified
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**.
-Draft revision: prepublication-1, 2026-11-03. No permission is effective yet.
+Section 4 was adopted on 2026-11-03, effective prospectively on authorized rc.2
+publication. The product observations below retain their prepublication-1 date/scope.
 No customer account, settings, contract, model call or cloud upload was inspected
-or exercised. This is a conditional drafting route, not a service certification.
+or exercised. This is a conditional processing boundary, not a service certification.
 
-## Proposed distinction
+## Adopted distinction
 
 An eligible Individual can use a computing/model provider as a **technical
 processor for that Individual's permitted task** without giving an enterprise
@@ -14,11 +15,11 @@ permission to the provider for the actual processing; the provider's corporate
 status cannot be wished away. It is distinct from the forbidden arrangement in
 which the freelancer merely operates the customer's Skill service by proxy.
 
-The [English candidate, Section 4](../LICENSE#4-no-organizational-operational-license-no-circumvention)
-proposes that distinction, subject to legal and rights-holder approval. It would
-cover necessary transmission, temporary copying, inference, task storage,
+The [English license, Section 4](../LICENSE#4-no-organizational-operational-license-no-circumvention)
+adopts that distinction for the designated covered releases. It covers necessary
+transmission, temporary copying, inference, task storage,
 security/abuse handling, lawful retention, and necessary sub-processors only to
-the documented extent accepted for a particular product. It would grant no
+the documented extent accepted for a particular product. It grants no
 standalone Skill exploitation, resale, customer API, organizational deployment,
 public GPT/plugin listing, unrelated model training or general product
 improvement permission. An account's personal label alone proves none of this.
@@ -28,7 +29,7 @@ rights-holder permission, a different contract/product, or a different execution
 route. The custom license cannot amend a provider's agreement, bind an
 unassenting provider, or authorize the Individual to promise rights not held.
 
-## Official-source observations
+## Historical official-source observations
 
 These describe retrieved public texts, not the user's actual agreement. Product,
 region, effective date, account/customer identity, feature and settings matter.

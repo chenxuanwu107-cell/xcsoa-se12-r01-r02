@@ -6,8 +6,10 @@ and engineering coordination/handoff. No Xuanwu AI installation is required.
 **v0.1 Research Candidate · first public preview released**
 
 Published baseline: [v0.1.0-rc.1](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases/tag/v0.1.0-rc.1).
-This local post-release revision proposes `v0.1.0-rc.2`; it is not released and
-the custom license is **NOT EFFECTIVE** pending express adoption.
+Package version: `v0.1.0-rc.2`. License v0.1.0 was adopted on 2026-11-03
+and applies prospectively from authorized public publication of the designated
+rc.2 release. See [Releases](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02/releases)
+for actual publication status; adoption alone does not publish it.
 
 **CUSTOM_LICENSE / SOURCE_AVAILABLE / LEGAL_REVIEW_REQUIRED**
 
@@ -28,9 +30,9 @@ and static release checks, not a scheduler, runtime, authority service, or model
 
 ## Quick start
 
-This candidate grants no new use rights until the verified licensor adopts the
-license. The following is an installation/use example for an authorized reviewer
-or a future eligible user after adoption.
+The adopted license specifies its covered releases and prospective effectiveness.
+The following is an installation/use example for an authorized reviewer or an
+eligible user once the license applies to the designated release.
 
 1. Read the chosen `SKILL.md` and its local references when relevant.
 2. Give the assistant the original request, relevant source revisions, audience,
@@ -67,9 +69,9 @@ Public distribution would not establish production qualification, real-world
 benefit, or activation of an existing Xuanwu skill. No benchmark score, success
 rate, adoption count, or professional effectiveness result is claimed.
 
-## Proposed license
+## License
 
-The proposed **XCSOA Individual & Independent Professional Use License** permits
+The adopted **XCSOA Individual & Independent Professional Use License v0.1.0** permits
 individual commercial projects and independent freelancers serving paid
 enterprise clients, while withholding organizational operational use of the
 Skill. Customers can use and commercialize ordinary deliverables that do not
@@ -82,10 +84,10 @@ additional enterprise operational rights; applicable platform rights and legal
 exceptions remain. The current GitHub terms include platform and affiliate AI
 rights that this license cannot remove; see [legal review](legal/REVIEW.md).
 
-The complete English adoption candidate is in the root [LICENSE](LICENSE),
-with proposed Licensor **yidewen** (the natural person publishing as
-`chenxuanwu107-cell`), based on that person's authority statement. This is not
-independent title clearance or license adoption. Read the [English pointer](legal/LICENSE-CANDIDATE.en.md),
+The complete English adopted text is in the root [LICENSE](LICENSE). Licensor:
+**yidewen**, the natural person publishing as `chenxuanwu107-cell`, based on
+that person's authority statement and express adoption on 2026-11-03. This is
+not independent title clearance or professional legal review. Read the [English pointer](legal/LICENSE-CANDIDATE.en.md),
 [Chinese reference translation](legal/LICENSE-CANDIDATE.zh-CN.md), and
 [scenario FAQ](legal/FAQ.md). MIT, Apache-2.0, CC BY-NC-SA, and PolyForm
 Noncommercial are not final-license recommendations or adopted alternatives.
@@ -106,17 +108,18 @@ by these documents.
 
 ## Publication policy and compatibility disclosure
 
-S2 is incorporated in the final preparation license draft: eligible individuals
+S2 is incorporated in the adopted license: eligible individuals
 may share the Skill/modifications noncommercially under the same license,
 contribute material they control, and earn income from independent professional
-work. No enterprise Skill operation or resale grant is added. The draft remains
-NOT EFFECTIVE until rights and adoption approval are complete.
+work. No enterprise Skill operation or resale grant is added. The grant applies
+only to actual controlled rights and according to the root license's covered
+release/effectiveness provisions.
 
 G1 full GitHub publication was carried out at
 [chenxuanwu107-cell/xcsoa-se12-r01-r02](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02)
 for rc.1 after explicit publication approval. That approval did not adopt the
 license. The custom restriction cannot withdraw applicable platform rights.
-This successor revision still needs separate approval. See [platform disclosure](legal/PLATFORM_PATHS.md).
+Further publication/update actions require separate authorization. See [platform disclosure](legal/PLATFORM_PATHS.md).
 
 **Codex native compatibility is UNVERIFIED.** Actual native initialization was
 blocked; discovery and explicit invocation are NOT_RUN. See
@@ -124,7 +127,7 @@ blocked; discovery and explicit invocation are NOT_RUN. See
 The limited historical local-model smoke is separate evidence, with an unresolved
 R02 evidence-state wording caveat. No general behavior qualification is claimed.
 Native Compatibility PASS is not required to publish this accurately labeled
-research candidate; rights and license approval remain required.
+research candidate; license adoption does not replace publication approval.
 
 R03-R12 are ten future positions for gradual separate research/review and release;
 they are not included or qualified here. See [Roadmap](ROADMAP.md). Ordinary use
